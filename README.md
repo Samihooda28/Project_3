@@ -1,10 +1,10 @@
 # Project_3
 
 **Tools:** 
-Data clean - jupyter, pandas, python - Mireille 
-Database - sqlPostGres - export .sqlite
-Api - Python Flask
-Dashboard - javascript, html
+- Data clean - jupyter, pandas, python - Mireille 
+- Database - sqlPostGres - export .sqlite
+- Api - Python Flask
+- Dashboard - javascript, html
 
 **Week 1**
 - Data clean - jupyter, pandas, python
