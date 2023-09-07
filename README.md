@@ -7,12 +7,12 @@ Api - Python Flask
 Dashboard - javascript, html
 
 **Week 1**
-Data clean - jupyter, pandas, python
-Database - sqlPostGres
-Api - Python Flask
+- Data clean - jupyter, pandas, python
+- Database - sqlPostGres
+- Api - Python Flask
 
 **Week 2**
-Dashboard & Presentation 
+- Dashboard & Presentation 
 
 **Notes on dataset** 
 Datasources:
