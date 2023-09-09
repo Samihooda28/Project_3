@@ -1,19 +1,19 @@
-Continent,Indicator_Category,Continent Deaths,% Deaths
-Africa,"Infectious, parasitic, neonatal and nutritional","1,264,387",58.1%
-Africa,Injuries,"409,520",18.8%
-Africa,Noncommunicable diseases,"502,448",23.1%
-Americas,"Infectious, parasitic, neonatal and nutritional","58,204",6.9%
-Americas,Injuries,"180,000",21.3%
-Americas,Noncommunicable diseases,"608,683",71.9%
-Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","240,077",28.1%
-Eastern Mediterranean,Injuries,"166,038",19.4%
-Eastern Mediterranean,Noncommunicable diseases,"448,284",52.5%
-Europe,"Infectious, parasitic, neonatal and nutritional","26,966",1.9%
-Europe,Injuries,"145,278",10.3%
-Europe,Noncommunicable diseases,"1,243,502",87.8%
-South-East Asia,"Infectious, parasitic, neonatal and nutritional","802,997",21.0%
-South-East Asia,Injuries,"642,498",16.8%
-South-East Asia,Noncommunicable diseases,"2,375,750",62.2%
-Western Pacific,"Infectious, parasitic, neonatal and nutritional","111,051",3.2%
-Western Pacific,Injuries,"406,750",11.6%
-Western Pacific,Noncommunicable diseases,"2,992,059",85.2%
+Continent,Indicator_Category,Continent Deaths,Continent Population,Indicator Deaths % Total Deaths,Indicator Deaths % Total Population
+Africa,"Infectious, parasitic, neonatal and nutritional",1264387,1022825302.0,58.1%,0.1236%
+Africa,Injuries,409520,1022825302.0,18.8%,0.0400%
+Africa,Noncommunicable diseases,502448,1022825302.0,23.1%,0.0491%
+Americas,"Infectious, parasitic, neonatal and nutritional",58204,982865966.0,6.9%,0.0059%
+Americas,Injuries,180000,982865966.0,21.3%,0.0183%
+Americas,Noncommunicable diseases,608683,982865966.0,71.9%,0.0619%
+Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",240077,697040699.0,28.1%,0.0344%
+Eastern Mediterranean,Injuries,166038,697040699.0,19.4%,0.0238%
+Eastern Mediterranean,Noncommunicable diseases,448284,697040699.0,52.5%,0.0643%
+Europe,"Infectious, parasitic, neonatal and nutritional",26966,919175473.0,1.9%,0.0029%
+Europe,Injuries,145278,919175473.0,10.3%,0.0158%
+Europe,Noncommunicable diseases,1243502,919175473.0,87.8%,0.1353%
+South-East Asia,"Infectious, parasitic, neonatal and nutritional",802997,1959875342.0,21.0%,0.0410%
+South-East Asia,Injuries,642498,1959875342.0,16.8%,0.0328%
+South-East Asia,Noncommunicable diseases,2375750,1959875342.0,62.2%,0.1212%
+Western Pacific,"Infectious, parasitic, neonatal and nutritional",111051,1867452785.0,3.2%,0.0059%
+Western Pacific,Injuries,406750,1867452785.0,11.6%,0.0218%
+Western Pacific,Noncommunicable diseases,2992059,1867452785.0,85.2%,0.1602%
