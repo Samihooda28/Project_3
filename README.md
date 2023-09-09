@@ -24,3 +24,7 @@ Datasources:
 - Bubble chart showing total deaths by category (marker size = total deaths)
 - Map with markers showing name of country, and key:value = category:total deaths
 - Pie chart total deaths per country - top 10
+
+**References**
+
+- eumiro, edited by AMC, StackOverflow, 16 Feb 2020, "How to drop rows of Pandas DataFrame whose value in a certain column is NaN", https://stackoverflow.com/questions/13413590/how-to-drop-rows-of-pandas-dataframe-whose-value-in-a-certain-column-is-nan, accessed 9 Sept 2023 

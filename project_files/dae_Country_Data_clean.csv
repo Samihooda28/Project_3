@@ -1,0 +1,577 @@
+Country,Continent,Indicator_Category,Country Deaths,% Deaths
+Afghanistan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","29,571",45.4%
+Afghanistan,Eastern Mediterranean,Injuries,"13,086",20.1%
+Afghanistan,Eastern Mediterranean,Noncommunicable diseases,"22,490",34.5%
+Albania,Europe,"Infectious, parasitic, neonatal and nutritional",78,1.2%
+Albania,Europe,Injuries,514,7.6%
+Albania,Europe,Noncommunicable diseases,"6,174",91.3%
+Algeria,Africa,"Infectious, parasitic, neonatal and nutritional","3,806",10.4%
+Algeria,Africa,Injuries,"7,999",21.8%
+Algeria,Africa,Noncommunicable diseases,"24,914",67.9%
+Andorra,Europe,"Infectious, parasitic, neonatal and nutritional",0,0.0%
+Andorra,Europe,Injuries,6,8.8%
+Andorra,Europe,Noncommunicable diseases,62,91.2%
+Angola,Africa,"Infectious, parasitic, neonatal and nutritional","53,081",67.6%
+Angola,Africa,Injuries,"13,502",17.2%
+Angola,Africa,Noncommunicable diseases,"11,952",15.2%
+Antigua and Barbuda,Americas,"Infectious, parasitic, neonatal and nutritional",2,2.7%
+Antigua and Barbuda,Americas,Injuries,10,13.5%
+Antigua and Barbuda,Americas,Noncommunicable diseases,62,83.8%
+Argentina,Americas,"Infectious, parasitic, neonatal and nutritional","1,715",4.2%
+Argentina,Americas,Injuries,"8,316",20.3%
+Argentina,Americas,Noncommunicable diseases,"30,920",75.5%
+Armenia,Europe,"Infectious, parasitic, neonatal and nutritional",124,1.6%
+Armenia,Europe,Injuries,549,7.1%
+Armenia,Europe,Noncommunicable diseases,"7,035",91.3%
+Australia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",224,1.5%
+Australia,Western Pacific,Injuries,"1,774",11.8%
+Australia,Western Pacific,Noncommunicable diseases,"13,063",86.7%
+Austria,Europe,"Infectious, parasitic, neonatal and nutritional",50,0.5%
+Austria,Europe,Injuries,897,9.4%
+Austria,Europe,Noncommunicable diseases,"8,605",90.1%
+Azerbaijan,Europe,"Infectious, parasitic, neonatal and nutritional",826,6.9%
+Azerbaijan,Europe,Injuries,993,8.2%
+Azerbaijan,Europe,Noncommunicable diseases,"10,221",84.9%
+Bahamas,Americas,"Infectious, parasitic, neonatal and nutritional",10,5.0%
+Bahamas,Americas,Injuries,43,21.4%
+Bahamas,Americas,Noncommunicable diseases,148,73.6%
+Bahrain,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",21,4.8%
+Bahrain,Eastern Mediterranean,Injuries,94,21.3%
+Bahrain,Eastern Mediterranean,Noncommunicable diseases,327,74.0%
+Bangladesh,South-East Asia,"Infectious, parasitic, neonatal and nutritional","48,257",23.9%
+Bangladesh,South-East Asia,Injuries,"39,573",19.6%
+Bangladesh,South-East Asia,Noncommunicable diseases,"113,704",56.4%
+Barbados,Americas,"Infectious, parasitic, neonatal and nutritional",10,4.9%
+Barbados,Americas,Injuries,23,11.3%
+Barbados,Americas,Noncommunicable diseases,170,83.7%
+Belarus,Europe,"Infectious, parasitic, neonatal and nutritional",154,0.6%
+Belarus,Europe,Injuries,"3,807",16.0%
+Belarus,Europe,Noncommunicable diseases,"19,848",83.4%
+Belgium,Europe,"Infectious, parasitic, neonatal and nutritional",196,1.5%
+Belgium,Europe,Injuries,"1,529",11.5%
+Belgium,Europe,Noncommunicable diseases,"11,560",87.0%
+Belize,Americas,"Infectious, parasitic, neonatal and nutritional",22,12.4%
+Belize,Americas,Injuries,65,36.5%
+Belize,Americas,Noncommunicable diseases,91,51.1%
+Benin,Africa,"Infectious, parasitic, neonatal and nutritional","11,815",52.9%
+Benin,Africa,Injuries,"3,579",16.0%
+Benin,Africa,Noncommunicable diseases,"6,922",31.0%
+Bhutan,South-East Asia,"Infectious, parasitic, neonatal and nutritional",198,15.7%
+Bhutan,South-East Asia,Injuries,490,38.9%
+Bhutan,South-East Asia,Noncommunicable diseases,571,45.4%
+Bolivia (Plurinational State of),Americas,"Infectious, parasitic, neonatal and nutritional","2,442",18.5%
+Bolivia (Plurinational State of),Americas,Injuries,"3,837",29.0%
+Bolivia (Plurinational State of),Americas,Noncommunicable diseases,"6,942",52.5%
+Bosnia and Herzegovina,Europe,"Infectious, parasitic, neonatal and nutritional",66,0.7%
+Bosnia and Herzegovina,Europe,Injuries,638,6.6%
+Bosnia and Herzegovina,Europe,Noncommunicable diseases,"8,977",92.7%
+Botswana,Africa,"Infectious, parasitic, neonatal and nutritional","1,352",46.5%
+Botswana,Africa,Injuries,610,21.0%
+Botswana,Africa,Noncommunicable diseases,944,32.5%
+Brazil,Americas,"Infectious, parasitic, neonatal and nutritional","17,793",9.1%
+Brazil,Americas,Injuries,"49,568",25.3%
+Brazil,Americas,Noncommunicable diseases,"128,381",65.6%
+Brunei Darussalam,Western Pacific,"Infectious, parasitic, neonatal and nutritional",6,3.6%
+Brunei Darussalam,Western Pacific,Injuries,37,22.0%
+Brunei Darussalam,Western Pacific,Noncommunicable diseases,125,74.4%
+Bulgaria,Europe,"Infectious, parasitic, neonatal and nutritional",120,0.6%
+Bulgaria,Europe,Injuries,923,5.0%
+Bulgaria,Europe,Noncommunicable diseases,"17,511",94.4%
+Burkina Faso,Africa,"Infectious, parasitic, neonatal and nutritional","24,035",57.5%
+Burkina Faso,Africa,Injuries,"7,291",17.4%
+Burkina Faso,Africa,Noncommunicable diseases,"10,480",25.1%
+Burundi,Africa,"Infectious, parasitic, neonatal and nutritional","17,019",57.5%
+Burundi,Africa,Injuries,"6,309",21.3%
+Burundi,Africa,Noncommunicable diseases,"6,252",21.1%
+Cabo Verde,Africa,"Infectious, parasitic, neonatal and nutritional",73,13.7%
+Cabo Verde,Africa,Injuries,91,17.0%
+Cabo Verde,Africa,Noncommunicable diseases,370,69.3%
+Cambodia,Western Pacific,"Infectious, parasitic, neonatal and nutritional","5,841",27.8%
+Cambodia,Western Pacific,Injuries,"4,117",19.6%
+Cambodia,Western Pacific,Noncommunicable diseases,"11,054",52.6%
+Cameroon,Africa,"Infectious, parasitic, neonatal and nutritional","30,628",57.9%
+Cameroon,Africa,Injuries,"9,489",17.9%
+Cameroon,Africa,Noncommunicable diseases,"12,809",24.2%
+Canada,Americas,"Infectious, parasitic, neonatal and nutritional",503,1.9%
+Canada,Americas,Injuries,"3,615",13.7%
+Canada,Americas,Noncommunicable diseases,"22,225",84.4%
+Central African Republic,Africa,"Infectious, parasitic, neonatal and nutritional","11,093",68.7%
+Central African Republic,Africa,Injuries,"2,025",12.5%
+Central African Republic,Africa,Noncommunicable diseases,"3,021",18.7%
+Chad,Africa,"Infectious, parasitic, neonatal and nutritional","32,543",71.8%
+Chad,Africa,Injuries,"5,835",12.9%
+Chad,Africa,Noncommunicable diseases,"6,927",15.3%
+Chile,Americas,"Infectious, parasitic, neonatal and nutritional",262,2.3%
+Chile,Americas,Injuries,"1,683",14.9%
+Chile,Americas,Noncommunicable diseases,"9,337",82.8%
+China,Western Pacific,"Infectious, parasitic, neonatal and nutritional","54,470",1.8%
+China,Western Pacific,Injuries,"324,232",10.9%
+China,Western Pacific,Noncommunicable diseases,"2,607,982",87.3%
+Colombia,Americas,"Infectious, parasitic, neonatal and nutritional","2,534",7.4%
+Colombia,Americas,Injuries,"8,967",26.1%
+Colombia,Americas,Noncommunicable diseases,"22,795",66.5%
+Comoros,Africa,"Infectious, parasitic, neonatal and nutritional",732,48.6%
+Comoros,Africa,Injuries,328,21.8%
+Comoros,Africa,Noncommunicable diseases,447,29.7%
+Congo,Africa,"Infectious, parasitic, neonatal and nutritional","6,659",60.1%
+Congo,Africa,Injuries,"1,579",14.3%
+Congo,Africa,Noncommunicable diseases,"2,840",25.6%
+Costa Rica,Americas,"Infectious, parasitic, neonatal and nutritional",116,3.7%
+Costa Rica,Americas,Injuries,770,24.8%
+Costa Rica,Americas,Noncommunicable diseases,"2,213",71.4%
+Croatia,Europe,"Infectious, parasitic, neonatal and nutritional",32,0.4%
+Croatia,Europe,Injuries,623,8.0%
+Croatia,Europe,Noncommunicable diseases,"7,144",91.6%
+Cuba,Americas,"Infectious, parasitic, neonatal and nutritional",176,1.4%
+Cuba,Americas,Injuries,"2,432",18.8%
+Cuba,Americas,Noncommunicable diseases,"10,323",79.8%
+Cyprus,Europe,"Infectious, parasitic, neonatal and nutritional",9,1.1%
+Cyprus,Europe,Injuries,93,11.4%
+Cyprus,Europe,Noncommunicable diseases,716,87.5%
+Czechia,Europe,"Infectious, parasitic, neonatal and nutritional",154,1.0%
+Czechia,Europe,Injuries,"1,342",8.5%
+Czechia,Europe,Noncommunicable diseases,"14,306",90.5%
+Côte d’Ivoire,Africa,"Infectious, parasitic, neonatal and nutritional","30,828",55.6%
+Côte d’Ivoire,Africa,Injuries,"10,077",18.2%
+Côte d’Ivoire,Africa,Noncommunicable diseases,"14,589",26.3%
+Democratic People's Republic of Korea,South-East Asia,"Infectious, parasitic, neonatal and nutritional","2,821",4.0%
+Democratic People's Republic of Korea,South-East Asia,Injuries,"8,726",12.4%
+Democratic People's Republic of Korea,South-East Asia,Noncommunicable diseases,"58,899",83.6%
+Democratic Republic of the Congo,Africa,"Infectious, parasitic, neonatal and nutritional","163,548",66.0%
+Democratic Republic of the Congo,Africa,Injuries,"39,015",15.7%
+Democratic Republic of the Congo,Africa,Noncommunicable diseases,"45,269",18.3%
+Denmark,Europe,"Infectious, parasitic, neonatal and nutritional",92,1.6%
+Denmark,Europe,Injuries,424,7.6%
+Denmark,Europe,Noncommunicable diseases,"5,098",90.8%
+Djibouti,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",643,45.6%
+Djibouti,Eastern Mediterranean,Injuries,316,22.4%
+Djibouti,Eastern Mediterranean,Noncommunicable diseases,450,31.9%
+Dominica,Americas,"Infectious, parasitic, neonatal and nutritional",6,9.0%
+Dominica,Americas,Injuries,13,19.4%
+Dominica,Americas,Noncommunicable diseases,48,71.6%
+Dominican Republic,Americas,"Infectious, parasitic, neonatal and nutritional",897,9.6%
+Dominican Republic,Americas,Injuries,"2,444",26.1%
+Dominican Republic,Americas,Noncommunicable diseases,"6,020",64.3%
+Ecuador,Americas,"Infectious, parasitic, neonatal and nutritional",973,7.6%
+Ecuador,Americas,Injuries,"4,330",33.8%
+Ecuador,Americas,Noncommunicable diseases,"7,522",58.7%
+Egypt,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","7,283",7.2%
+Egypt,Eastern Mediterranean,Injuries,"10,215",10.0%
+Egypt,Eastern Mediterranean,Noncommunicable diseases,"84,308",82.8%
+El Salvador,Americas,"Infectious, parasitic, neonatal and nutritional",406,5.7%
+El Salvador,Americas,Injuries,"2,345",33.2%
+El Salvador,Americas,Noncommunicable diseases,"4,320",61.1%
+Equatorial Guinea,Africa,"Infectious, parasitic, neonatal and nutritional","1,153",54.8%
+Equatorial Guinea,Africa,Injuries,391,18.6%
+Equatorial Guinea,Africa,Noncommunicable diseases,561,26.7%
+Eritrea,Africa,"Infectious, parasitic, neonatal and nutritional","4,597",46.8%
+Eritrea,Africa,Injuries,"2,214",22.6%
+Eritrea,Africa,Noncommunicable diseases,"3,006",30.6%
+Estonia,Europe,"Infectious, parasitic, neonatal and nutritional",11,0.6%
+Estonia,Europe,Injuries,181,9.3%
+Estonia,Europe,Noncommunicable diseases,"1,756",90.1%
+Eswatini,Africa,"Infectious, parasitic, neonatal and nutritional","1,277",53.5%
+Eswatini,Africa,Injuries,521,21.8%
+Eswatini,Africa,Noncommunicable diseases,590,24.7%
+Ethiopia,Africa,"Infectious, parasitic, neonatal and nutritional","82,032",54.1%
+Ethiopia,Africa,Injuries,"31,007",20.5%
+Ethiopia,Africa,Noncommunicable diseases,"38,510",25.4%
+Fiji,Western Pacific,"Infectious, parasitic, neonatal and nutritional",72,7.8%
+Fiji,Western Pacific,Injuries,222,24.2%
+Fiji,Western Pacific,Noncommunicable diseases,624,68.0%
+Finland,Europe,"Infectious, parasitic, neonatal and nutritional",45,0.8%
+Finland,Europe,Injuries,709,12.7%
+Finland,Europe,Noncommunicable diseases,"4,821",86.5%
+France,Europe,"Infectious, parasitic, neonatal and nutritional","1,115",1.8%
+France,Europe,Injuries,"8,800",14.4%
+France,Europe,Noncommunicable diseases,"51,203",83.8%
+Gabon,Africa,"Infectious, parasitic, neonatal and nutritional","1,603",57.2%
+Gabon,Africa,Injuries,483,17.2%
+Gabon,Africa,Noncommunicable diseases,716,25.6%
+Gambia,Africa,"Infectious, parasitic, neonatal and nutritional","1,894",55.0%
+Gambia,Africa,Injuries,636,18.5%
+Gambia,Africa,Noncommunicable diseases,911,26.5%
+Georgia,Europe,"Infectious, parasitic, neonatal and nutritional",172,1.4%
+Georgia,Europe,Injuries,530,4.3%
+Georgia,Europe,Noncommunicable diseases,"11,660",94.3%
+Germany,Europe,"Infectious, parasitic, neonatal and nutritional","1,630",1.6%
+Germany,Europe,Injuries,"6,697",6.8%
+Germany,Europe,Noncommunicable diseases,"90,544",91.6%
+Ghana,Africa,"Infectious, parasitic, neonatal and nutritional","22,146",46.8%
+Ghana,Africa,Injuries,"7,306",15.4%
+Ghana,Africa,Noncommunicable diseases,"17,886",37.8%
+Greece,Europe,"Infectious, parasitic, neonatal and nutritional",67,0.4%
+Greece,Europe,Injuries,"1,103",6.3%
+Greece,Europe,Noncommunicable diseases,"16,316",93.3%
+Grenada,Americas,"Infectious, parasitic, neonatal and nutritional",5,4.8%
+Grenada,Americas,Injuries,17,16.2%
+Grenada,Americas,Noncommunicable diseases,83,79.0%
+Guatemala,Americas,"Infectious, parasitic, neonatal and nutritional","3,679",26.4%
+Guatemala,Americas,Injuries,"3,822",27.5%
+Guatemala,Americas,Noncommunicable diseases,"6,411",46.1%
+Guinea,Africa,"Infectious, parasitic, neonatal and nutritional","16,421",57.1%
+Guinea,Africa,Injuries,"4,614",16.1%
+Guinea,Africa,Noncommunicable diseases,"7,712",26.8%
+Guinea-Bissau,Africa,"Infectious, parasitic, neonatal and nutritional","2,940",60.4%
+Guinea-Bissau,Africa,Injuries,721,14.8%
+Guinea-Bissau,Africa,Noncommunicable diseases,"1,208",24.8%
+Guyana,Americas,"Infectious, parasitic, neonatal and nutritional",197,17.4%
+Guyana,Americas,Injuries,317,28.1%
+Guyana,Americas,Noncommunicable diseases,615,54.5%
+Haiti,Americas,"Infectious, parasitic, neonatal and nutritional","7,780",37.4%
+Haiti,Americas,Injuries,"2,973",14.3%
+Haiti,Americas,Noncommunicable diseases,"10,065",48.3%
+Honduras,Americas,"Infectious, parasitic, neonatal and nutritional","1,242",17.3%
+Honduras,Americas,Injuries,"1,722",24.0%
+Honduras,Americas,Noncommunicable diseases,"4,209",58.7%
+Hungary,Europe,"Infectious, parasitic, neonatal and nutritional",90,0.4%
+Hungary,Europe,Injuries,"1,507",6.8%
+Hungary,Europe,Noncommunicable diseases,"20,621",92.8%
+Iceland,Europe,"Infectious, parasitic, neonatal and nutritional",2,1.1%
+Iceland,Europe,Injuries,24,12.9%
+Iceland,Europe,Noncommunicable diseases,160,86.0%
+India,South-East Asia,"Infectious, parasitic, neonatal and nutritional","655,338",22.5%
+India,South-East Asia,Injuries,"492,519",16.9%
+India,South-East Asia,Noncommunicable diseases,"1,763,813",60.6%
+Indonesia,South-East Asia,"Infectious, parasitic, neonatal and nutritional","57,012",16.3%
+Indonesia,South-East Asia,Injuries,"45,123",12.9%
+Indonesia,South-East Asia,Noncommunicable diseases,"247,738",70.8%
+Iran (Islamic Republic of),Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","4,624",5.3%
+Iran (Islamic Republic of),Eastern Mediterranean,Injuries,"23,492",26.9%
+Iran (Islamic Republic of),Eastern Mediterranean,Noncommunicable diseases,"59,186",67.8%
+Iraq,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","5,271",15.3%
+Iraq,Eastern Mediterranean,Injuries,"9,167",26.5%
+Iraq,Eastern Mediterranean,Noncommunicable diseases,"20,119",58.2%
+Ireland,Europe,"Infectious, parasitic, neonatal and nutritional",66,1.9%
+Ireland,Europe,Injuries,390,11.5%
+Ireland,Europe,Noncommunicable diseases,"2,944",86.6%
+Israel,Europe,"Infectious, parasitic, neonatal and nutritional",164,3.4%
+Israel,Europe,Injuries,421,8.8%
+Israel,Europe,Noncommunicable diseases,"4,210",87.8%
+Italy,Europe,"Infectious, parasitic, neonatal and nutritional",593,0.8%
+Italy,Europe,Injuries,"5,760",7.6%
+Italy,Europe,Noncommunicable diseases,"69,087",91.6%
+Jamaica,Americas,"Infectious, parasitic, neonatal and nutritional",191,7.0%
+Jamaica,Americas,Injuries,426,15.7%
+Jamaica,Americas,Noncommunicable diseases,"2,097",77.3%
+Japan,Western Pacific,"Infectious, parasitic, neonatal and nutritional","2,378",1.8%
+Japan,Western Pacific,Injuries,"19,500",14.9%
+Japan,Western Pacific,Noncommunicable diseases,"109,401",83.3%
+Jordan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",417,8.7%
+Jordan,Eastern Mediterranean,Injuries,"1,176",24.6%
+Jordan,Eastern Mediterranean,Noncommunicable diseases,"3,181",66.6%
+Kazakhstan,Europe,"Infectious, parasitic, neonatal and nutritional",981,3.1%
+Kazakhstan,Europe,Injuries,"5,288",16.9%
+Kazakhstan,Europe,Noncommunicable diseases,"24,996",79.9%
+Kenya,Africa,"Infectious, parasitic, neonatal and nutritional","46,060",57.1%
+Kenya,Africa,Injuries,"16,541",20.5%
+Kenya,Africa,Noncommunicable diseases,"18,122",22.4%
+Kiribati,Western Pacific,"Infectious, parasitic, neonatal and nutritional",32,26.4%
+Kiribati,Western Pacific,Injuries,31,25.6%
+Kiribati,Western Pacific,Noncommunicable diseases,58,47.9%
+Kuwait,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",74,6.0%
+Kuwait,Eastern Mediterranean,Injuries,255,20.7%
+Kuwait,Eastern Mediterranean,Noncommunicable diseases,900,73.2%
+Kyrgyzstan,Europe,"Infectious, parasitic, neonatal and nutritional",610,7.0%
+Kyrgyzstan,Europe,Injuries,"1,034",11.8%
+Kyrgyzstan,Europe,Noncommunicable diseases,"7,102",81.2%
+Lao People's Democratic Republic,Western Pacific,"Infectious, parasitic, neonatal and nutritional","7,139",47.9%
+Lao People's Democratic Republic,Western Pacific,Injuries,"1,823",12.2%
+Lao People's Democratic Republic,Western Pacific,Noncommunicable diseases,"5,948",39.9%
+Latvia,Europe,"Infectious, parasitic, neonatal and nutritional",26,0.6%
+Latvia,Europe,Injuries,356,8.1%
+Latvia,Europe,Noncommunicable diseases,"4,022",91.3%
+Lebanon,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",94,2.4%
+Lebanon,Eastern Mediterranean,Injuries,639,16.1%
+Lebanon,Eastern Mediterranean,Noncommunicable diseases,"3,232",81.5%
+Lesotho,Africa,"Infectious, parasitic, neonatal and nutritional","2,517",53.0%
+Lesotho,Africa,Injuries,"1,048",22.1%
+Lesotho,Africa,Noncommunicable diseases,"1,187",25.0%
+Liberia,Africa,"Infectious, parasitic, neonatal and nutritional","4,373",52.9%
+Liberia,Africa,Injuries,"1,243",15.0%
+Liberia,Africa,Noncommunicable diseases,"2,656",32.1%
+Libya,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",300,6.0%
+Libya,Eastern Mediterranean,Injuries,"1,135",22.7%
+Libya,Eastern Mediterranean,Noncommunicable diseases,"3,571",71.3%
+Lithuania,Europe,"Infectious, parasitic, neonatal and nutritional",59,1.1%
+Lithuania,Europe,Injuries,670,12.5%
+Lithuania,Europe,Noncommunicable diseases,"4,633",86.4%
+Luxembourg,Europe,"Infectious, parasitic, neonatal and nutritional",6,1.5%
+Luxembourg,Europe,Injuries,55,13.5%
+Luxembourg,Europe,Noncommunicable diseases,347,85.0%
+Madagascar,Africa,"Infectious, parasitic, neonatal and nutritional","18,499",44.2%
+Madagascar,Africa,Injuries,"7,438",17.8%
+Madagascar,Africa,Noncommunicable diseases,"15,908",38.0%
+Malawi,Africa,"Infectious, parasitic, neonatal and nutritional","18,688",56.5%
+Malawi,Africa,Injuries,"5,213",15.8%
+Malawi,Africa,Noncommunicable diseases,"9,165",27.7%
+Malaysia,Western Pacific,"Infectious, parasitic, neonatal and nutritional","1,456",5.6%
+Malaysia,Western Pacific,Injuries,"6,745",26.0%
+Malaysia,Western Pacific,Noncommunicable diseases,"17,740",68.4%
+Maldives,South-East Asia,"Infectious, parasitic, neonatal and nutritional",16,9.8%
+Maldives,South-East Asia,Injuries,40,24.4%
+Maldives,South-East Asia,Noncommunicable diseases,108,65.9%
+Mali,Africa,"Infectious, parasitic, neonatal and nutritional","27,931",60.8%
+Mali,Africa,Injuries,"6,891",15.0%
+Mali,Africa,Noncommunicable diseases,"11,128",24.2%
+Malta,Europe,"Infectious, parasitic, neonatal and nutritional",2,0.4%
+Malta,Europe,Injuries,23,4.9%
+Malta,Europe,Noncommunicable diseases,446,94.7%
+Marshall Islands,Western Pacific,"Infectious, parasitic, neonatal and nutritional",21,38.9%
+Marshall Islands,Western Pacific,Injuries,9,16.7%
+Marshall Islands,Western Pacific,Noncommunicable diseases,24,44.4%
+Mauritania,Africa,"Infectious, parasitic, neonatal and nutritional","3,992",57.4%
+Mauritania,Africa,Injuries,"1,106",15.9%
+Mauritania,Africa,Noncommunicable diseases,"1,858",26.7%
+Mauritius,Africa,"Infectious, parasitic, neonatal and nutritional",77,7.5%
+Mauritius,Africa,Injuries,229,22.3%
+Mauritius,Africa,Noncommunicable diseases,722,70.2%
+Mexico,Americas,"Infectious, parasitic, neonatal and nutritional","5,845",7.0%
+Mexico,Americas,Injuries,"22,691",27.1%
+Mexico,Americas,Noncommunicable diseases,"55,046",65.9%
+Micronesia (Federated States of),Western Pacific,"Infectious, parasitic, neonatal and nutritional",24,25.8%
+Micronesia (Federated States of),Western Pacific,Injuries,26,28.0%
+Micronesia (Federated States of),Western Pacific,Noncommunicable diseases,43,46.2%
+Monaco,Europe,"Infectious, parasitic, neonatal and nutritional",0,0.0%
+Monaco,Europe,Injuries,4,16.7%
+Monaco,Europe,Noncommunicable diseases,20,83.3%
+Mongolia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",395,7.6%
+Mongolia,Western Pacific,Injuries,825,15.9%
+Mongolia,Western Pacific,Noncommunicable diseases,"3,954",76.4%
+Montenegro,Europe,"Infectious, parasitic, neonatal and nutritional",7,0.6%
+Montenegro,Europe,Injuries,65,6.0%
+Montenegro,Europe,Noncommunicable diseases,"1,006",93.3%
+Morocco,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","3,966",12.3%
+Morocco,Eastern Mediterranean,Injuries,"6,066",18.8%
+Morocco,Eastern Mediterranean,Noncommunicable diseases,"22,244",68.9%
+Mozambique,Africa,"Infectious, parasitic, neonatal and nutritional","42,371",60.1%
+Mozambique,Africa,Injuries,"15,597",22.1%
+Mozambique,Africa,Noncommunicable diseases,"12,524",17.8%
+Myanmar,South-East Asia,"Infectious, parasitic, neonatal and nutritional","21,584",19.8%
+Myanmar,South-East Asia,Injuries,"18,407",16.9%
+Myanmar,South-East Asia,Noncommunicable diseases,"69,244",63.4%
+Namibia,Africa,"Infectious, parasitic, neonatal and nutritional",991,36.3%
+Namibia,Africa,Injuries,556,20.4%
+Namibia,Africa,Noncommunicable diseases,"1,183",43.3%
+Nauru,Western Pacific,"Infectious, parasitic, neonatal and nutritional",1,25.0%
+Nauru,Western Pacific,Injuries,1,25.0%
+Nauru,Western Pacific,Noncommunicable diseases,2,50.0%
+Nepal,South-East Asia,"Infectious, parasitic, neonatal and nutritional","9,829",21.1%
+Nepal,South-East Asia,Injuries,"8,350",17.9%
+Nepal,South-East Asia,Noncommunicable diseases,"28,508",61.1%
+Netherlands,Europe,"Infectious, parasitic, neonatal and nutritional",185,1.1%
+Netherlands,Europe,Injuries,"1,288",8.0%
+Netherlands,Europe,Noncommunicable diseases,"14,655",90.9%
+New Zealand,Western Pacific,"Infectious, parasitic, neonatal and nutritional",55,1.8%
+New Zealand,Western Pacific,Injuries,369,11.8%
+New Zealand,Western Pacific,Noncommunicable diseases,"2,713",86.5%
+Nicaragua,Americas,"Infectious, parasitic, neonatal and nutritional",692,11.8%
+Nicaragua,Americas,Injuries,"1,205",20.6%
+Nicaragua,Americas,Noncommunicable diseases,"3,958",67.6%
+Niger,Africa,"Infectious, parasitic, neonatal and nutritional","34,101",67.8%
+Niger,Africa,Injuries,"7,020",14.0%
+Niger,Africa,Noncommunicable diseases,"9,144",18.2%
+Nigeria,Africa,"Infectious, parasitic, neonatal and nutritional","312,269",62.7%
+Nigeria,Africa,Injuries,"98,218",19.7%
+Nigeria,Africa,Noncommunicable diseases,"87,248",17.5%
+Norway,Europe,"Infectious, parasitic, neonatal and nutritional",89,2.3%
+Norway,Europe,Injuries,515,13.2%
+Norway,Europe,Noncommunicable diseases,"3,306",84.6%
+Oman,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",80,5.0%
+Oman,Eastern Mediterranean,Injuries,553,34.5%
+Oman,Eastern Mediterranean,Noncommunicable diseases,969,60.5%
+Pakistan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","117,630",35.5%
+Pakistan,Eastern Mediterranean,Injuries,"62,399",18.8%
+Pakistan,Eastern Mediterranean,Noncommunicable diseases,"151,153",45.6%
+Palau,Western Pacific,"Infectious, parasitic, neonatal and nutritional",2,13.3%
+Palau,Western Pacific,Injuries,5,33.3%
+Palau,Western Pacific,Noncommunicable diseases,8,53.3%
+Panama,Americas,"Infectious, parasitic, neonatal and nutritional",433,15.9%
+Panama,Americas,Injuries,718,26.3%
+Panama,Americas,Noncommunicable diseases,"1,578",57.8%
+Papua New Guinea,Western Pacific,"Infectious, parasitic, neonatal and nutritional","4,495",43.4%
+Papua New Guinea,Western Pacific,Injuries,"2,615",25.2%
+Papua New Guinea,Western Pacific,Noncommunicable diseases,"3,247",31.4%
+Paraguay,Americas,"Infectious, parasitic, neonatal and nutritional",544,8.6%
+Paraguay,Americas,Injuries,"1,460",23.0%
+Paraguay,Americas,Noncommunicable diseases,"4,333",68.4%
+Peru,Americas,"Infectious, parasitic, neonatal and nutritional","1,800",8.5%
+Peru,Americas,Injuries,"5,296",25.1%
+Peru,Americas,Noncommunicable diseases,"14,027",66.4%
+Philippines,Western Pacific,"Infectious, parasitic, neonatal and nutritional","22,391",18.1%
+Philippines,Western Pacific,Injuries,"16,177",13.1%
+Philippines,Western Pacific,Noncommunicable diseases,"84,891",68.8%
+Poland,Europe,"Infectious, parasitic, neonatal and nutritional",292,0.5%
+Poland,Europe,Injuries,"5,300",8.9%
+Poland,Europe,Noncommunicable diseases,"53,628",90.6%
+Portugal,Europe,"Infectious, parasitic, neonatal and nutritional",172,1.6%
+Portugal,Europe,Injuries,834,7.8%
+Portugal,Europe,Noncommunicable diseases,"9,683",90.6%
+Qatar,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",22,4.0%
+Qatar,Eastern Mediterranean,Injuries,202,36.5%
+Qatar,Eastern Mediterranean,Noncommunicable diseases,330,59.6%
+Republic of Korea,Western Pacific,"Infectious, parasitic, neonatal and nutritional","1,018",2.7%
+Republic of Korea,Western Pacific,Injuries,"4,263",11.2%
+Republic of Korea,Western Pacific,Noncommunicable diseases,"32,678",86.1%
+Republic of Moldova,Europe,"Infectious, parasitic, neonatal and nutritional",147,1.6%
+Republic of Moldova,Europe,Injuries,"1,029",11.5%
+Republic of Moldova,Europe,Noncommunicable diseases,"7,797",86.9%
+Romania,Europe,"Infectious, parasitic, neonatal and nutritional",750,1.6%
+Romania,Europe,Injuries,"3,245",6.9%
+Romania,Europe,Noncommunicable diseases,"43,330",91.6%
+Russian Federation,Europe,"Infectious, parasitic, neonatal and nutritional","5,005",1.4%
+Russian Federation,Europe,Injuries,"48,344",13.8%
+Russian Federation,Europe,Noncommunicable diseases,"296,462",84.7%
+Rwanda,Africa,"Infectious, parasitic, neonatal and nutritional","9,148",48.7%
+Rwanda,Africa,Injuries,"4,042",21.5%
+Rwanda,Africa,Noncommunicable diseases,"5,586",29.8%
+Saint Kitts and Nevis,Americas,"Infectious, parasitic, neonatal and nutritional",2,5.3%
+Saint Kitts and Nevis,Americas,Injuries,9,23.7%
+Saint Kitts and Nevis,Americas,Noncommunicable diseases,27,71.1%
+Saint Lucia,Americas,"Infectious, parasitic, neonatal and nutritional",7,3.7%
+Saint Lucia,Americas,Injuries,34,17.9%
+Saint Lucia,Americas,Noncommunicable diseases,149,78.4%
+Saint Vincent and the Grenadines,Americas,"Infectious, parasitic, neonatal and nutritional",7,6.5%
+Saint Vincent and the Grenadines,Americas,Injuries,20,18.7%
+Saint Vincent and the Grenadines,Americas,Noncommunicable diseases,80,74.8%
+Samoa,Western Pacific,"Infectious, parasitic, neonatal and nutritional",21,13.6%
+Samoa,Western Pacific,Injuries,34,22.1%
+Samoa,Western Pacific,Noncommunicable diseases,99,64.3%
+San Marino,Europe,"Infectious, parasitic, neonatal and nutritional",0,0.0%
+San Marino,Europe,Injuries,4,18.2%
+San Marino,Europe,Noncommunicable diseases,18,81.8%
+Sao Tome and Principe,Africa,"Infectious, parasitic, neonatal and nutritional",105,45.5%
+Sao Tome and Principe,Africa,Injuries,52,22.5%
+Sao Tome and Principe,Africa,Noncommunicable diseases,74,32.0%
+Saudi Arabia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",725,3.9%
+Saudi Arabia,Eastern Mediterranean,Injuries,"3,425",18.6%
+Saudi Arabia,Eastern Mediterranean,Noncommunicable diseases,"14,242",77.4%
+Senegal,Africa,"Infectious, parasitic, neonatal and nutritional","11,730",56.2%
+Senegal,Africa,Injuries,"3,697",17.7%
+Senegal,Africa,Noncommunicable diseases,"5,442",26.1%
+Serbia,Europe,"Infectious, parasitic, neonatal and nutritional",139,0.8%
+Serbia,Europe,Injuries,860,4.9%
+Serbia,Europe,Noncommunicable diseases,"16,520",94.3%
+Seychelles,Africa,"Infectious, parasitic, neonatal and nutritional",13,15.1%
+Seychelles,Africa,Injuries,31,36.0%
+Seychelles,Africa,Noncommunicable diseases,42,48.8%
+Sierra Leone,Africa,"Infectious, parasitic, neonatal and nutritional","15,639",64.2%
+Sierra Leone,Africa,Injuries,"3,757",15.4%
+Sierra Leone,Africa,Noncommunicable diseases,"4,974",20.4%
+Singapore,Western Pacific,"Infectious, parasitic, neonatal and nutritional",79,2.5%
+Singapore,Western Pacific,Injuries,159,5.1%
+Singapore,Western Pacific,Noncommunicable diseases,"2,873",92.3%
+Slovakia,Europe,"Infectious, parasitic, neonatal and nutritional",49,0.6%
+Slovakia,Europe,Injuries,628,7.6%
+Slovakia,Europe,Noncommunicable diseases,"7,558",91.8%
+Slovenia,Europe,"Infectious, parasitic, neonatal and nutritional",12,0.5%
+Slovenia,Europe,Injuries,356,14.2%
+Slovenia,Europe,Noncommunicable diseases,"2,131",85.3%
+Solomon Islands,Western Pacific,"Infectious, parasitic, neonatal and nutritional",171,27.0%
+Solomon Islands,Western Pacific,Injuries,141,22.2%
+Solomon Islands,Western Pacific,Noncommunicable diseases,322,50.8%
+Somalia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","23,833",69.7%
+Somalia,Eastern Mediterranean,Injuries,"5,516",16.1%
+Somalia,Eastern Mediterranean,Noncommunicable diseases,"4,847",14.2%
+South Africa,Africa,"Infectious, parasitic, neonatal and nutritional","42,071",43.2%
+South Africa,Africa,Injuries,"19,742",20.3%
+South Africa,Africa,Noncommunicable diseases,"35,595",36.5%
+South Sudan,Africa,"Infectious, parasitic, neonatal and nutritional","16,421",59.8%
+South Sudan,Africa,Injuries,"5,390",19.6%
+South Sudan,Africa,Noncommunicable diseases,"5,671",20.6%
+Spain,Europe,"Infectious, parasitic, neonatal and nutritional",489,1.1%
+Spain,Europe,Injuries,"3,304",7.6%
+Spain,Europe,Noncommunicable diseases,"39,831",91.3%
+Sri Lanka,South-East Asia,"Infectious, parasitic, neonatal and nutritional","1,591",4.6%
+Sri Lanka,South-East Asia,Injuries,"7,050",20.2%
+Sri Lanka,South-East Asia,Noncommunicable diseases,"26,274",75.3%
+Sudan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","33,809",48.9%
+Sudan,Eastern Mediterranean,Injuries,"16,457",23.8%
+Sudan,Eastern Mediterranean,Noncommunicable diseases,"18,851",27.3%
+Suriname,Americas,"Infectious, parasitic, neonatal and nutritional",43,11.3%
+Suriname,Americas,Injuries,113,29.7%
+Suriname,Americas,Noncommunicable diseases,225,59.1%
+Sweden,Europe,"Infectious, parasitic, neonatal and nutritional",236,2.7%
+Sweden,Europe,Injuries,965,11.1%
+Sweden,Europe,Noncommunicable diseases,"7,473",86.2%
+Switzerland,Europe,"Infectious, parasitic, neonatal and nutritional",79,1.1%
+Switzerland,Europe,Injuries,760,10.5%
+Switzerland,Europe,Noncommunicable diseases,"6,387",88.4%
+Syrian Arab Republic,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","1,242",7.3%
+Syrian Arab Republic,Eastern Mediterranean,Injuries,"2,354",13.8%
+Syrian Arab Republic,Eastern Mediterranean,Noncommunicable diseases,"13,440",78.9%
+Tajikistan,Europe,"Infectious, parasitic, neonatal and nutritional","2,499",22.4%
+Tajikistan,Europe,Injuries,"1,504",13.5%
+Tajikistan,Europe,Noncommunicable diseases,"7,132",64.1%
+Thailand,South-East Asia,"Infectious, parasitic, neonatal and nutritional","5,659",6.0%
+Thailand,South-East Asia,Injuries,"21,924",23.4%
+Thailand,South-East Asia,Noncommunicable diseases,"66,240",70.6%
+The former Yugoslav Republic of Macedonia,Europe,"Infectious, parasitic, neonatal and nutritional",24,0.7%
+The former Yugoslav Republic of Macedonia,Europe,Injuries,176,5.2%
+The former Yugoslav Republic of Macedonia,Europe,Noncommunicable diseases,"3,199",94.1%
+Timor-Leste,South-East Asia,"Infectious, parasitic, neonatal and nutritional",692,42.2%
+Timor-Leste,South-East Asia,Injuries,296,18.1%
+Timor-Leste,South-East Asia,Noncommunicable diseases,651,39.7%
+Togo,Africa,"Infectious, parasitic, neonatal and nutritional","9,134",59.1%
+Togo,Africa,Injuries,"2,487",16.1%
+Togo,Africa,Noncommunicable diseases,"3,826",24.8%
+Tonga,Western Pacific,"Infectious, parasitic, neonatal and nutritional",10,10.9%
+Tonga,Western Pacific,Injuries,19,20.7%
+Tonga,Western Pacific,Noncommunicable diseases,63,68.5%
+Trinidad and Tobago,Americas,"Infectious, parasitic, neonatal and nutritional",47,3.6%
+Trinidad and Tobago,Americas,Injuries,286,21.7%
+Trinidad and Tobago,Americas,Noncommunicable diseases,986,74.8%
+Tunisia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",450,4.1%
+Tunisia,Eastern Mediterranean,Injuries,"1,766",16.1%
+Tunisia,Eastern Mediterranean,Noncommunicable diseases,"8,736",79.8%
+Turkmenistan,Europe,"Infectious, parasitic, neonatal and nutritional",956,8.4%
+Turkmenistan,Europe,Injuries,"1,528",13.4%
+Turkmenistan,Europe,Noncommunicable diseases,"8,931",78.2%
+Tuvalu,Western Pacific,"Infectious, parasitic, neonatal and nutritional",2,18.2%
+Tuvalu,Western Pacific,Injuries,3,27.3%
+Tuvalu,Western Pacific,Noncommunicable diseases,6,54.5%
+Türkiye,Europe,"Infectious, parasitic, neonatal and nutritional","2,248",3.0%
+Türkiye,Europe,Injuries,"7,343",9.7%
+Türkiye,Europe,Noncommunicable diseases,"65,929",87.3%
+Uganda,Africa,"Infectious, parasitic, neonatal and nutritional","44,407",54.0%
+Uganda,Africa,Injuries,"20,469",24.9%
+Uganda,Africa,Noncommunicable diseases,"17,422",21.2%
+Ukraine,Europe,"Infectious, parasitic, neonatal and nutritional","1,966",1.5%
+Ukraine,Europe,Injuries,"12,228",9.0%
+Ukraine,Europe,Noncommunicable diseases,"121,104",89.5%
+United Arab Emirates,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",82,3.8%
+United Arab Emirates,Eastern Mediterranean,Injuries,753,35.2%
+United Arab Emirates,Eastern Mediterranean,Noncommunicable diseases,"1,303",60.9%
+United Kingdom of Great Britain and Northern Ireland,Europe,"Infectious, parasitic, neonatal and nutritional",683,1.1%
+United Kingdom of Great Britain and Northern Ireland,Europe,Injuries,"4,714",7.3%
+United Kingdom of Great Britain and Northern Ireland,Europe,Noncommunicable diseases,"59,412",91.7%
+United Republic of Tanzania,Africa,"Infectious, parasitic, neonatal and nutritional","48,814",54.1%
+United Republic of Tanzania,Africa,Injuries,"21,216",23.5%
+United Republic of Tanzania,Africa,Noncommunicable diseases,"20,180",22.4%
+United States of America,Americas,"Infectious, parasitic, neonatal and nutritional","5,726",2.0%
+United States of America,Americas,Injuries,"40,732",14.4%
+United States of America,Americas,Noncommunicable diseases,"236,052",83.6%
+Uruguay,Americas,"Infectious, parasitic, neonatal and nutritional",59,1.9%
+Uruguay,Americas,Injuries,472,15.1%
+Uruguay,Americas,Noncommunicable diseases,"2,588",83.0%
+Uzbekistan,Europe,"Infectious, parasitic, neonatal and nutritional","3,399",7.8%
+Uzbekistan,Europe,Injuries,"4,398",10.1%
+Uzbekistan,Europe,Noncommunicable diseases,"35,865",82.1%
+Vanuatu,Western Pacific,"Infectious, parasitic, neonatal and nutritional",42,17.4%
+Vanuatu,Western Pacific,Injuries,45,18.7%
+Vanuatu,Western Pacific,Noncommunicable diseases,154,63.9%
+Venezuela (Bolivarian Republic of),Americas,"Infectious, parasitic, neonatal and nutritional","2,038",7.9%
+Venezuela (Bolivarian Republic of),Americas,Injuries,"9,226",35.6%
+Venezuela (Bolivarian Republic of),Americas,Noncommunicable diseases,"14,637",56.5%
+Viet Nam,Western Pacific,"Infectious, parasitic, neonatal and nutritional","10,706",8.3%
+Viet Nam,Western Pacific,Injuries,"23,578",18.2%
+Viet Nam,Western Pacific,Noncommunicable diseases,"94,987",73.5%
+Yemen,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional","9,940",31.7%
+Yemen,Eastern Mediterranean,Injuries,"6,972",22.3%
+Yemen,Eastern Mediterranean,Noncommunicable diseases,"14,405",46.0%
+Zambia,Africa,"Infectious, parasitic, neonatal and nutritional","19,892",59.9%
+Zambia,Africa,Injuries,"7,156",21.5%
+Zambia,Africa,Noncommunicable diseases,"6,188",18.6%
+Zimbabwe,Africa,"Infectious, parasitic, neonatal and nutritional","13,869",52.5%
+Zimbabwe,Africa,Injuries,"4,759",18.0%
+Zimbabwe,Africa,Noncommunicable diseases,"7,767",29.4%
