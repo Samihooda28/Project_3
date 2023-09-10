@@ -26,7 +26,11 @@ Datasources:
 - Pie chart total deaths per country - top 10
 
 **References**
-
+ 
 - eumiro, edited by AMC, StackOverflow, 16 Feb 2020, "How to drop rows of Pandas DataFrame whose value in a certain column is NaN", https://stackoverflow.com/questions/13413590/how-to-drop-rows-of-pandas-dataframe-whose-value-in-a-certain-column-is-nan, accessed 9 Sept 2023 
 
 Admin, 28 January 2023, Sparkby{Example}, "Pandas set index name to dataframe", https://sparkbyexamples.com/pandas/pandas-set-index-name-to-dataframe/, accessed 9 September 2023
+
+E Trabelsi, 7 September 2019, "Style Pandas Dataframe Like a Master", https://towardsdatascience.com/style-pandas-dataframe-like-a-master-6b02bf6468b0, accessed 10 September 2023
+
+Talk Saif Malik, 24 August 2022, "How to Alter Column Type in PostgresSQL", https://www.commandprompt.com/education/how-to-alter-column-type-in-postgresql/#:~:text=You%20have%20to%20use%20several,%5D%20TYPE%20modified_data_type%2C%20..., accessed 20 September 2023
