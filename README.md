@@ -8,7 +8,7 @@
 
 **Week 1**
 - Data clean - jupyter, pandas, python
-- Database - sqlPostGres
+- Database - SQLite
 - Api - Python Flask
 
 **Week 2**
