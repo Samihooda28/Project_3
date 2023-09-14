@@ -34,3 +34,8 @@ Admin, 28 January 2023, Sparkby{Example}, "Pandas set index name to dataframe", 
 E Trabelsi, 7 September 2019, "Style Pandas Dataframe Like a Master", https://towardsdatascience.com/style-pandas-dataframe-like-a-master-6b02bf6468b0, accessed 10 September 2023
 
 Talk Saif Malik, 24 August 2022, "How to Alter Column Type in PostgresSQL", https://www.commandprompt.com/education/how-to-alter-column-type-in-postgresql/#:~:text=You%20have%20to%20use%20several,%5D%20TYPE%20modified_data_type%2C%20..., accessed 20 September 2023
+
+The World Bank, "What is the difference between current and constant data?", https://datahelpdesk.worldbank.org/knowledgebase/articles/114942-what-is-the-difference-between-current-and-constan, accessed 12 September 2012
+
+The World Bank, DataBank, "Metadata Glossary", https://databank.worldbank.org/metadataglossary/world-development-indicators/series/NY.GDP.MKTP.PP.KD, accessed 12 September 2023
+

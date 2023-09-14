@@ -1,4 +1,4 @@
-Country,Continent,Indicator,Country_Deaths,Country_Population,Country_GDP,Indicator_Deaths_%_Total_Deaths,Indicator_Deaths_%_Total_Population
+Country,Continent,Indicator,Country_Deaths,Country_Population,Country_GDP,Indicator_Deaths_per_Total_Deaths,Indicator_Deaths_per_Total_Population
 Afghanistan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",29571.0,34636207.0,72785293847.6716,45.4,0.0854
 Afghanistan,Eastern Mediterranean,Injuries,13086.0,34636207.0,72785293847.6716,20.1,0.0378
 Afghanistan,Eastern Mediterranean,Noncommunicable diseases,22490.0,34636207.0,72785293847.6716,34.5,0.0649

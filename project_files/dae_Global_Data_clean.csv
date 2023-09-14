@@ -1,4 +1,4 @@
-Indicator,Global_Deaths,Global_Population,Global_GDP,Indicator_Deaths_%_Total_Deaths,Indicator_Deaths_%_Total_Population
+Indicator,Global_Deaths,Global_Population,Global_GDP,Indicator_Deaths_per_Total_Deaths,Indicator_Deaths_per_Total_Population
 "Infectious, parasitic, neonatal and nutritional",2466447.0,21956949669.0,346716964991797.6,19.8,0.0112
 Injuries,1912760.0,21956949669.0,346716964991797.6,15.4,0.0087
 Noncommunicable diseases,8050263.0,21956949669.0,346716964991797.6,64.8,0.0367

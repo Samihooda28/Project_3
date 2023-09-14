@@ -1,4 +1,4 @@
-Continent,Indicator,Continent_Deaths,Continent_Population,Continent_GDP,Indicator_Deaths_%_Total_Deaths,Indicator_Deaths_%_Total_Population
+Continent,Indicator,Continent_Deaths,Continent_Population,Continent_GDP,Indicator_Deaths_per_Total_Deaths,Indicator_Deaths_per_Total_Population
 Africa,"Infectious, parasitic, neonatal and nutritional",1243369.0,1008393910.0,4199395043117.239,58.1,0.1233
 Africa,Injuries,401916.0,1008393910.0,4199395043117.239,18.8,0.0399
 Africa,Noncommunicable diseases,493771.0,1008393910.0,4199395043117.239,23.1,0.0490
