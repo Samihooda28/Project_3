@@ -1,550 +1,550 @@
-Country,Continent,Indicator,Country_Deaths,Country_Population,Country_GDP,Indicator_Deaths_per_Total_Deaths,Indicator_Deaths_per_Total_Population
-Afghanistan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",29571.0,34636207.0,72785293847.6716,45.4,0.0854
-Afghanistan,Eastern Mediterranean,Injuries,13086.0,34636207.0,72785293847.6716,20.1,0.0378
-Afghanistan,Eastern Mediterranean,Noncommunicable diseases,22490.0,34636207.0,72785293847.6716,34.5,0.0649
-Albania,Europe,"Infectious, parasitic, neonatal and nutritional",78.0,2876101.0,35352579241.1673,1.2,0.0027
-Albania,Europe,Injuries,514.0,2876101.0,35352579241.1673,7.6,0.0179
-Albania,Europe,Noncommunicable diseases,6174.0,2876101.0,35352579241.1673,91.3,0.2147
-Algeria,Africa,"Infectious, parasitic, neonatal and nutritional",3806.0,40339329.0,479566971411.093,10.4,0.0094
-Algeria,Africa,Injuries,7999.0,40339329.0,479566971411.093,21.8,0.0198
-Algeria,Africa,Noncommunicable diseases,24914.0,40339329.0,479566971411.093,67.9,0.0618
-Angola,Africa,"Infectious, parasitic, neonatal and nutritional",53081.0,29154746.0,218308554288.735,67.6,0.1821
-Angola,Africa,Injuries,13502.0,29154746.0,218308554288.735,17.2,0.0463
-Angola,Africa,Noncommunicable diseases,11952.0,29154746.0,218308554288.735,15.2,0.0410
-Antigua and Barbuda,Americas,"Infectious, parasitic, neonatal and nutritional",2.0,90564.0,1835510285.65921,2.7,0.0022
-Antigua and Barbuda,Americas,Injuries,10.0,90564.0,1835510285.65921,13.5,0.0110
-Antigua and Barbuda,Americas,Noncommunicable diseases,62.0,90564.0,1835510285.65921,83.8,0.0685
-Argentina,Americas,"Infectious, parasitic, neonatal and nutritional",1715.0,43590368.0,1010840035079.44,4.2,0.0039
-Argentina,Americas,Injuries,8316.0,43590368.0,1010840035079.44,20.3,0.0191
-Argentina,Americas,Noncommunicable diseases,30920.0,43590368.0,1010840035079.44,75.5,0.0709
-Armenia,Europe,"Infectious, parasitic, neonatal and nutritional",124.0,2865835.0,33187468758.0387,1.6,0.0043
-Armenia,Europe,Injuries,549.0,2865835.0,33187468758.0387,7.1,0.0192
-Armenia,Europe,Noncommunicable diseases,7035.0,2865835.0,33187468758.0387,91.3,0.2455
-Australia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",224.0,24190907.0,1163805248731.07,1.5,0.0009
-Australia,Western Pacific,Injuries,1774.0,24190907.0,1163805248731.07,11.8,0.0073
-Australia,Western Pacific,Noncommunicable diseases,13063.0,24190907.0,1163805248731.07,86.7,0.0540
-Austria,Europe,"Infectious, parasitic, neonatal and nutritional",50.0,8736668.0,466064032926.316,0.5,0.0006
-Austria,Europe,Injuries,897.0,8736668.0,466064032926.316,9.4,0.0103
-Austria,Europe,Noncommunicable diseases,8605.0,8736668.0,466064032926.316,90.1,0.0985
-Azerbaijan,Europe,"Infectious, parasitic, neonatal and nutritional",826.0,9757812.0,138875059914.371,6.9,0.0085
-Azerbaijan,Europe,Injuries,993.0,9757812.0,138875059914.371,8.2,0.0102
-Azerbaijan,Europe,Noncommunicable diseases,10221.0,9757812.0,138875059914.371,84.9,0.1047
-"Bahamas, The",Americas,"Infectious, parasitic, neonatal and nutritional",10.0,395976.0,13273163560.1349,5.0,0.0025
-"Bahamas, The",Americas,Injuries,43.0,395976.0,13273163560.1349,21.4,0.0109
-"Bahamas, The",Americas,Noncommunicable diseases,148.0,395976.0,13273163560.1349,73.6,0.0374
-Bahrain,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",21.0,1409661.0,68349250016.7145,4.8,0.0015
-Bahrain,Eastern Mediterranean,Injuries,94.0,1409661.0,68349250016.7145,21.3,0.0067
-Bahrain,Eastern Mediterranean,Noncommunicable diseases,327.0,1409661.0,68349250016.7145,74.0,0.0232
-Bangladesh,South-East Asia,"Infectious, parasitic, neonatal and nutritional",48257.0,159784568.0,733266327481.642,23.9,0.0302
-Bangladesh,South-East Asia,Injuries,39573.0,159784568.0,733266327481.642,19.6,0.0248
-Bangladesh,South-East Asia,Noncommunicable diseases,113704.0,159784568.0,733266327481.642,56.4,0.0712
-Barbados,Americas,"Infectious, parasitic, neonatal and nutritional",10.0,278649.0,4501997461.37833,4.9,0.0036
-Barbados,Americas,Injuries,23.0,278649.0,4501997461.37833,11.3,0.0083
-Barbados,Americas,Noncommunicable diseases,170.0,278649.0,4501997461.37833,83.7,0.0610
-Belarus,Europe,"Infectious, parasitic, neonatal and nutritional",154.0,9469379.0,169342706853.966,0.6,0.0016
-Belarus,Europe,Injuries,3807.0,9469379.0,169342706853.966,16.0,0.0402
-Belarus,Europe,Noncommunicable diseases,19848.0,9469379.0,169342706853.966,83.4,0.2096
-Belgium,Europe,"Infectious, parasitic, neonatal and nutritional",196.0,11331422.0,564643935471.557,1.5,0.0017
-Belgium,Europe,Injuries,1529.0,11331422.0,564643935471.557,11.5,0.0135
-Belgium,Europe,Noncommunicable diseases,11560.0,11331422.0,564643935471.557,87.0,0.1020
-Belize,Americas,"Infectious, parasitic, neonatal and nutritional",22.0,367313.0,3382259956.90948,12.4,0.0060
-Belize,Americas,Injuries,65.0,367313.0,3382259956.90948,36.5,0.0177
-Belize,Americas,Noncommunicable diseases,91.0,367313.0,3382259956.90948,51.1,0.0248
-Benin,Africa,"Infectious, parasitic, neonatal and nutritional",11815.0,11260085.0,32196993426.2032,52.9,0.1049
-Benin,Africa,Injuries,3579.0,11260085.0,32196993426.2032,16.0,0.0318
-Benin,Africa,Noncommunicable diseases,6922.0,11260085.0,32196993426.2032,31.0,0.0615
-Bhutan,South-East Asia,"Infectious, parasitic, neonatal and nutritional",198.0,749761.0,7938147353.08061,15.7,0.0264
-Bhutan,South-East Asia,Injuries,490.0,749761.0,7938147353.08061,38.9,0.0654
-Bhutan,South-East Asia,Noncommunicable diseases,571.0,749761.0,7938147353.08061,45.4,0.0762
-Bolivia,Americas,"Infectious, parasitic, neonatal and nutritional",2442.0,11263015.0,90489007910.6098,18.5,0.0217
-Bolivia,Americas,Injuries,3837.0,11263015.0,90489007910.6098,29.0,0.0341
-Bolivia,Americas,Noncommunicable diseases,6942.0,11263015.0,90489007910.6098,52.5,0.0616
-Bosnia and Herzegovina,Europe,"Infectious, parasitic, neonatal and nutritional",66.0,3480986.0,45254965497.8771,0.7,0.0019
-Bosnia and Herzegovina,Europe,Injuries,638.0,3480986.0,45254965497.8771,6.6,0.0183
-Bosnia and Herzegovina,Europe,Noncommunicable diseases,8977.0,3480986.0,45254965497.8771,92.7,0.2579
-Botswana,Africa,"Infectious, parasitic, neonatal and nutritional",1352.0,2352416.0,33812498275.3189,46.5,0.0575
-Botswana,Africa,Injuries,610.0,2352416.0,33812498275.3189,21.0,0.0259
-Botswana,Africa,Noncommunicable diseases,944.0,2352416.0,33812498275.3189,32.5,0.0401
-Brazil,Americas,"Infectious, parasitic, neonatal and nutritional",17793.0,206859578.0,2979293832693.15,9.1,0.0086
-Brazil,Americas,Injuries,49568.0,206859578.0,2979293832693.15,25.3,0.0240
-Brazil,Americas,Noncommunicable diseases,128381.0,206859578.0,2979293832693.15,65.6,0.0621
-Brunei Darussalam,Western Pacific,"Infectious, parasitic, neonatal and nutritional",6.0,425994.0,25551541319.6116,3.6,0.0014
-Brunei Darussalam,Western Pacific,Injuries,37.0,425994.0,25551541319.6116,22.0,0.0087
-Brunei Darussalam,Western Pacific,Noncommunicable diseases,125.0,425994.0,25551541319.6116,74.4,0.0293
-Bulgaria,Europe,"Infectious, parasitic, neonatal and nutritional",120.0,7127822.0,147836869040.086,0.6,0.0017
-Bulgaria,Europe,Injuries,923.0,7127822.0,147836869040.086,5.0,0.0129
-Bulgaria,Europe,Noncommunicable diseases,17511.0,7127822.0,147836869040.086,94.4,0.2457
-Burkina Faso,Africa,"Infectious, parasitic, neonatal and nutritional",24035.0,19275498.0,36946433803.5338,57.5,0.1247
-Burkina Faso,Africa,Injuries,7291.0,19275498.0,36946433803.5338,17.4,0.0378
-Burkina Faso,Africa,Noncommunicable diseases,10480.0,19275498.0,36946433803.5338,25.1,0.0544
-Burundi,Africa,"Infectious, parasitic, neonatal and nutritional",17019.0,10903327.0,8333811911.79175,57.5,0.1561
-Burundi,Africa,Injuries,6309.0,10903327.0,8333811911.79175,21.3,0.0579
-Burundi,Africa,Noncommunicable diseases,6252.0,10903327.0,8333811911.79175,21.1,0.0573
-Cabo Verde,Africa,"Infectious, parasitic, neonatal and nutritional",73.0,558394.0,3853231864.18216,13.7,0.0131
-Cabo Verde,Africa,Injuries,91.0,558394.0,3853231864.18216,17.0,0.0163
-Cabo Verde,Africa,Noncommunicable diseases,370.0,558394.0,3853231864.18216,69.3,0.0663
-Cambodia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",5841.0,15624584.0,58778299696.0828,27.8,0.0374
-Cambodia,Western Pacific,Injuries,4117.0,15624584.0,58778299696.0828,19.6,0.0263
-Cambodia,Western Pacific,Noncommunicable diseases,11054.0,15624584.0,58778299696.0828,52.6,0.0707
-Cameroon,Africa,"Infectious, parasitic, neonatal and nutritional",30628.0,23711630.0,86958198354.4153,57.9,0.1292
-Cameroon,Africa,Injuries,9489.0,23711630.0,86958198354.4153,17.9,0.0400
-Cameroon,Africa,Noncommunicable diseases,12809.0,23711630.0,86958198354.4153,24.2,0.0540
-Canada,Americas,"Infectious, parasitic, neonatal and nutritional",503.0,36109487.0,1713669061092.82,1.9,0.0014
-Canada,Americas,Injuries,3615.0,36109487.0,1713669061092.82,13.7,0.0100
-Canada,Americas,Noncommunicable diseases,22225.0,36109487.0,1713669061092.82,84.4,0.0615
-Central African Republic,Africa,"Infectious, parasitic, neonatal and nutritional",11093.0,4904177.0,4013558816.92666,68.7,0.2262
-Central African Republic,Africa,Injuries,2025.0,4904177.0,4013558816.92666,12.5,0.0413
-Central African Republic,Africa,Noncommunicable diseases,3021.0,4904177.0,4013558816.92666,18.7,0.0616
-Chad,Africa,"Infectious, parasitic, neonatal and nutritional",32543.0,14592585.0,24566297101.8342,71.8,0.2230
-Chad,Africa,Injuries,5835.0,14592585.0,24566297101.8342,12.9,0.0400
-Chad,Africa,Noncommunicable diseases,6927.0,14592585.0,24566297101.8342,15.3,0.0475
-Chile,Americas,"Infectious, parasitic, neonatal and nutritional",262.0,18083879.0,444852114339.543,2.3,0.0014
-Chile,Americas,Injuries,1683.0,18083879.0,444852114339.543,14.9,0.0093
-Chile,Americas,Noncommunicable diseases,9337.0,18083879.0,444852114339.543,82.8,0.0516
-China,Western Pacific,"Infectious, parasitic, neonatal and nutritional",54470.0,1387790000.0,18595188781703.6,1.8,0.0039
-China,Western Pacific,Injuries,324232.0,1387790000.0,18595188781703.6,10.9,0.0234
-China,Western Pacific,Noncommunicable diseases,2607982.0,1387790000.0,18595188781703.6,87.3,0.1879
-Colombia,Americas,"Infectious, parasitic, neonatal and nutritional",2534.0,47625955.0,683821473440.463,7.4,0.0053
-Colombia,Americas,Injuries,8967.0,47625955.0,683821473440.463,26.1,0.0188
-Colombia,Americas,Noncommunicable diseases,22795.0,47625955.0,683821473440.463,66.5,0.0479
-Comoros,Africa,"Infectious, parasitic, neonatal and nutritional",732.0,746232.0,2377218795.20507,48.6,0.0981
-Comoros,Africa,Injuries,328.0,746232.0,2377218795.20507,21.8,0.0440
-Comoros,Africa,Noncommunicable diseases,447.0,746232.0,2377218795.20507,29.7,0.0599
-"Congo, Dem. Rep.",Africa,"Infectious, parasitic, neonatal and nutritional",163548.0,81430977.0,83167671599.0109,66.0,0.2008
-"Congo, Dem. Rep.",Africa,Injuries,39015.0,81430977.0,83167671599.0109,15.7,0.0479
-"Congo, Dem. Rep.",Africa,Noncommunicable diseases,45269.0,81430977.0,83167671599.0109,18.3,0.0556
-"Congo, Rep.",Africa,"Infectious, parasitic, neonatal and nutritional",6659.0,5186824.0,22634023587.9874,60.1,0.1284
-"Congo, Rep.",Africa,Injuries,1579.0,5186824.0,22634023587.9874,14.3,0.0304
-"Congo, Rep.",Africa,Noncommunicable diseases,2840.0,5186824.0,22634023587.9874,25.6,0.0548
-Costa Rica,Americas,"Infectious, parasitic, neonatal and nutritional",116.0,4945205.0,96696554844.9626,3.7,0.0023
-Costa Rica,Americas,Injuries,770.0,4945205.0,96696554844.9626,24.8,0.0156
-Costa Rica,Americas,Noncommunicable diseases,2213.0,4945205.0,96696554844.9626,71.4,0.0448
-Cote d'Ivoire,Africa,"Infectious, parasitic, neonatal and nutritional",30828.0,24213622.0,111875387973.017,55.6,0.1273
-Cote d'Ivoire,Africa,Injuries,10077.0,24213622.0,111875387973.017,18.2,0.0416
-Cote d'Ivoire,Africa,Noncommunicable diseases,14589.0,24213622.0,111875387973.017,26.3,0.0603
-Croatia,Europe,"Infectious, parasitic, neonatal and nutritional",32.0,4174349.0,108512882566.927,0.4,0.0008
-Croatia,Europe,Injuries,623.0,4174349.0,108512882566.927,8.0,0.0149
-Croatia,Europe,Noncommunicable diseases,7144.0,4174349.0,108512882566.927,91.6,0.1711
-Cyprus,Europe,"Infectious, parasitic, neonatal and nutritional",9.0,1197881.0,31228062109.639,1.1,0.0008
-Cyprus,Europe,Injuries,93.0,1197881.0,31228062109.639,11.4,0.0078
-Cyprus,Europe,Noncommunicable diseases,716.0,1197881.0,31228062109.639,87.5,0.0598
-Czechia,Europe,"Infectious, parasitic, neonatal and nutritional",154.0,10566332.0,391112348862.469,1.0,0.0015
-Czechia,Europe,Injuries,1342.0,10566332.0,391112348862.469,8.5,0.0127
-Czechia,Europe,Noncommunicable diseases,14306.0,10566332.0,391112348862.469,90.5,0.1354
-Denmark,Europe,"Infectious, parasitic, neonatal and nutritional",92.0,5728010.0,310372270416.481,1.6,0.0016
-Denmark,Europe,Injuries,424.0,5728010.0,310372270416.481,7.6,0.0074
-Denmark,Europe,Noncommunicable diseases,5098.0,5728010.0,310372270416.481,90.8,0.0890
-Djibouti,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",643.0,1023261.0,4391117244.49419,45.6,0.0628
-Djibouti,Eastern Mediterranean,Injuries,316.0,1023261.0,4391117244.49419,22.4,0.0309
-Djibouti,Eastern Mediterranean,Noncommunicable diseases,450.0,1023261.0,4391117244.49419,31.9,0.0440
-Dominica,Americas,"Infectious, parasitic, neonatal and nutritional",6.0,70075.0,867897731.334077,9.0,0.0086
-Dominica,Americas,Injuries,13.0,70075.0,867897731.334077,19.4,0.0186
-Dominica,Americas,Noncommunicable diseases,48.0,70075.0,867897731.334077,71.6,0.0685
-Dominican Republic,Americas,"Infectious, parasitic, neonatal and nutritional",897.0,10527592.0,168096190995.086,9.6,0.0085
-Dominican Republic,Americas,Injuries,2444.0,10527592.0,168096190995.086,26.1,0.0232
-Dominican Republic,Americas,Noncommunicable diseases,6020.0,10527592.0,168096190995.086,64.3,0.0572
-Ecuador,Americas,"Infectious, parasitic, neonatal and nutritional",973.0,16439585.0,190499039001.124,7.6,0.0059
-Ecuador,Americas,Injuries,4330.0,16439585.0,190499039001.124,33.8,0.0263
-Ecuador,Americas,Noncommunicable diseases,7522.0,16439585.0,190499039001.124,58.7,0.0458
-"Egypt, Arab Rep.",Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",7283.0,99784030.0,1074257784048.51,7.2,0.0073
-"Egypt, Arab Rep.",Eastern Mediterranean,Injuries,10215.0,99784030.0,1074257784048.51,10.0,0.0102
-"Egypt, Arab Rep.",Eastern Mediterranean,Noncommunicable diseases,84308.0,99784030.0,1074257784048.51,82.8,0.0845
-El Salvador,Americas,"Infectious, parasitic, neonatal and nutritional",406.0,6250510.0,52818377611.0219,5.7,0.0065
-El Salvador,Americas,Injuries,2345.0,6250510.0,52818377611.0219,33.2,0.0375
-El Salvador,Americas,Noncommunicable diseases,4320.0,6250510.0,52818377611.0219,61.1,0.0691
-Equatorial Guinea,Africa,"Infectious, parasitic, neonatal and nutritional",1153.0,1398927.0,30169339488.3682,54.8,0.0824
-Equatorial Guinea,Africa,Injuries,391.0,1398927.0,30169339488.3682,18.6,0.0279
-Equatorial Guinea,Africa,Noncommunicable diseases,561.0,1398927.0,30169339488.3682,26.7,0.0401
-Estonia,Europe,"Infectious, parasitic, neonatal and nutritional",11.0,1315790.0,42117035737.1515,0.6,0.0008
-Estonia,Europe,Injuries,181.0,1315790.0,42117035737.1515,9.3,0.0138
-Estonia,Europe,Noncommunicable diseases,1756.0,1315790.0,42117035737.1515,90.1,0.1335
-Eswatini,Africa,"Infectious, parasitic, neonatal and nutritional",1277.0,1142524.0,9269570961.68438,53.5,0.1118
-Eswatini,Africa,Injuries,521.0,1142524.0,9269570961.68438,21.8,0.0456
-Eswatini,Africa,Noncommunicable diseases,590.0,1142524.0,9269570961.68438,24.7,0.0516
-Ethiopia,Africa,"Infectious, parasitic, neonatal and nutritional",82032.0,105293228.0,196317925147.112,54.1,0.0779
-Ethiopia,Africa,Injuries,31007.0,105293228.0,196317925147.112,20.5,0.0294
-Ethiopia,Africa,Noncommunicable diseases,38510.0,105293228.0,196317925147.112,25.4,0.0366
-Fiji,Western Pacific,"Infectious, parasitic, neonatal and nutritional",72.0,918371.0,11184905364.1921,7.8,0.0078
-Fiji,Western Pacific,Injuries,222.0,918371.0,11184905364.1921,24.2,0.0242
-Fiji,Western Pacific,Noncommunicable diseases,624.0,918371.0,11184905364.1921,68.0,0.0679
-Finland,Europe,"Infectious, parasitic, neonatal and nutritional",45.0,5495303.0,253920299689.414,0.8,0.0008
-Finland,Europe,Injuries,709.0,5495303.0,253920299689.414,12.7,0.0129
-Finland,Europe,Noncommunicable diseases,4821.0,5495303.0,253920299689.414,86.5,0.0877
-France,Europe,"Infectious, parasitic, neonatal and nutritional",1115.0,66724104.0,2916186811083.79,1.8,0.0017
-France,Europe,Injuries,8800.0,66724104.0,2916186811083.79,14.4,0.0132
-France,Europe,Noncommunicable diseases,51203.0,66724104.0,2916186811083.79,83.8,0.0767
-Gabon,Africa,"Infectious, parasitic, neonatal and nutritional",1603.0,2086206.0,30840546266.5375,57.2,0.0768
-Gabon,Africa,Injuries,483.0,2086206.0,30840546266.5375,17.2,0.0232
-Gabon,Africa,Noncommunicable diseases,716.0,2086206.0,30840546266.5375,25.6,0.0343
-"Gambia, The",Africa,"Infectious, parasitic, neonatal and nutritional",1894.0,2317206.0,4377521956.89627,55.0,0.0817
-"Gambia, The",Africa,Injuries,636.0,2317206.0,4377521956.89627,18.5,0.0274
-"Gambia, The",Africa,Noncommunicable diseases,911.0,2317206.0,4377521956.89627,26.5,0.0393
-Georgia,Europe,"Infectious, parasitic, neonatal and nutritional",172.0,3727505.0,48322420424.5406,1.4,0.0046
-Georgia,Europe,Injuries,530.0,3727505.0,48322420424.5406,4.3,0.0142
-Georgia,Europe,Noncommunicable diseases,11660.0,3727505.0,48322420424.5406,94.3,0.3128
-Germany,Europe,"Infectious, parasitic, neonatal and nutritional",1630.0,82348669.0,4272221986254.43,1.6,0.0020
-Germany,Europe,Injuries,6697.0,82348669.0,4272221986254.43,6.8,0.0081
-Germany,Europe,Noncommunicable diseases,90544.0,82348669.0,4272221986254.43,91.6,0.1100
-Ghana,Africa,"Infectious, parasitic, neonatal and nutritional",22146.0,29554303.0,137782499689.919,46.8,0.0749
-Ghana,Africa,Injuries,7306.0,29554303.0,137782499689.919,15.4,0.0247
-Ghana,Africa,Noncommunicable diseases,17886.0,29554303.0,137782499689.919,37.8,0.0605
-Greece,Europe,"Infectious, parasitic, neonatal and nutritional",67.0,10775971.0,304312550410.314,0.4,0.0006
-Greece,Europe,Injuries,1103.0,10775971.0,304312550410.314,6.3,0.0102
-Greece,Europe,Noncommunicable diseases,16316.0,10775971.0,304312550410.314,93.3,0.1514
-Grenada,Americas,"Infectious, parasitic, neonatal and nutritional",5.0,119966.0,1721679317.38406,4.8,0.0042
-Grenada,Americas,Injuries,17.0,119966.0,1721679317.38406,16.2,0.0142
-Grenada,Americas,Noncommunicable diseases,83.0,119966.0,1721679317.38406,79.0,0.0692
-Guatemala,Americas,"Infectious, parasitic, neonatal and nutritional",3679.0,15827690.0,129882783658.342,26.4,0.0232
-Guatemala,Americas,Injuries,3822.0,15827690.0,129882783658.342,27.5,0.0241
-Guatemala,Americas,Noncommunicable diseases,6411.0,15827690.0,129882783658.342,46.1,0.0405
-Guinea,Africa,"Infectious, parasitic, neonatal and nutritional",16421.0,11930985.0,26452297884.6273,57.1,0.1376
-Guinea,Africa,Injuries,4614.0,11930985.0,26452297884.6273,16.1,0.0387
-Guinea,Africa,Noncommunicable diseases,7712.0,11930985.0,26452297884.6273,26.8,0.0646
-Guinea-Bissau,Africa,"Infectious, parasitic, neonatal and nutritional",2940.0,1834552.0,3322925818.84943,60.4,0.1603
-Guinea-Bissau,Africa,Injuries,721.0,1834552.0,3322925818.84943,14.8,0.0393
-Guinea-Bissau,Africa,Noncommunicable diseases,1208.0,1834552.0,3322925818.84943,24.8,0.0658
-Guyana,Americas,"Infectious, parasitic, neonatal and nutritional",197.0,759087.0,8971766802.20281,17.4,0.0260
-Guyana,Americas,Injuries,317.0,759087.0,8971766802.20281,28.1,0.0418
-Guyana,Americas,Noncommunicable diseases,615.0,759087.0,8971766802.20281,54.5,0.0810
-Haiti,Americas,"Infectious, parasitic, neonatal and nutritional",7780.0,10713849.0,33912500081.8754,37.4,0.0726
-Haiti,Americas,Injuries,2973.0,10713849.0,33912500081.8754,14.3,0.0277
-Haiti,Americas,Noncommunicable diseases,10065.0,10713849.0,33912500081.8754,48.3,0.0939
-Honduras,Americas,"Infectious, parasitic, neonatal and nutritional",1242.0,9460798.0,50021631004.0765,17.3,0.0131
-Honduras,Americas,Injuries,1722.0,9460798.0,50021631004.0765,24.0,0.0182
-Honduras,Americas,Noncommunicable diseases,4209.0,9460798.0,50021631004.0765,58.7,0.0445
-Hungary,Europe,"Infectious, parasitic, neonatal and nutritional",90.0,9814023.0,276879232833.969,0.4,0.0009
-Hungary,Europe,Injuries,1507.0,9814023.0,276879232833.969,6.8,0.0154
-Hungary,Europe,Noncommunicable diseases,20621.0,9814023.0,276879232833.969,92.8,0.2101
-Iceland,Europe,"Infectious, parasitic, neonatal and nutritional",2.0,335439.0,18337029182.1567,1.1,0.0006
-Iceland,Europe,Injuries,24.0,335439.0,18337029182.1567,12.9,0.0072
-Iceland,Europe,Noncommunicable diseases,160.0,335439.0,18337029182.1567,86.0,0.0477
-India,South-East Asia,"Infectious, parasitic, neonatal and nutritional",655338.0,1338636340.0,7750273455775.05,22.5,0.0490
-India,South-East Asia,Injuries,492519.0,1338636340.0,7750273455775.05,16.9,0.0368
-India,South-East Asia,Noncommunicable diseases,1763813.0,1338636340.0,7750273455775.05,60.6,0.1318
-Indonesia,South-East Asia,"Infectious, parasitic, neonatal and nutritional",57012.0,261850182.0,2754479325709.95,16.3,0.0218
-Indonesia,South-East Asia,Injuries,45123.0,261850182.0,2754479325709.95,12.9,0.0172
-Indonesia,South-East Asia,Noncommunicable diseases,247738.0,261850182.0,2754479325709.95,70.8,0.0946
-"Iran, Islamic Rep.",Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",4624.0,83306231.0,1246977236689.01,5.3,0.0056
-"Iran, Islamic Rep.",Eastern Mediterranean,Injuries,23492.0,83306231.0,1246977236689.01,26.9,0.0282
-"Iran, Islamic Rep.",Eastern Mediterranean,Noncommunicable diseases,59186.0,83306231.0,1246977236689.01,67.8,0.0710
-Iraq,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",5271.0,38697943.0,402621288208.154,15.3,0.0136
-Iraq,Eastern Mediterranean,Injuries,9167.0,38697943.0,402621288208.154,26.5,0.0237
-Iraq,Eastern Mediterranean,Noncommunicable diseases,20119.0,38697943.0,402621288208.154,58.2,0.0520
-Ireland,Europe,"Infectious, parasitic, neonatal and nutritional",66.0,4755335.0,343859711086.748,1.9,0.0014
-Ireland,Europe,Injuries,390.0,4755335.0,343859711086.748,11.5,0.0082
-Ireland,Europe,Noncommunicable diseases,2944.0,4755335.0,343859711086.748,86.6,0.0619
-Israel,Europe,"Infectious, parasitic, neonatal and nutritional",164.0,8546000.0,329626669996.251,3.4,0.0019
-Israel,Europe,Injuries,421.0,8546000.0,329626669996.251,8.8,0.0049
-Israel,Europe,Noncommunicable diseases,4210.0,8546000.0,329626669996.251,87.8,0.0493
-Italy,Europe,"Infectious, parasitic, neonatal and nutritional",593.0,60627498.0,2475889856374.81,0.8,0.0010
-Italy,Europe,Injuries,5760.0,60627498.0,2475889856374.81,7.6,0.0095
-Italy,Europe,Noncommunicable diseases,69087.0,60627498.0,2475889856374.81,91.6,0.1140
-Jamaica,Americas,"Infectious, parasitic, neonatal and nutritional",191.0,2802695.0,27763609394.364,7.0,0.0068
-Jamaica,Americas,Injuries,426.0,2802695.0,27763609394.364,15.7,0.0152
-Jamaica,Americas,Noncommunicable diseases,2097.0,2802695.0,27763609394.364,77.3,0.0748
-Japan,Western Pacific,"Infectious, parasitic, neonatal and nutritional",2378.0,127076000.0,5175547373033.96,1.8,0.0019
-Japan,Western Pacific,Injuries,19500.0,127076000.0,5175547373033.96,14.9,0.0153
-Japan,Western Pacific,Noncommunicable diseases,109401.0,127076000.0,5175547373033.96,83.3,0.0861
-Jordan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",417.0,9964656.0,95990535684.7168,8.7,0.0042
-Jordan,Eastern Mediterranean,Injuries,1176.0,9964656.0,95990535684.7168,24.6,0.0118
-Jordan,Eastern Mediterranean,Noncommunicable diseases,3181.0,9964656.0,95990535684.7168,66.6,0.0319
-Kazakhstan,Europe,"Infectious, parasitic, neonatal and nutritional",981.0,17794055.0,430809427136.853,3.1,0.0055
-Kazakhstan,Europe,Injuries,5288.0,17794055.0,430809427136.853,16.9,0.0297
-Kazakhstan,Europe,Noncommunicable diseases,24996.0,17794055.0,430809427136.853,79.9,0.1405
-Kenya,Africa,"Infectious, parasitic, neonatal and nutritional",46060.0,47894670.0,203306055187.482,57.1,0.0962
-Kenya,Africa,Injuries,16541.0,47894670.0,203306055187.482,20.5,0.0345
-Kenya,Africa,Noncommunicable diseases,18122.0,47894670.0,203306055187.482,22.4,0.0378
-Kiribati,Western Pacific,"Infectious, parasitic, neonatal and nutritional",32.0,118513.0,236772084.150313,26.4,0.0270
-Kiribati,Western Pacific,Injuries,31.0,118513.0,236772084.150313,25.6,0.0262
-Kiribati,Western Pacific,Noncommunicable diseases,58.0,118513.0,236772084.150313,47.9,0.0489
-"Korea, Rep.",Western Pacific,"Infectious, parasitic, neonatal and nutritional",1018.0,51217803.0,2039219357482.86,2.7,0.0020
-"Korea, Rep.",Western Pacific,Injuries,4263.0,51217803.0,2039219357482.86,11.2,0.0083
-"Korea, Rep.",Western Pacific,Noncommunicable diseases,32678.0,51217803.0,2039219357482.86,86.1,0.0638
-Kuwait,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",74.0,4048085.0,216475883430.819,6.0,0.0018
-Kuwait,Eastern Mediterranean,Injuries,255.0,4048085.0,216475883430.819,20.7,0.0063
-Kuwait,Eastern Mediterranean,Noncommunicable diseases,900.0,4048085.0,216475883430.819,73.2,0.0222
-Kyrgyz Republic,Europe,"Infectious, parasitic, neonatal and nutritional",610.0,6079500.0,29864829313.3557,7.0,0.0100
-Kyrgyz Republic,Europe,Injuries,1034.0,6079500.0,29864829313.3557,11.8,0.0170
-Kyrgyz Republic,Europe,Noncommunicable diseases,7102.0,6079500.0,29864829313.3557,81.2,0.1168
-Lao PDR,Western Pacific,"Infectious, parasitic, neonatal and nutritional",7139.0,6891363.0,47209839789.6086,47.9,0.1036
-Lao PDR,Western Pacific,Injuries,1823.0,6891363.0,47209839789.6086,12.2,0.0265
-Lao PDR,Western Pacific,Noncommunicable diseases,5948.0,6891363.0,47209839789.6086,39.9,0.0863
-Latvia,Europe,"Infectious, parasitic, neonatal and nutritional",26.0,1959537.0,53905562377.4217,0.6,0.0013
-Latvia,Europe,Injuries,356.0,1959537.0,53905562377.4217,8.1,0.0182
-Latvia,Europe,Noncommunicable diseases,4022.0,1959537.0,53905562377.4217,91.3,0.2053
-Lebanon,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",94.0,6258619.0,107820380605.131,2.4,0.0015
-Lebanon,Eastern Mediterranean,Injuries,639.0,6258619.0,107820380605.131,16.1,0.0102
-Lebanon,Eastern Mediterranean,Noncommunicable diseases,3232.0,6258619.0,107820380605.131,81.5,0.0516
-Lesotho,Africa,"Infectious, parasitic, neonatal and nutritional",2517.0,2143872.0,5763016498.37673,53.0,0.1174
-Lesotho,Africa,Injuries,1048.0,2143872.0,5763016498.37673,22.1,0.0489
-Lesotho,Africa,Noncommunicable diseases,1187.0,2143872.0,5763016498.37673,25.0,0.0554
-Liberia,Africa,"Infectious, parasitic, neonatal and nutritional",4373.0,4706097.0,7178953380.43013,52.9,0.0929
-Liberia,Africa,Injuries,1243.0,4706097.0,7178953380.43013,15.0,0.0264
-Liberia,Africa,Noncommunicable diseases,2656.0,4706097.0,7178953380.43013,32.1,0.0564
-Libya,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",300.0,6282196.0,116562883827.047,6.0,0.0048
-Libya,Eastern Mediterranean,Injuries,1135.0,6282196.0,116562883827.047,22.7,0.0181
-Libya,Eastern Mediterranean,Noncommunicable diseases,3571.0,6282196.0,116562883827.047,71.3,0.0568
-Lithuania,Europe,"Infectious, parasitic, neonatal and nutritional",59.0,2868231.0,91570579072.6829,1.1,0.0021
-Lithuania,Europe,Injuries,670.0,2868231.0,91570579072.6829,12.5,0.0234
-Lithuania,Europe,Noncommunicable diseases,4633.0,2868231.0,91570579072.6829,86.4,0.1615
-Luxembourg,Europe,"Infectious, parasitic, neonatal and nutritional",6.0,582014.0,67678741186.3037,1.5,0.0010
-Luxembourg,Europe,Injuries,55.0,582014.0,67678741186.3037,13.5,0.0094
-Luxembourg,Europe,Noncommunicable diseases,347.0,582014.0,67678741186.3037,85.0,0.0596
-Madagascar,Africa,"Infectious, parasitic, neonatal and nutritional",18499.0,25501941.0,38981290520.8233,44.2,0.0725
-Madagascar,Africa,Injuries,7438.0,25501941.0,38981290520.8233,17.8,0.0292
-Madagascar,Africa,Noncommunicable diseases,15908.0,25501941.0,38981290520.8233,38.0,0.0624
-Malawi,Africa,"Infectious, parasitic, neonatal and nutritional",18688.0,17405624.0,25012614702.1528,56.5,0.1074
-Malawi,Africa,Injuries,5213.0,17405624.0,25012614702.1528,15.8,0.0300
-Malawi,Africa,Noncommunicable diseases,9165.0,17405624.0,25012614702.1528,27.7,0.0527
-Malaysia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",1456.0,31526418.0,783740339600.78,5.6,0.0046
-Malaysia,Western Pacific,Injuries,6745.0,31526418.0,783740339600.78,26.0,0.0214
-Malaysia,Western Pacific,Noncommunicable diseases,17740.0,31526418.0,783740339600.78,68.4,0.0563
-Maldives,South-East Asia,"Infectious, parasitic, neonatal and nutritional",16.0,454252.0,8361084209.65743,9.8,0.0035
-Maldives,South-East Asia,Injuries,40.0,454252.0,8361084209.65743,24.4,0.0088
-Maldives,South-East Asia,Noncommunicable diseases,108.0,454252.0,8361084209.65743,65.9,0.0238
-Mali,Africa,"Infectious, parasitic, neonatal and nutritional",27931.0,18700106.0,39498122203.1308,60.8,0.1494
-Mali,Africa,Injuries,6891.0,18700106.0,39498122203.1308,15.0,0.0369
-Mali,Africa,Noncommunicable diseases,11128.0,18700106.0,39498122203.1308,24.2,0.0595
-Malta,Europe,"Infectious, parasitic, neonatal and nutritional",2.0,455356.0,18356553184.465,0.4,0.0004
-Malta,Europe,Injuries,23.0,455356.0,18356553184.465,4.9,0.0051
-Malta,Europe,Noncommunicable diseases,446.0,455356.0,18356553184.465,94.7,0.0979
-Marshall Islands,Western Pacific,"Infectious, parasitic, neonatal and nutritional",21.0,48329.0,211499534.350612,38.9,0.0435
-Marshall Islands,Western Pacific,Injuries,9.0,48329.0,211499534.350612,16.7,0.0186
-Marshall Islands,Western Pacific,Noncommunicable diseases,24.0,48329.0,211499534.350612,44.4,0.0497
-Mauritania,Africa,"Infectious, parasitic, neonatal and nutritional",3992.0,4051890.0,20586879840.5052,57.4,0.0985
-Mauritania,Africa,Injuries,1106.0,4051890.0,20586879840.5052,15.9,0.0273
-Mauritania,Africa,Noncommunicable diseases,1858.0,4051890.0,20586879840.5052,26.7,0.0459
-Mauritius,Africa,"Infectious, parasitic, neonatal and nutritional",77.0,1263747.0,26948221725.2548,7.5,0.0061
-Mauritius,Africa,Injuries,229.0,1263747.0,26948221725.2548,22.3,0.0181
-Mauritius,Africa,Noncommunicable diseases,722.0,1263747.0,26948221725.2548,70.2,0.0571
-Mexico,Americas,"Infectious, parasitic, neonatal and nutritional",5845.0,121519221.0,2409843112983.73,7.0,0.0048
-Mexico,Americas,Injuries,22691.0,121519221.0,2409843112983.73,27.1,0.0187
-Mexico,Americas,Noncommunicable diseases,55046.0,121519221.0,2409843112983.73,65.9,0.0453
-"Micronesia, Fed. Sts.",Western Pacific,"Infectious, parasitic, neonatal and nutritional",24.0,109925.0,378812582.795465,25.8,0.0218
-"Micronesia, Fed. Sts.",Western Pacific,Injuries,26.0,109925.0,378812582.795465,28.0,0.0237
-"Micronesia, Fed. Sts.",Western Pacific,Noncommunicable diseases,43.0,109925.0,378812582.795465,46.2,0.0391
-Moldova,Europe,"Infectious, parasitic, neonatal and nutritional",147.0,2803186.0,30319511534.9952,1.6,0.0052
-Moldova,Europe,Injuries,1029.0,2803186.0,30319511534.9952,11.5,0.0367
-Moldova,Europe,Noncommunicable diseases,7797.0,2803186.0,30319511534.9952,86.9,0.2781
-Mongolia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",395.0,3029555.0,33503698720.8571,7.6,0.0130
-Mongolia,Western Pacific,Injuries,825.0,3029555.0,33503698720.8571,15.9,0.0272
-Mongolia,Western Pacific,Noncommunicable diseases,3954.0,3029555.0,33503698720.8571,76.4,0.1305
-Montenegro,Europe,"Infectious, parasitic, neonatal and nutritional",7.0,622303.0,11697996516.2636,0.6,0.0011
-Montenegro,Europe,Injuries,65.0,622303.0,11697996516.2636,6.0,0.0104
-Montenegro,Europe,Noncommunicable diseases,1006.0,622303.0,11697996516.2636,93.3,0.1617
-Morocco,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",3966.0,35107264.0,271802885729.109,12.3,0.0113
-Morocco,Eastern Mediterranean,Injuries,6066.0,35107264.0,271802885729.109,18.8,0.0173
-Morocco,Eastern Mediterranean,Noncommunicable diseases,22244.0,35107264.0,271802885729.109,68.9,0.0634
-Mozambique,Africa,"Infectious, parasitic, neonatal and nutritional",42371.0,27696493.0,35449309348.5047,60.1,0.1530
-Mozambique,Africa,Injuries,15597.0,27696493.0,35449309348.5047,22.1,0.0563
-Mozambique,Africa,Noncommunicable diseases,12524.0,27696493.0,35449309348.5047,17.8,0.0452
-Myanmar,South-East Asia,"Infectious, parasitic, neonatal and nutritional",21584.0,51892349.0,213254587482.142,19.8,0.0416
-Myanmar,South-East Asia,Injuries,18407.0,51892349.0,213254587482.142,16.9,0.0355
-Myanmar,South-East Asia,Noncommunicable diseases,69244.0,51892349.0,213254587482.142,63.4,0.1334
-Namibia,Africa,"Infectious, parasitic, neonatal and nutritional",991.0,2323352.0,24691737303.1004,36.3,0.0427
-Namibia,Africa,Injuries,556.0,2323352.0,24691737303.1004,20.4,0.0239
-Namibia,Africa,Noncommunicable diseases,1183.0,2323352.0,24691737303.1004,43.3,0.0509
-Nauru,Western Pacific,"Infectious, parasitic, neonatal and nutritional",1.0,11437.0,116921617.935426,25.0,0.0087
-Nauru,Western Pacific,Injuries,1.0,11437.0,116921617.935426,25.0,0.0087
-Nauru,Western Pacific,Noncommunicable diseases,2.0,11437.0,116921617.935426,50.0,0.0175
-Nepal,South-East Asia,"Infectious, parasitic, neonatal and nutritional",9829.0,27861186.0,90400474175.0547,21.1,0.0353
-Nepal,South-East Asia,Injuries,8350.0,27861186.0,90400474175.0547,17.9,0.0300
-Nepal,South-East Asia,Noncommunicable diseases,28508.0,27861186.0,90400474175.0547,61.1,0.1023
-Netherlands,Europe,"Infectious, parasitic, neonatal and nutritional",185.0,17030314.0,917045394441.436,1.1,0.0011
-Netherlands,Europe,Injuries,1288.0,17030314.0,917045394441.436,8.0,0.0076
-Netherlands,Europe,Noncommunicable diseases,14655.0,17030314.0,917045394441.436,90.9,0.0861
-New Zealand,Western Pacific,"Infectious, parasitic, neonatal and nutritional",55.0,4714100.0,196240440031.016,1.8,0.0012
-New Zealand,Western Pacific,Injuries,369.0,4714100.0,196240440031.016,11.8,0.0078
-New Zealand,Western Pacific,Noncommunicable diseases,2713.0,4714100.0,196240440031.016,86.5,0.0576
-Nicaragua,Americas,"Infectious, parasitic, neonatal and nutritional",692.0,6389235.0,36637927326.7563,11.8,0.0108
-Nicaragua,Americas,Injuries,1205.0,6389235.0,36637927326.7563,20.6,0.0189
-Nicaragua,Americas,Noncommunicable diseases,3958.0,6389235.0,36637927326.7563,67.6,0.0619
-Niger,Africa,"Infectious, parasitic, neonatal and nutritional",34101.0,20921743.0,23931559623.362,67.8,0.1630
-Niger,Africa,Injuries,7020.0,20921743.0,23931559623.362,14.0,0.0336
-Niger,Africa,Noncommunicable diseases,9144.0,20921743.0,23931559623.362,18.2,0.0437
-Nigeria,Africa,"Infectious, parasitic, neonatal and nutritional",312269.0,188666931.0,982780034192.258,62.7,0.1655
-Nigeria,Africa,Injuries,98218.0,188666931.0,982780034192.258,19.7,0.0521
-Nigeria,Africa,Noncommunicable diseases,87248.0,188666931.0,982780034192.258,17.5,0.0462
-North Macedonia,Europe,"Infectious, parasitic, neonatal and nutritional",24.0,2072490.0,32234426538.2126,0.7,0.0012
-North Macedonia,Europe,Injuries,176.0,2072490.0,32234426538.2126,5.2,0.0085
-North Macedonia,Europe,Noncommunicable diseases,3199.0,2072490.0,32234426538.2126,94.1,0.1544
-Norway,Europe,"Infectious, parasitic, neonatal and nutritional",89.0,5234519.0,332641575269.002,2.3,0.0017
-Norway,Europe,Injuries,515.0,5234519.0,332641575269.002,13.2,0.0098
-Norway,Europe,Noncommunicable diseases,3306.0,5234519.0,332641575269.002,84.6,0.0632
-Oman,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",80.0,4398070.0,154943804623.205,5.0,0.0018
-Oman,Eastern Mediterranean,Injuries,553.0,4398070.0,154943804623.205,34.5,0.0126
-Oman,Eastern Mediterranean,Noncommunicable diseases,969.0,4398070.0,154943804623.205,60.5,0.0220
-Pakistan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",117630.0,213524840.0,1013542107027.34,35.5,0.0551
-Pakistan,Eastern Mediterranean,Injuries,62399.0,213524840.0,1013542107027.34,18.8,0.0292
-Pakistan,Eastern Mediterranean,Noncommunicable diseases,151153.0,213524840.0,1013542107027.34,45.6,0.0708
-Palau,Western Pacific,"Infectious, parasitic, neonatal and nutritional",2.0,17816.0,327187254.866649,13.3,0.0112
-Palau,Western Pacific,Injuries,5.0,17816.0,327187254.866649,33.3,0.0281
-Palau,Western Pacific,Noncommunicable diseases,8.0,17816.0,327187254.866649,53.3,0.0449
-Panama,Americas,"Infectious, parasitic, neonatal and nutritional",433.0,4026336.0,122729854564.379,15.9,0.0108
-Panama,Americas,Injuries,718.0,4026336.0,122729854564.379,26.3,0.0178
-Panama,Americas,Noncommunicable diseases,1578.0,4026336.0,122729854564.379,57.8,0.0392
-Papua New Guinea,Western Pacific,"Infectious, parasitic, neonatal and nutritional",4495.0,8899169.0,34924111919.2525,43.4,0.0505
-Papua New Guinea,Western Pacific,Injuries,2615.0,8899169.0,34924111919.2525,25.2,0.0294
-Papua New Guinea,Western Pacific,Noncommunicable diseases,3247.0,8899169.0,34924111919.2525,31.4,0.0365
-Paraguay,Americas,"Infectious, parasitic, neonatal and nutritional",544.0,6266615.0,82492091751.5538,8.6,0.0087
-Paraguay,Americas,Injuries,1460.0,6266615.0,82492091751.5538,23.0,0.0233
-Paraguay,Americas,Noncommunicable diseases,4333.0,6266615.0,82492091751.5538,68.4,0.0691
-Peru,Americas,"Infectious, parasitic, neonatal and nutritional",1800.0,31132779.0,383596875076.523,8.5,0.0058
-Peru,Americas,Injuries,5296.0,31132779.0,383596875076.523,25.1,0.0170
-Peru,Americas,Noncommunicable diseases,14027.0,31132779.0,383596875076.523,66.4,0.0451
-Philippines,Western Pacific,"Infectious, parasitic, neonatal and nutritional",22391.0,104875266.0,798735245433.432,18.1,0.0214
-Philippines,Western Pacific,Injuries,16177.0,104875266.0,798735245433.432,13.1,0.0154
-Philippines,Western Pacific,Noncommunicable diseases,84891.0,104875266.0,798735245433.432,68.8,0.0809
-Poland,Europe,"Infectious, parasitic, neonatal and nutritional",292.0,37970087.0,1082037503386.78,0.5,0.0008
-Poland,Europe,Injuries,5300.0,37970087.0,1082037503386.78,8.9,0.0140
-Poland,Europe,Noncommunicable diseases,53628.0,37970087.0,1082037503386.78,90.6,0.1412
-Portugal,Europe,"Infectious, parasitic, neonatal and nutritional",172.0,10325452.0,328840222198.501,1.6,0.0017
-Portugal,Europe,Injuries,834.0,10325452.0,328840222198.501,7.8,0.0081
-Portugal,Europe,Noncommunicable diseases,9683.0,10325452.0,328840222198.501,90.6,0.0938
-Qatar,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",22.0,2595166.0,253763429745.086,4.0,0.0008
-Qatar,Eastern Mediterranean,Injuries,202.0,2595166.0,253763429745.086,36.5,0.0078
-Qatar,Eastern Mediterranean,Noncommunicable diseases,330.0,2595166.0,253763429745.086,59.6,0.0127
-Romania,Europe,"Infectious, parasitic, neonatal and nutritional",750.0,19702267.0,487802773897.5,1.6,0.0038
-Romania,Europe,Injuries,3245.0,19702267.0,487802773897.5,6.9,0.0165
-Romania,Europe,Noncommunicable diseases,43330.0,19702267.0,487802773897.5,91.6,0.2199
-Russian Federation,Europe,"Infectious, parasitic, neonatal and nutritional",5005.0,144342397.0,3738837933428.46,1.4,0.0035
-Russian Federation,Europe,Injuries,48344.0,144342397.0,3738837933428.46,13.8,0.0335
-Russian Federation,Europe,Noncommunicable diseases,296462.0,144342397.0,3738837933428.46,84.7,0.2054
-Rwanda,Africa,"Infectious, parasitic, neonatal and nutritional",9148.0,11930899.0,22769046384.4796,48.7,0.0767
-Rwanda,Africa,Injuries,4042.0,11930899.0,22769046384.4796,21.5,0.0339
-Rwanda,Africa,Noncommunicable diseases,5586.0,11930899.0,22769046384.4796,29.8,0.0468
-Samoa,Western Pacific,"Infectious, parasitic, neonatal and nutritional",21.0,205544.0,1277419516.04634,13.6,0.0102
-Samoa,Western Pacific,Injuries,34.0,205544.0,1277419516.04634,22.1,0.0165
-Samoa,Western Pacific,Noncommunicable diseases,99.0,205544.0,1277419516.04634,64.3,0.0482
-San Marino,Europe,"Infectious, parasitic, neonatal and nutritional",0.0,33834.0,1977005285.03501,0.0,0.0000
-San Marino,Europe,Injuries,4.0,33834.0,1977005285.03501,18.2,0.0118
-San Marino,Europe,Noncommunicable diseases,18.0,33834.0,1977005285.03501,81.8,0.0532
-Sao Tome and Principe,Africa,"Infectious, parasitic, neonatal and nutritional",105.0,204632.0,788259685.008913,45.5,0.0513
-Sao Tome and Principe,Africa,Injuries,52.0,204632.0,788259685.008913,22.5,0.0254
-Sao Tome and Principe,Africa,Noncommunicable diseases,74.0,204632.0,788259685.008913,32.0,0.0362
-Saudi Arabia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",725.0,33416270.0,1627080576754.64,3.9,0.0022
-Saudi Arabia,Eastern Mediterranean,Injuries,3425.0,33416270.0,1627080576754.64,18.6,0.0102
-Saudi Arabia,Eastern Mediterranean,Noncommunicable diseases,14242.0,33416270.0,1627080576754.64,77.4,0.0426
-Senegal,Africa,"Infectious, parasitic, neonatal and nutritional",11730.0,14751356.0,45995086773.7203,56.2,0.0795
-Senegal,Africa,Injuries,3697.0,14751356.0,45995086773.7203,17.7,0.0251
-Senegal,Africa,Noncommunicable diseases,5442.0,14751356.0,45995086773.7203,26.1,0.0369
-Serbia,Europe,"Infectious, parasitic, neonatal and nutritional",139.0,7058322.0,114223779989.505,0.8,0.0020
-Serbia,Europe,Injuries,860.0,7058322.0,114223779989.505,4.9,0.0122
-Serbia,Europe,Noncommunicable diseases,16520.0,7058322.0,114223779989.505,94.3,0.2340
-Seychelles,Africa,"Infectious, parasitic, neonatal and nutritional",13.0,94677.0,2549058184.23737,15.1,0.0137
-Seychelles,Africa,Injuries,31.0,94677.0,2549058184.23737,36.0,0.0327
-Seychelles,Africa,Noncommunicable diseases,42.0,94677.0,2549058184.23737,48.8,0.0444
-Sierra Leone,Africa,"Infectious, parasitic, neonatal and nutritional",15639.0,7493913.0,11791680967.0932,64.2,0.2087
-Sierra Leone,Africa,Injuries,3757.0,7493913.0,11791680967.0932,15.4,0.0501
-Sierra Leone,Africa,Noncommunicable diseases,4974.0,7493913.0,11791680967.0932,20.4,0.0664
-Singapore,Western Pacific,"Infectious, parasitic, neonatal and nutritional",79.0,5607283.0,511780319860.235,2.5,0.0014
-Singapore,Western Pacific,Injuries,159.0,5607283.0,511780319860.235,5.1,0.0028
-Singapore,Western Pacific,Noncommunicable diseases,2873.0,5607283.0,511780319860.235,92.3,0.0512
-Slovak Republic,Europe,"Infectious, parasitic, neonatal and nutritional",49.0,5430798.0,159271814312.37,0.6,0.0009
-Slovak Republic,Europe,Injuries,628.0,5430798.0,159271814312.37,7.6,0.0116
-Slovak Republic,Europe,Noncommunicable diseases,7558.0,5430798.0,159271814312.37,91.8,0.1392
-Slovenia,Europe,"Infectious, parasitic, neonatal and nutritional",12.0,2065042.0,71972995813.7254,0.5,0.0006
-Slovenia,Europe,Injuries,356.0,2065042.0,71972995813.7254,14.2,0.0172
-Slovenia,Europe,Noncommunicable diseases,2131.0,2065042.0,71972995813.7254,85.3,0.1032
-Solomon Islands,Western Pacific,"Infectious, parasitic, neonatal and nutritional",171.0,628102.0,1639214293.52831,27.0,0.0272
-Solomon Islands,Western Pacific,Injuries,141.0,628102.0,1639214293.52831,22.2,0.0224
-Solomon Islands,Western Pacific,Noncommunicable diseases,322.0,628102.0,1639214293.52831,50.8,0.0513
-Somalia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",23833.0,14292847.0,15381938113.3973,69.7,0.1667
-Somalia,Eastern Mediterranean,Injuries,5516.0,14292847.0,15381938113.3973,16.1,0.0386
-Somalia,Eastern Mediterranean,Noncommunicable diseases,4847.0,14292847.0,15381938113.3973,14.2,0.0339
-South Africa,Africa,"Infectious, parasitic, neonatal and nutritional",42071.0,56422274.0,781125531699.056,43.2,0.0746
-South Africa,Africa,Injuries,19742.0,56422274.0,781125531699.056,20.3,0.0350
-South Africa,Africa,Noncommunicable diseases,35595.0,56422274.0,781125531699.056,36.5,0.0631
-Spain,Europe,"Infectious, parasitic, neonatal and nutritional",489.0,46484062.0,1789519475668.72,1.1,0.0011
-Spain,Europe,Injuries,3304.0,46484062.0,1789519475668.72,7.6,0.0071
-Spain,Europe,Noncommunicable diseases,39831.0,46484062.0,1789519475668.72,91.3,0.0857
-Sri Lanka,South-East Asia,"Infectious, parasitic, neonatal and nutritional",1591.0,21425494.0,273621616469.349,4.6,0.0074
-Sri Lanka,South-East Asia,Injuries,7050.0,21425494.0,273621616469.349,20.2,0.0329
-Sri Lanka,South-East Asia,Noncommunicable diseases,26274.0,21425494.0,273621616469.349,75.3,0.1226
-St. Kitts and Nevis,Americas,"Infectious, parasitic, neonatal and nutritional",2.0,47788.0,1401600728.55081,5.3,0.0042
-St. Kitts and Nevis,Americas,Injuries,9.0,47788.0,1401600728.55081,23.7,0.0188
-St. Kitts and Nevis,Americas,Noncommunicable diseases,27.0,47788.0,1401600728.55081,71.1,0.0565
-St. Lucia,Americas,"Infectious, parasitic, neonatal and nutritional",7.0,176413.0,2612761513.3336,3.7,0.0040
-St. Lucia,Americas,Injuries,34.0,176413.0,2612761513.3336,17.9,0.0193
-St. Lucia,Americas,Noncommunicable diseases,149.0,176413.0,2612761513.3336,78.4,0.0845
-St. Vincent and the Grenadines,Americas,"Infectious, parasitic, neonatal and nutritional",7.0,105963.0,1411030517.787,6.5,0.0066
-St. Vincent and the Grenadines,Americas,Injuries,20.0,105963.0,1411030517.787,18.7,0.0189
-St. Vincent and the Grenadines,Americas,Noncommunicable diseases,80.0,105963.0,1411030517.787,74.8,0.0755
-Sudan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",33809.0,39377169.0,186372835393.388,48.9,0.0859
-Sudan,Eastern Mediterranean,Injuries,16457.0,39377169.0,186372835393.388,23.8,0.0418
-Sudan,Eastern Mediterranean,Noncommunicable diseases,18851.0,39377169.0,186372835393.388,27.3,0.0479
-Suriname,Americas,"Infectious, parasitic, neonatal and nutritional",43.0,581453.0,10270019508.2888,11.3,0.0074
-Suriname,Americas,Injuries,113.0,581453.0,10270019508.2888,29.7,0.0194
-Suriname,Americas,Noncommunicable diseases,225.0,581453.0,10270019508.2888,59.1,0.0387
-Sweden,Europe,"Infectious, parasitic, neonatal and nutritional",236.0,9923085.0,509395932462.041,2.7,0.0024
-Sweden,Europe,Injuries,965.0,9923085.0,509395932462.041,11.1,0.0097
-Sweden,Europe,Noncommunicable diseases,7473.0,9923085.0,509395932462.041,86.2,0.0753
-Switzerland,Europe,"Infectious, parasitic, neonatal and nutritional",79.0,8373338.0,568611561634.219,1.1,0.0009
-Switzerland,Europe,Injuries,760.0,8373338.0,568611561634.219,10.5,0.0091
-Switzerland,Europe,Noncommunicable diseases,6387.0,8373338.0,568611561634.219,88.4,0.0763
-Tajikistan,Europe,"Infectious, parasitic, neonatal and nutritional",2499.0,8725318.0,26971914352.3995,22.4,0.0286
-Tajikistan,Europe,Injuries,1504.0,8725318.0,26971914352.3995,13.5,0.0172
-Tajikistan,Europe,Noncommunicable diseases,7132.0,8725318.0,26971914352.3995,64.1,0.0817
-Tanzania,Africa,"Infectious, parasitic, neonatal and nutritional",48814.0,54401802.0,125651735505.658,54.1,0.0897
-Tanzania,Africa,Injuries,21216.0,54401802.0,125651735505.658,23.5,0.0390
-Tanzania,Africa,Noncommunicable diseases,20180.0,54401802.0,125651735505.658,22.4,0.0371
-Thailand,South-East Asia,"Infectious, parasitic, neonatal and nutritional",5659.0,70607037.0,1157483380202.26,6.0,0.0080
-Thailand,South-East Asia,Injuries,21924.0,70607037.0,1157483380202.26,23.4,0.0311
-Thailand,South-East Asia,Noncommunicable diseases,66240.0,70607037.0,1157483380202.26,70.6,0.0938
-Timor-Leste,South-East Asia,"Infectious, parasitic, neonatal and nutritional",692.0,1224562.0,4024883799.45172,42.2,0.0565
-Timor-Leste,South-East Asia,Injuries,296.0,1224562.0,4024883799.45172,18.1,0.0242
-Timor-Leste,South-East Asia,Noncommunicable diseases,651.0,1224562.0,4024883799.45172,39.7,0.0532
-Togo,Africa,"Infectious, parasitic, neonatal and nutritional",9134.0,7661354.0,14845731642.3475,59.1,0.1192
-Togo,Africa,Injuries,2487.0,7661354.0,14845731642.3475,16.1,0.0325
-Togo,Africa,Noncommunicable diseases,3826.0,7661354.0,14845731642.3475,24.8,0.0499
-Tonga,Western Pacific,"Infectious, parasitic, neonatal and nutritional",10.0,105707.0,638381325.354874,10.9,0.0095
-Tonga,Western Pacific,Injuries,19.0,105707.0,638381325.354874,20.7,0.0180
-Tonga,Western Pacific,Noncommunicable diseases,63.0,105707.0,638381325.354874,68.5,0.0596
-Trinidad and Tobago,Americas,"Infectious, parasitic, neonatal and nutritional",47.0,1469330.0,40674647471.0488,3.6,0.0032
-Trinidad and Tobago,Americas,Injuries,286.0,1469330.0,40674647471.0488,21.7,0.0195
-Trinidad and Tobago,Americas,Noncommunicable diseases,986.0,1469330.0,40674647471.0488,74.8,0.0671
-Tunisia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",450.0,11685667.0,125637256161.771,4.1,0.0039
-Tunisia,Eastern Mediterranean,Injuries,1766.0,11685667.0,125637256161.771,16.1,0.0151
-Tunisia,Eastern Mediterranean,Noncommunicable diseases,8736.0,11685667.0,125637256161.771,79.8,0.0748
-Turkiye,Europe,"Infectious, parasitic, neonatal and nutritional",2248.0,81019394.0,2106258451913.1,3.0,0.0028
-Turkiye,Europe,Injuries,7343.0,81019394.0,2106258451913.1,9.7,0.0091
-Turkiye,Europe,Noncommunicable diseases,65929.0,81019394.0,2106258451913.1,87.3,0.0814
-Turkmenistan,Europe,"Infectious, parasitic, neonatal and nutritional",956.0,5868561.0,76796067930.5985,8.4,0.0163
-Turkmenistan,Europe,Injuries,1528.0,5868561.0,76796067930.5985,13.4,0.0260
-Turkmenistan,Europe,Noncommunicable diseases,8931.0,5868561.0,76796067930.5985,78.2,0.1522
-Tuvalu,Western Pacific,"Infectious, parasitic, neonatal and nutritional",2.0,10852.0,44775454.7790815,18.2,0.0184
-Tuvalu,Western Pacific,Injuries,3.0,10852.0,44775454.7790815,27.3,0.0276
-Tuvalu,Western Pacific,Noncommunicable diseases,6.0,10852.0,44775454.7790815,54.5,0.0553
-Uganda,Africa,"Infectious, parasitic, neonatal and nutritional",44407.0,38748299.0,82813146623.4566,54.0,0.1146
-Uganda,Africa,Injuries,20469.0,38748299.0,82813146623.4566,24.9,0.0528
-Uganda,Africa,Noncommunicable diseases,17422.0,38748299.0,82813146623.4566,21.2,0.0450
-Ukraine,Europe,"Infectious, parasitic, neonatal and nutritional",1966.0,45004673.0,492283780388.951,1.5,0.0044
-Ukraine,Europe,Injuries,12228.0,45004673.0,492283780388.951,9.0,0.0272
-Ukraine,Europe,Noncommunicable diseases,121104.0,45004673.0,492283780388.951,89.5,0.2691
-United Arab Emirates,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",82.0,8994263.0,640792542144.529,3.8,0.0009
-United Arab Emirates,Eastern Mediterranean,Injuries,753.0,8994263.0,640792542144.529,35.2,0.0084
-United Arab Emirates,Eastern Mediterranean,Noncommunicable diseases,1303.0,8994263.0,640792542144.529,60.9,0.0145
-United Kingdom,Europe,"Infectious, parasitic, neonatal and nutritional",683.0,65611593.0,2972935520334.54,1.1,0.0010
-United Kingdom,Europe,Injuries,4714.0,65611593.0,2972935520334.54,7.3,0.0072
-United Kingdom,Europe,Noncommunicable diseases,59412.0,65611593.0,2972935520334.54,91.7,0.0906
-United States,Americas,"Infectious, parasitic, neonatal and nutritional",5726.0,323071755.0,19050245063231.6,2.0,0.0018
-United States,Americas,Injuries,40732.0,323071755.0,19050245063231.6,14.4,0.0126
-United States,Americas,Noncommunicable diseases,236052.0,323071755.0,19050245063231.6,83.6,0.0731
-Uruguay,Americas,"Infectious, parasitic, neonatal and nutritional",59.0,3413766.0,78658307185.6021,1.9,0.0017
-Uruguay,Americas,Injuries,472.0,3413766.0,78658307185.6021,15.1,0.0138
-Uruguay,Americas,Noncommunicable diseases,2588.0,3413766.0,78658307185.6021,83.0,0.0758
-Uzbekistan,Europe,"Infectious, parasitic, neonatal and nutritional",3399.0,31847900.0,212232800909.881,7.8,0.0107
-Uzbekistan,Europe,Injuries,4398.0,31847900.0,212232800909.881,10.1,0.0138
-Uzbekistan,Europe,Noncommunicable diseases,35865.0,31847900.0,212232800909.881,82.1,0.1126
-Vanuatu,Western Pacific,"Infectious, parasitic, neonatal and nutritional",42.0,283218.0,827508733.221128,17.4,0.0148
-Vanuatu,Western Pacific,Injuries,45.0,283218.0,827508733.221128,18.7,0.0159
-Vanuatu,Western Pacific,Noncommunicable diseases,154.0,283218.0,827508733.221128,63.9,0.0544
-Vietnam,Western Pacific,"Infectious, parasitic, neonatal and nutritional",10706.0,93126529.0,795831620448.521,8.3,0.0115
-Vietnam,Western Pacific,Injuries,23578.0,93126529.0,795831620448.521,18.2,0.0253
-Vietnam,Western Pacific,Noncommunicable diseases,94987.0,93126529.0,795831620448.521,73.5,0.1020
-Zambia,Africa,"Infectious, parasitic, neonatal and nutritional",19892.0,16767761.0,56746599390.2726,59.9,0.1186
-Zambia,Africa,Injuries,7156.0,16767761.0,56746599390.2726,21.5,0.0427
-Zambia,Africa,Noncommunicable diseases,6188.0,16767761.0,56746599390.2726,18.6,0.0369
-Zimbabwe,Africa,"Infectious, parasitic, neonatal and nutritional",13869.0,14452704.0,33047893313.2792,52.5,0.0960
-Zimbabwe,Africa,Injuries,4759.0,14452704.0,33047893313.2792,18.0,0.0329
-Zimbabwe,Africa,Noncommunicable diseases,7767.0,14452704.0,33047893313.2792,29.4,0.0537
+,Country,Continent,Indicator,Country_Deaths,Country_Population,Country_GDP,Indicator_Deaths_per_Total_Deaths,Indicator_Deaths_per_Total_Population
+0,Afghanistan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",29571.0,34636207.0,72785293847.6716,45.4,0.0854
+1,Afghanistan,Eastern Mediterranean,Injuries,13086.0,34636207.0,72785293847.6716,20.1,0.0378
+2,Afghanistan,Eastern Mediterranean,Noncommunicable diseases,22490.0,34636207.0,72785293847.6716,34.5,0.0649
+3,Albania,Europe,"Infectious, parasitic, neonatal and nutritional",78.0,2876101.0,35352579241.1673,1.2,0.0027
+4,Albania,Europe,Injuries,514.0,2876101.0,35352579241.1673,7.6,0.0179
+5,Albania,Europe,Noncommunicable diseases,6174.0,2876101.0,35352579241.1673,91.3,0.2147
+6,Algeria,Africa,"Infectious, parasitic, neonatal and nutritional",3806.0,40339329.0,479566971411.093,10.4,0.0094
+7,Algeria,Africa,Injuries,7999.0,40339329.0,479566971411.093,21.8,0.0198
+8,Algeria,Africa,Noncommunicable diseases,24914.0,40339329.0,479566971411.093,67.9,0.0618
+9,Angola,Africa,"Infectious, parasitic, neonatal and nutritional",53081.0,29154746.0,218308554288.735,67.6,0.1821
+10,Angola,Africa,Injuries,13502.0,29154746.0,218308554288.735,17.2,0.0463
+11,Angola,Africa,Noncommunicable diseases,11952.0,29154746.0,218308554288.735,15.2,0.0410
+12,Antigua and Barbuda,Americas,"Infectious, parasitic, neonatal and nutritional",2.0,90564.0,1835510285.65921,2.7,0.0022
+13,Antigua and Barbuda,Americas,Injuries,10.0,90564.0,1835510285.65921,13.5,0.0110
+14,Antigua and Barbuda,Americas,Noncommunicable diseases,62.0,90564.0,1835510285.65921,83.8,0.0685
+15,Argentina,Americas,"Infectious, parasitic, neonatal and nutritional",1715.0,43590368.0,1010840035079.44,4.2,0.0039
+16,Argentina,Americas,Injuries,8316.0,43590368.0,1010840035079.44,20.3,0.0191
+17,Argentina,Americas,Noncommunicable diseases,30920.0,43590368.0,1010840035079.44,75.5,0.0709
+18,Armenia,Europe,"Infectious, parasitic, neonatal and nutritional",124.0,2865835.0,33187468758.0387,1.6,0.0043
+19,Armenia,Europe,Injuries,549.0,2865835.0,33187468758.0387,7.1,0.0192
+20,Armenia,Europe,Noncommunicable diseases,7035.0,2865835.0,33187468758.0387,91.3,0.2455
+21,Australia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",224.0,24190907.0,1163805248731.07,1.5,0.0009
+22,Australia,Western Pacific,Injuries,1774.0,24190907.0,1163805248731.07,11.8,0.0073
+23,Australia,Western Pacific,Noncommunicable diseases,13063.0,24190907.0,1163805248731.07,86.7,0.0540
+24,Austria,Europe,"Infectious, parasitic, neonatal and nutritional",50.0,8736668.0,466064032926.316,0.5,0.0006
+25,Austria,Europe,Injuries,897.0,8736668.0,466064032926.316,9.4,0.0103
+26,Austria,Europe,Noncommunicable diseases,8605.0,8736668.0,466064032926.316,90.1,0.0985
+27,Azerbaijan,Europe,"Infectious, parasitic, neonatal and nutritional",826.0,9757812.0,138875059914.371,6.9,0.0085
+28,Azerbaijan,Europe,Injuries,993.0,9757812.0,138875059914.371,8.2,0.0102
+29,Azerbaijan,Europe,Noncommunicable diseases,10221.0,9757812.0,138875059914.371,84.9,0.1047
+30,"Bahamas, The",Americas,"Infectious, parasitic, neonatal and nutritional",10.0,395976.0,13273163560.1349,5.0,0.0025
+31,"Bahamas, The",Americas,Injuries,43.0,395976.0,13273163560.1349,21.4,0.0109
+32,"Bahamas, The",Americas,Noncommunicable diseases,148.0,395976.0,13273163560.1349,73.6,0.0374
+33,Bahrain,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",21.0,1409661.0,68349250016.7145,4.8,0.0015
+34,Bahrain,Eastern Mediterranean,Injuries,94.0,1409661.0,68349250016.7145,21.3,0.0067
+35,Bahrain,Eastern Mediterranean,Noncommunicable diseases,327.0,1409661.0,68349250016.7145,74.0,0.0232
+36,Bangladesh,South-East Asia,"Infectious, parasitic, neonatal and nutritional",48257.0,159784568.0,733266327481.642,23.9,0.0302
+37,Bangladesh,South-East Asia,Injuries,39573.0,159784568.0,733266327481.642,19.6,0.0248
+38,Bangladesh,South-East Asia,Noncommunicable diseases,113704.0,159784568.0,733266327481.642,56.4,0.0712
+39,Barbados,Americas,"Infectious, parasitic, neonatal and nutritional",10.0,278649.0,4501997461.37833,4.9,0.0036
+40,Barbados,Americas,Injuries,23.0,278649.0,4501997461.37833,11.3,0.0083
+41,Barbados,Americas,Noncommunicable diseases,170.0,278649.0,4501997461.37833,83.7,0.0610
+42,Belarus,Europe,"Infectious, parasitic, neonatal and nutritional",154.0,9469379.0,169342706853.966,0.6,0.0016
+43,Belarus,Europe,Injuries,3807.0,9469379.0,169342706853.966,16.0,0.0402
+44,Belarus,Europe,Noncommunicable diseases,19848.0,9469379.0,169342706853.966,83.4,0.2096
+45,Belgium,Europe,"Infectious, parasitic, neonatal and nutritional",196.0,11331422.0,564643935471.557,1.5,0.0017
+46,Belgium,Europe,Injuries,1529.0,11331422.0,564643935471.557,11.5,0.0135
+47,Belgium,Europe,Noncommunicable diseases,11560.0,11331422.0,564643935471.557,87.0,0.1020
+48,Belize,Americas,"Infectious, parasitic, neonatal and nutritional",22.0,367313.0,3382259956.90948,12.4,0.0060
+49,Belize,Americas,Injuries,65.0,367313.0,3382259956.90948,36.5,0.0177
+50,Belize,Americas,Noncommunicable diseases,91.0,367313.0,3382259956.90948,51.1,0.0248
+51,Benin,Africa,"Infectious, parasitic, neonatal and nutritional",11815.0,11260085.0,32196993426.2032,52.9,0.1049
+52,Benin,Africa,Injuries,3579.0,11260085.0,32196993426.2032,16.0,0.0318
+53,Benin,Africa,Noncommunicable diseases,6922.0,11260085.0,32196993426.2032,31.0,0.0615
+54,Bhutan,South-East Asia,"Infectious, parasitic, neonatal and nutritional",198.0,749761.0,7938147353.08061,15.7,0.0264
+55,Bhutan,South-East Asia,Injuries,490.0,749761.0,7938147353.08061,38.9,0.0654
+56,Bhutan,South-East Asia,Noncommunicable diseases,571.0,749761.0,7938147353.08061,45.4,0.0762
+57,Bolivia,Americas,"Infectious, parasitic, neonatal and nutritional",2442.0,11263015.0,90489007910.6098,18.5,0.0217
+58,Bolivia,Americas,Injuries,3837.0,11263015.0,90489007910.6098,29.0,0.0341
+59,Bolivia,Americas,Noncommunicable diseases,6942.0,11263015.0,90489007910.6098,52.5,0.0616
+60,Bosnia and Herzegovina,Europe,"Infectious, parasitic, neonatal and nutritional",66.0,3480986.0,45254965497.8771,0.7,0.0019
+61,Bosnia and Herzegovina,Europe,Injuries,638.0,3480986.0,45254965497.8771,6.6,0.0183
+62,Bosnia and Herzegovina,Europe,Noncommunicable diseases,8977.0,3480986.0,45254965497.8771,92.7,0.2579
+63,Botswana,Africa,"Infectious, parasitic, neonatal and nutritional",1352.0,2352416.0,33812498275.3189,46.5,0.0575
+64,Botswana,Africa,Injuries,610.0,2352416.0,33812498275.3189,21.0,0.0259
+65,Botswana,Africa,Noncommunicable diseases,944.0,2352416.0,33812498275.3189,32.5,0.0401
+66,Brazil,Americas,"Infectious, parasitic, neonatal and nutritional",17793.0,206859578.0,2979293832693.15,9.1,0.0086
+67,Brazil,Americas,Injuries,49568.0,206859578.0,2979293832693.15,25.3,0.0240
+68,Brazil,Americas,Noncommunicable diseases,128381.0,206859578.0,2979293832693.15,65.6,0.0621
+69,Brunei Darussalam,Western Pacific,"Infectious, parasitic, neonatal and nutritional",6.0,425994.0,25551541319.6116,3.6,0.0014
+70,Brunei Darussalam,Western Pacific,Injuries,37.0,425994.0,25551541319.6116,22.0,0.0087
+71,Brunei Darussalam,Western Pacific,Noncommunicable diseases,125.0,425994.0,25551541319.6116,74.4,0.0293
+72,Bulgaria,Europe,"Infectious, parasitic, neonatal and nutritional",120.0,7127822.0,147836869040.086,0.6,0.0017
+73,Bulgaria,Europe,Injuries,923.0,7127822.0,147836869040.086,5.0,0.0129
+74,Bulgaria,Europe,Noncommunicable diseases,17511.0,7127822.0,147836869040.086,94.4,0.2457
+75,Burkina Faso,Africa,"Infectious, parasitic, neonatal and nutritional",24035.0,19275498.0,36946433803.5338,57.5,0.1247
+76,Burkina Faso,Africa,Injuries,7291.0,19275498.0,36946433803.5338,17.4,0.0378
+77,Burkina Faso,Africa,Noncommunicable diseases,10480.0,19275498.0,36946433803.5338,25.1,0.0544
+78,Burundi,Africa,"Infectious, parasitic, neonatal and nutritional",17019.0,10903327.0,8333811911.79175,57.5,0.1561
+79,Burundi,Africa,Injuries,6309.0,10903327.0,8333811911.79175,21.3,0.0579
+80,Burundi,Africa,Noncommunicable diseases,6252.0,10903327.0,8333811911.79175,21.1,0.0573
+81,Cabo Verde,Africa,"Infectious, parasitic, neonatal and nutritional",73.0,558394.0,3853231864.18216,13.7,0.0131
+82,Cabo Verde,Africa,Injuries,91.0,558394.0,3853231864.18216,17.0,0.0163
+83,Cabo Verde,Africa,Noncommunicable diseases,370.0,558394.0,3853231864.18216,69.3,0.0663
+84,Cambodia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",5841.0,15624584.0,58778299696.0828,27.8,0.0374
+85,Cambodia,Western Pacific,Injuries,4117.0,15624584.0,58778299696.0828,19.6,0.0263
+86,Cambodia,Western Pacific,Noncommunicable diseases,11054.0,15624584.0,58778299696.0828,52.6,0.0707
+87,Cameroon,Africa,"Infectious, parasitic, neonatal and nutritional",30628.0,23711630.0,86958198354.4153,57.9,0.1292
+88,Cameroon,Africa,Injuries,9489.0,23711630.0,86958198354.4153,17.9,0.0400
+89,Cameroon,Africa,Noncommunicable diseases,12809.0,23711630.0,86958198354.4153,24.2,0.0540
+90,Canada,Americas,"Infectious, parasitic, neonatal and nutritional",503.0,36109487.0,1713669061092.82,1.9,0.0014
+91,Canada,Americas,Injuries,3615.0,36109487.0,1713669061092.82,13.7,0.0100
+92,Canada,Americas,Noncommunicable diseases,22225.0,36109487.0,1713669061092.82,84.4,0.0615
+93,Central African Republic,Africa,"Infectious, parasitic, neonatal and nutritional",11093.0,4904177.0,4013558816.92666,68.7,0.2262
+94,Central African Republic,Africa,Injuries,2025.0,4904177.0,4013558816.92666,12.5,0.0413
+95,Central African Republic,Africa,Noncommunicable diseases,3021.0,4904177.0,4013558816.92666,18.7,0.0616
+96,Chad,Africa,"Infectious, parasitic, neonatal and nutritional",32543.0,14592585.0,24566297101.8342,71.8,0.2230
+97,Chad,Africa,Injuries,5835.0,14592585.0,24566297101.8342,12.9,0.0400
+98,Chad,Africa,Noncommunicable diseases,6927.0,14592585.0,24566297101.8342,15.3,0.0475
+99,Chile,Americas,"Infectious, parasitic, neonatal and nutritional",262.0,18083879.0,444852114339.543,2.3,0.0014
+100,Chile,Americas,Injuries,1683.0,18083879.0,444852114339.543,14.9,0.0093
+101,Chile,Americas,Noncommunicable diseases,9337.0,18083879.0,444852114339.543,82.8,0.0516
+102,China,Western Pacific,"Infectious, parasitic, neonatal and nutritional",54470.0,1387790000.0,18595188781703.6,1.8,0.0039
+103,China,Western Pacific,Injuries,324232.0,1387790000.0,18595188781703.6,10.9,0.0234
+104,China,Western Pacific,Noncommunicable diseases,2607982.0,1387790000.0,18595188781703.6,87.3,0.1879
+105,Colombia,Americas,"Infectious, parasitic, neonatal and nutritional",2534.0,47625955.0,683821473440.463,7.4,0.0053
+106,Colombia,Americas,Injuries,8967.0,47625955.0,683821473440.463,26.1,0.0188
+107,Colombia,Americas,Noncommunicable diseases,22795.0,47625955.0,683821473440.463,66.5,0.0479
+108,Comoros,Africa,"Infectious, parasitic, neonatal and nutritional",732.0,746232.0,2377218795.20507,48.6,0.0981
+109,Comoros,Africa,Injuries,328.0,746232.0,2377218795.20507,21.8,0.0440
+110,Comoros,Africa,Noncommunicable diseases,447.0,746232.0,2377218795.20507,29.7,0.0599
+111,"Congo, Dem. Rep.",Africa,"Infectious, parasitic, neonatal and nutritional",163548.0,81430977.0,83167671599.0109,66.0,0.2008
+112,"Congo, Dem. Rep.",Africa,Injuries,39015.0,81430977.0,83167671599.0109,15.7,0.0479
+113,"Congo, Dem. Rep.",Africa,Noncommunicable diseases,45269.0,81430977.0,83167671599.0109,18.3,0.0556
+114,"Congo, Rep.",Africa,"Infectious, parasitic, neonatal and nutritional",6659.0,5186824.0,22634023587.9874,60.1,0.1284
+115,"Congo, Rep.",Africa,Injuries,1579.0,5186824.0,22634023587.9874,14.3,0.0304
+116,"Congo, Rep.",Africa,Noncommunicable diseases,2840.0,5186824.0,22634023587.9874,25.6,0.0548
+117,Costa Rica,Americas,"Infectious, parasitic, neonatal and nutritional",116.0,4945205.0,96696554844.9626,3.7,0.0023
+118,Costa Rica,Americas,Injuries,770.0,4945205.0,96696554844.9626,24.8,0.0156
+119,Costa Rica,Americas,Noncommunicable diseases,2213.0,4945205.0,96696554844.9626,71.4,0.0448
+120,Cote d'Ivoire,Africa,"Infectious, parasitic, neonatal and nutritional",30828.0,24213622.0,111875387973.017,55.6,0.1273
+121,Cote d'Ivoire,Africa,Injuries,10077.0,24213622.0,111875387973.017,18.2,0.0416
+122,Cote d'Ivoire,Africa,Noncommunicable diseases,14589.0,24213622.0,111875387973.017,26.3,0.0603
+123,Croatia,Europe,"Infectious, parasitic, neonatal and nutritional",32.0,4174349.0,108512882566.927,0.4,0.0008
+124,Croatia,Europe,Injuries,623.0,4174349.0,108512882566.927,8.0,0.0149
+125,Croatia,Europe,Noncommunicable diseases,7144.0,4174349.0,108512882566.927,91.6,0.1711
+126,Cyprus,Europe,"Infectious, parasitic, neonatal and nutritional",9.0,1197881.0,31228062109.639,1.1,0.0008
+127,Cyprus,Europe,Injuries,93.0,1197881.0,31228062109.639,11.4,0.0078
+128,Cyprus,Europe,Noncommunicable diseases,716.0,1197881.0,31228062109.639,87.5,0.0598
+129,Czechia,Europe,"Infectious, parasitic, neonatal and nutritional",154.0,10566332.0,391112348862.469,1.0,0.0015
+130,Czechia,Europe,Injuries,1342.0,10566332.0,391112348862.469,8.5,0.0127
+131,Czechia,Europe,Noncommunicable diseases,14306.0,10566332.0,391112348862.469,90.5,0.1354
+132,Denmark,Europe,"Infectious, parasitic, neonatal and nutritional",92.0,5728010.0,310372270416.481,1.6,0.0016
+133,Denmark,Europe,Injuries,424.0,5728010.0,310372270416.481,7.6,0.0074
+134,Denmark,Europe,Noncommunicable diseases,5098.0,5728010.0,310372270416.481,90.8,0.0890
+135,Djibouti,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",643.0,1023261.0,4391117244.49419,45.6,0.0628
+136,Djibouti,Eastern Mediterranean,Injuries,316.0,1023261.0,4391117244.49419,22.4,0.0309
+137,Djibouti,Eastern Mediterranean,Noncommunicable diseases,450.0,1023261.0,4391117244.49419,31.9,0.0440
+138,Dominica,Americas,"Infectious, parasitic, neonatal and nutritional",6.0,70075.0,867897731.334077,9.0,0.0086
+139,Dominica,Americas,Injuries,13.0,70075.0,867897731.334077,19.4,0.0186
+140,Dominica,Americas,Noncommunicable diseases,48.0,70075.0,867897731.334077,71.6,0.0685
+141,Dominican Republic,Americas,"Infectious, parasitic, neonatal and nutritional",897.0,10527592.0,168096190995.086,9.6,0.0085
+142,Dominican Republic,Americas,Injuries,2444.0,10527592.0,168096190995.086,26.1,0.0232
+143,Dominican Republic,Americas,Noncommunicable diseases,6020.0,10527592.0,168096190995.086,64.3,0.0572
+144,Ecuador,Americas,"Infectious, parasitic, neonatal and nutritional",973.0,16439585.0,190499039001.124,7.6,0.0059
+145,Ecuador,Americas,Injuries,4330.0,16439585.0,190499039001.124,33.8,0.0263
+146,Ecuador,Americas,Noncommunicable diseases,7522.0,16439585.0,190499039001.124,58.7,0.0458
+147,"Egypt, Arab Rep.",Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",7283.0,99784030.0,1074257784048.51,7.2,0.0073
+148,"Egypt, Arab Rep.",Eastern Mediterranean,Injuries,10215.0,99784030.0,1074257784048.51,10.0,0.0102
+149,"Egypt, Arab Rep.",Eastern Mediterranean,Noncommunicable diseases,84308.0,99784030.0,1074257784048.51,82.8,0.0845
+150,El Salvador,Americas,"Infectious, parasitic, neonatal and nutritional",406.0,6250510.0,52818377611.0219,5.7,0.0065
+151,El Salvador,Americas,Injuries,2345.0,6250510.0,52818377611.0219,33.2,0.0375
+152,El Salvador,Americas,Noncommunicable diseases,4320.0,6250510.0,52818377611.0219,61.1,0.0691
+153,Equatorial Guinea,Africa,"Infectious, parasitic, neonatal and nutritional",1153.0,1398927.0,30169339488.3682,54.8,0.0824
+154,Equatorial Guinea,Africa,Injuries,391.0,1398927.0,30169339488.3682,18.6,0.0279
+155,Equatorial Guinea,Africa,Noncommunicable diseases,561.0,1398927.0,30169339488.3682,26.7,0.0401
+156,Estonia,Europe,"Infectious, parasitic, neonatal and nutritional",11.0,1315790.0,42117035737.1515,0.6,0.0008
+157,Estonia,Europe,Injuries,181.0,1315790.0,42117035737.1515,9.3,0.0138
+158,Estonia,Europe,Noncommunicable diseases,1756.0,1315790.0,42117035737.1515,90.1,0.1335
+159,Eswatini,Africa,"Infectious, parasitic, neonatal and nutritional",1277.0,1142524.0,9269570961.68438,53.5,0.1118
+160,Eswatini,Africa,Injuries,521.0,1142524.0,9269570961.68438,21.8,0.0456
+161,Eswatini,Africa,Noncommunicable diseases,590.0,1142524.0,9269570961.68438,24.7,0.0516
+162,Ethiopia,Africa,"Infectious, parasitic, neonatal and nutritional",82032.0,105293228.0,196317925147.112,54.1,0.0779
+163,Ethiopia,Africa,Injuries,31007.0,105293228.0,196317925147.112,20.5,0.0294
+164,Ethiopia,Africa,Noncommunicable diseases,38510.0,105293228.0,196317925147.112,25.4,0.0366
+165,Fiji,Western Pacific,"Infectious, parasitic, neonatal and nutritional",72.0,918371.0,11184905364.1921,7.8,0.0078
+166,Fiji,Western Pacific,Injuries,222.0,918371.0,11184905364.1921,24.2,0.0242
+167,Fiji,Western Pacific,Noncommunicable diseases,624.0,918371.0,11184905364.1921,68.0,0.0679
+168,Finland,Europe,"Infectious, parasitic, neonatal and nutritional",45.0,5495303.0,253920299689.414,0.8,0.0008
+169,Finland,Europe,Injuries,709.0,5495303.0,253920299689.414,12.7,0.0129
+170,Finland,Europe,Noncommunicable diseases,4821.0,5495303.0,253920299689.414,86.5,0.0877
+171,France,Europe,"Infectious, parasitic, neonatal and nutritional",1115.0,66724104.0,2916186811083.79,1.8,0.0017
+172,France,Europe,Injuries,8800.0,66724104.0,2916186811083.79,14.4,0.0132
+173,France,Europe,Noncommunicable diseases,51203.0,66724104.0,2916186811083.79,83.8,0.0767
+174,Gabon,Africa,"Infectious, parasitic, neonatal and nutritional",1603.0,2086206.0,30840546266.5375,57.2,0.0768
+175,Gabon,Africa,Injuries,483.0,2086206.0,30840546266.5375,17.2,0.0232
+176,Gabon,Africa,Noncommunicable diseases,716.0,2086206.0,30840546266.5375,25.6,0.0343
+177,"Gambia, The",Africa,"Infectious, parasitic, neonatal and nutritional",1894.0,2317206.0,4377521956.89627,55.0,0.0817
+178,"Gambia, The",Africa,Injuries,636.0,2317206.0,4377521956.89627,18.5,0.0274
+179,"Gambia, The",Africa,Noncommunicable diseases,911.0,2317206.0,4377521956.89627,26.5,0.0393
+180,Georgia,Europe,"Infectious, parasitic, neonatal and nutritional",172.0,3727505.0,48322420424.5406,1.4,0.0046
+181,Georgia,Europe,Injuries,530.0,3727505.0,48322420424.5406,4.3,0.0142
+182,Georgia,Europe,Noncommunicable diseases,11660.0,3727505.0,48322420424.5406,94.3,0.3128
+183,Germany,Europe,"Infectious, parasitic, neonatal and nutritional",1630.0,82348669.0,4272221986254.43,1.6,0.0020
+184,Germany,Europe,Injuries,6697.0,82348669.0,4272221986254.43,6.8,0.0081
+185,Germany,Europe,Noncommunicable diseases,90544.0,82348669.0,4272221986254.43,91.6,0.1100
+186,Ghana,Africa,"Infectious, parasitic, neonatal and nutritional",22146.0,29554303.0,137782499689.919,46.8,0.0749
+187,Ghana,Africa,Injuries,7306.0,29554303.0,137782499689.919,15.4,0.0247
+188,Ghana,Africa,Noncommunicable diseases,17886.0,29554303.0,137782499689.919,37.8,0.0605
+189,Greece,Europe,"Infectious, parasitic, neonatal and nutritional",67.0,10775971.0,304312550410.314,0.4,0.0006
+190,Greece,Europe,Injuries,1103.0,10775971.0,304312550410.314,6.3,0.0102
+191,Greece,Europe,Noncommunicable diseases,16316.0,10775971.0,304312550410.314,93.3,0.1514
+192,Grenada,Americas,"Infectious, parasitic, neonatal and nutritional",5.0,119966.0,1721679317.38406,4.8,0.0042
+193,Grenada,Americas,Injuries,17.0,119966.0,1721679317.38406,16.2,0.0142
+194,Grenada,Americas,Noncommunicable diseases,83.0,119966.0,1721679317.38406,79.0,0.0692
+195,Guatemala,Americas,"Infectious, parasitic, neonatal and nutritional",3679.0,15827690.0,129882783658.342,26.4,0.0232
+196,Guatemala,Americas,Injuries,3822.0,15827690.0,129882783658.342,27.5,0.0241
+197,Guatemala,Americas,Noncommunicable diseases,6411.0,15827690.0,129882783658.342,46.1,0.0405
+198,Guinea,Africa,"Infectious, parasitic, neonatal and nutritional",16421.0,11930985.0,26452297884.6273,57.1,0.1376
+199,Guinea,Africa,Injuries,4614.0,11930985.0,26452297884.6273,16.1,0.0387
+200,Guinea,Africa,Noncommunicable diseases,7712.0,11930985.0,26452297884.6273,26.8,0.0646
+201,Guinea-Bissau,Africa,"Infectious, parasitic, neonatal and nutritional",2940.0,1834552.0,3322925818.84943,60.4,0.1603
+202,Guinea-Bissau,Africa,Injuries,721.0,1834552.0,3322925818.84943,14.8,0.0393
+203,Guinea-Bissau,Africa,Noncommunicable diseases,1208.0,1834552.0,3322925818.84943,24.8,0.0658
+204,Guyana,Americas,"Infectious, parasitic, neonatal and nutritional",197.0,759087.0,8971766802.20281,17.4,0.0260
+205,Guyana,Americas,Injuries,317.0,759087.0,8971766802.20281,28.1,0.0418
+206,Guyana,Americas,Noncommunicable diseases,615.0,759087.0,8971766802.20281,54.5,0.0810
+207,Haiti,Americas,"Infectious, parasitic, neonatal and nutritional",7780.0,10713849.0,33912500081.8754,37.4,0.0726
+208,Haiti,Americas,Injuries,2973.0,10713849.0,33912500081.8754,14.3,0.0277
+209,Haiti,Americas,Noncommunicable diseases,10065.0,10713849.0,33912500081.8754,48.3,0.0939
+210,Honduras,Americas,"Infectious, parasitic, neonatal and nutritional",1242.0,9460798.0,50021631004.0765,17.3,0.0131
+211,Honduras,Americas,Injuries,1722.0,9460798.0,50021631004.0765,24.0,0.0182
+212,Honduras,Americas,Noncommunicable diseases,4209.0,9460798.0,50021631004.0765,58.7,0.0445
+213,Hungary,Europe,"Infectious, parasitic, neonatal and nutritional",90.0,9814023.0,276879232833.969,0.4,0.0009
+214,Hungary,Europe,Injuries,1507.0,9814023.0,276879232833.969,6.8,0.0154
+215,Hungary,Europe,Noncommunicable diseases,20621.0,9814023.0,276879232833.969,92.8,0.2101
+216,Iceland,Europe,"Infectious, parasitic, neonatal and nutritional",2.0,335439.0,18337029182.1567,1.1,0.0006
+217,Iceland,Europe,Injuries,24.0,335439.0,18337029182.1567,12.9,0.0072
+218,Iceland,Europe,Noncommunicable diseases,160.0,335439.0,18337029182.1567,86.0,0.0477
+219,India,South-East Asia,"Infectious, parasitic, neonatal and nutritional",655338.0,1338636340.0,7750273455775.05,22.5,0.0490
+220,India,South-East Asia,Injuries,492519.0,1338636340.0,7750273455775.05,16.9,0.0368
+221,India,South-East Asia,Noncommunicable diseases,1763813.0,1338636340.0,7750273455775.05,60.6,0.1318
+222,Indonesia,South-East Asia,"Infectious, parasitic, neonatal and nutritional",57012.0,261850182.0,2754479325709.95,16.3,0.0218
+223,Indonesia,South-East Asia,Injuries,45123.0,261850182.0,2754479325709.95,12.9,0.0172
+224,Indonesia,South-East Asia,Noncommunicable diseases,247738.0,261850182.0,2754479325709.95,70.8,0.0946
+225,"Iran, Islamic Rep.",Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",4624.0,83306231.0,1246977236689.01,5.3,0.0056
+226,"Iran, Islamic Rep.",Eastern Mediterranean,Injuries,23492.0,83306231.0,1246977236689.01,26.9,0.0282
+227,"Iran, Islamic Rep.",Eastern Mediterranean,Noncommunicable diseases,59186.0,83306231.0,1246977236689.01,67.8,0.0710
+228,Iraq,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",5271.0,38697943.0,402621288208.154,15.3,0.0136
+229,Iraq,Eastern Mediterranean,Injuries,9167.0,38697943.0,402621288208.154,26.5,0.0237
+230,Iraq,Eastern Mediterranean,Noncommunicable diseases,20119.0,38697943.0,402621288208.154,58.2,0.0520
+231,Ireland,Europe,"Infectious, parasitic, neonatal and nutritional",66.0,4755335.0,343859711086.748,1.9,0.0014
+232,Ireland,Europe,Injuries,390.0,4755335.0,343859711086.748,11.5,0.0082
+233,Ireland,Europe,Noncommunicable diseases,2944.0,4755335.0,343859711086.748,86.6,0.0619
+234,Israel,Europe,"Infectious, parasitic, neonatal and nutritional",164.0,8546000.0,329626669996.251,3.4,0.0019
+235,Israel,Europe,Injuries,421.0,8546000.0,329626669996.251,8.8,0.0049
+236,Israel,Europe,Noncommunicable diseases,4210.0,8546000.0,329626669996.251,87.8,0.0493
+237,Italy,Europe,"Infectious, parasitic, neonatal and nutritional",593.0,60627498.0,2475889856374.81,0.8,0.0010
+238,Italy,Europe,Injuries,5760.0,60627498.0,2475889856374.81,7.6,0.0095
+239,Italy,Europe,Noncommunicable diseases,69087.0,60627498.0,2475889856374.81,91.6,0.1140
+240,Jamaica,Americas,"Infectious, parasitic, neonatal and nutritional",191.0,2802695.0,27763609394.364,7.0,0.0068
+241,Jamaica,Americas,Injuries,426.0,2802695.0,27763609394.364,15.7,0.0152
+242,Jamaica,Americas,Noncommunicable diseases,2097.0,2802695.0,27763609394.364,77.3,0.0748
+243,Japan,Western Pacific,"Infectious, parasitic, neonatal and nutritional",2378.0,127076000.0,5175547373033.96,1.8,0.0019
+244,Japan,Western Pacific,Injuries,19500.0,127076000.0,5175547373033.96,14.9,0.0153
+245,Japan,Western Pacific,Noncommunicable diseases,109401.0,127076000.0,5175547373033.96,83.3,0.0861
+246,Jordan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",417.0,9964656.0,95990535684.7168,8.7,0.0042
+247,Jordan,Eastern Mediterranean,Injuries,1176.0,9964656.0,95990535684.7168,24.6,0.0118
+248,Jordan,Eastern Mediterranean,Noncommunicable diseases,3181.0,9964656.0,95990535684.7168,66.6,0.0319
+249,Kazakhstan,Europe,"Infectious, parasitic, neonatal and nutritional",981.0,17794055.0,430809427136.853,3.1,0.0055
+250,Kazakhstan,Europe,Injuries,5288.0,17794055.0,430809427136.853,16.9,0.0297
+251,Kazakhstan,Europe,Noncommunicable diseases,24996.0,17794055.0,430809427136.853,79.9,0.1405
+252,Kenya,Africa,"Infectious, parasitic, neonatal and nutritional",46060.0,47894670.0,203306055187.482,57.1,0.0962
+253,Kenya,Africa,Injuries,16541.0,47894670.0,203306055187.482,20.5,0.0345
+254,Kenya,Africa,Noncommunicable diseases,18122.0,47894670.0,203306055187.482,22.4,0.0378
+255,Kiribati,Western Pacific,"Infectious, parasitic, neonatal and nutritional",32.0,118513.0,236772084.150313,26.4,0.0270
+256,Kiribati,Western Pacific,Injuries,31.0,118513.0,236772084.150313,25.6,0.0262
+257,Kiribati,Western Pacific,Noncommunicable diseases,58.0,118513.0,236772084.150313,47.9,0.0489
+258,"Korea, Rep.",Western Pacific,"Infectious, parasitic, neonatal and nutritional",1018.0,51217803.0,2039219357482.86,2.7,0.0020
+259,"Korea, Rep.",Western Pacific,Injuries,4263.0,51217803.0,2039219357482.86,11.2,0.0083
+260,"Korea, Rep.",Western Pacific,Noncommunicable diseases,32678.0,51217803.0,2039219357482.86,86.1,0.0638
+261,Kuwait,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",74.0,4048085.0,216475883430.819,6.0,0.0018
+262,Kuwait,Eastern Mediterranean,Injuries,255.0,4048085.0,216475883430.819,20.7,0.0063
+263,Kuwait,Eastern Mediterranean,Noncommunicable diseases,900.0,4048085.0,216475883430.819,73.2,0.0222
+264,Kyrgyz Republic,Europe,"Infectious, parasitic, neonatal and nutritional",610.0,6079500.0,29864829313.3557,7.0,0.0100
+265,Kyrgyz Republic,Europe,Injuries,1034.0,6079500.0,29864829313.3557,11.8,0.0170
+266,Kyrgyz Republic,Europe,Noncommunicable diseases,7102.0,6079500.0,29864829313.3557,81.2,0.1168
+267,Lao PDR,Western Pacific,"Infectious, parasitic, neonatal and nutritional",7139.0,6891363.0,47209839789.6086,47.9,0.1036
+268,Lao PDR,Western Pacific,Injuries,1823.0,6891363.0,47209839789.6086,12.2,0.0265
+269,Lao PDR,Western Pacific,Noncommunicable diseases,5948.0,6891363.0,47209839789.6086,39.9,0.0863
+270,Latvia,Europe,"Infectious, parasitic, neonatal and nutritional",26.0,1959537.0,53905562377.4217,0.6,0.0013
+271,Latvia,Europe,Injuries,356.0,1959537.0,53905562377.4217,8.1,0.0182
+272,Latvia,Europe,Noncommunicable diseases,4022.0,1959537.0,53905562377.4217,91.3,0.2053
+273,Lebanon,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",94.0,6258619.0,107820380605.131,2.4,0.0015
+274,Lebanon,Eastern Mediterranean,Injuries,639.0,6258619.0,107820380605.131,16.1,0.0102
+275,Lebanon,Eastern Mediterranean,Noncommunicable diseases,3232.0,6258619.0,107820380605.131,81.5,0.0516
+276,Lesotho,Africa,"Infectious, parasitic, neonatal and nutritional",2517.0,2143872.0,5763016498.37673,53.0,0.1174
+277,Lesotho,Africa,Injuries,1048.0,2143872.0,5763016498.37673,22.1,0.0489
+278,Lesotho,Africa,Noncommunicable diseases,1187.0,2143872.0,5763016498.37673,25.0,0.0554
+279,Liberia,Africa,"Infectious, parasitic, neonatal and nutritional",4373.0,4706097.0,7178953380.43013,52.9,0.0929
+280,Liberia,Africa,Injuries,1243.0,4706097.0,7178953380.43013,15.0,0.0264
+281,Liberia,Africa,Noncommunicable diseases,2656.0,4706097.0,7178953380.43013,32.1,0.0564
+282,Libya,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",300.0,6282196.0,116562883827.047,6.0,0.0048
+283,Libya,Eastern Mediterranean,Injuries,1135.0,6282196.0,116562883827.047,22.7,0.0181
+284,Libya,Eastern Mediterranean,Noncommunicable diseases,3571.0,6282196.0,116562883827.047,71.3,0.0568
+285,Lithuania,Europe,"Infectious, parasitic, neonatal and nutritional",59.0,2868231.0,91570579072.6829,1.1,0.0021
+286,Lithuania,Europe,Injuries,670.0,2868231.0,91570579072.6829,12.5,0.0234
+287,Lithuania,Europe,Noncommunicable diseases,4633.0,2868231.0,91570579072.6829,86.4,0.1615
+288,Luxembourg,Europe,"Infectious, parasitic, neonatal and nutritional",6.0,582014.0,67678741186.3037,1.5,0.0010
+289,Luxembourg,Europe,Injuries,55.0,582014.0,67678741186.3037,13.5,0.0094
+290,Luxembourg,Europe,Noncommunicable diseases,347.0,582014.0,67678741186.3037,85.0,0.0596
+291,Madagascar,Africa,"Infectious, parasitic, neonatal and nutritional",18499.0,25501941.0,38981290520.8233,44.2,0.0725
+292,Madagascar,Africa,Injuries,7438.0,25501941.0,38981290520.8233,17.8,0.0292
+293,Madagascar,Africa,Noncommunicable diseases,15908.0,25501941.0,38981290520.8233,38.0,0.0624
+294,Malawi,Africa,"Infectious, parasitic, neonatal and nutritional",18688.0,17405624.0,25012614702.1528,56.5,0.1074
+295,Malawi,Africa,Injuries,5213.0,17405624.0,25012614702.1528,15.8,0.0300
+296,Malawi,Africa,Noncommunicable diseases,9165.0,17405624.0,25012614702.1528,27.7,0.0527
+297,Malaysia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",1456.0,31526418.0,783740339600.78,5.6,0.0046
+298,Malaysia,Western Pacific,Injuries,6745.0,31526418.0,783740339600.78,26.0,0.0214
+299,Malaysia,Western Pacific,Noncommunicable diseases,17740.0,31526418.0,783740339600.78,68.4,0.0563
+300,Maldives,South-East Asia,"Infectious, parasitic, neonatal and nutritional",16.0,454252.0,8361084209.65743,9.8,0.0035
+301,Maldives,South-East Asia,Injuries,40.0,454252.0,8361084209.65743,24.4,0.0088
+302,Maldives,South-East Asia,Noncommunicable diseases,108.0,454252.0,8361084209.65743,65.9,0.0238
+303,Mali,Africa,"Infectious, parasitic, neonatal and nutritional",27931.0,18700106.0,39498122203.1308,60.8,0.1494
+304,Mali,Africa,Injuries,6891.0,18700106.0,39498122203.1308,15.0,0.0369
+305,Mali,Africa,Noncommunicable diseases,11128.0,18700106.0,39498122203.1308,24.2,0.0595
+306,Malta,Europe,"Infectious, parasitic, neonatal and nutritional",2.0,455356.0,18356553184.465,0.4,0.0004
+307,Malta,Europe,Injuries,23.0,455356.0,18356553184.465,4.9,0.0051
+308,Malta,Europe,Noncommunicable diseases,446.0,455356.0,18356553184.465,94.7,0.0979
+309,Marshall Islands,Western Pacific,"Infectious, parasitic, neonatal and nutritional",21.0,48329.0,211499534.350612,38.9,0.0435
+310,Marshall Islands,Western Pacific,Injuries,9.0,48329.0,211499534.350612,16.7,0.0186
+311,Marshall Islands,Western Pacific,Noncommunicable diseases,24.0,48329.0,211499534.350612,44.4,0.0497
+312,Mauritania,Africa,"Infectious, parasitic, neonatal and nutritional",3992.0,4051890.0,20586879840.5052,57.4,0.0985
+313,Mauritania,Africa,Injuries,1106.0,4051890.0,20586879840.5052,15.9,0.0273
+314,Mauritania,Africa,Noncommunicable diseases,1858.0,4051890.0,20586879840.5052,26.7,0.0459
+315,Mauritius,Africa,"Infectious, parasitic, neonatal and nutritional",77.0,1263747.0,26948221725.2548,7.5,0.0061
+316,Mauritius,Africa,Injuries,229.0,1263747.0,26948221725.2548,22.3,0.0181
+317,Mauritius,Africa,Noncommunicable diseases,722.0,1263747.0,26948221725.2548,70.2,0.0571
+318,Mexico,Americas,"Infectious, parasitic, neonatal and nutritional",5845.0,121519221.0,2409843112983.73,7.0,0.0048
+319,Mexico,Americas,Injuries,22691.0,121519221.0,2409843112983.73,27.1,0.0187
+320,Mexico,Americas,Noncommunicable diseases,55046.0,121519221.0,2409843112983.73,65.9,0.0453
+321,"Micronesia, Fed. Sts.",Western Pacific,"Infectious, parasitic, neonatal and nutritional",24.0,109925.0,378812582.795465,25.8,0.0218
+322,"Micronesia, Fed. Sts.",Western Pacific,Injuries,26.0,109925.0,378812582.795465,28.0,0.0237
+323,"Micronesia, Fed. Sts.",Western Pacific,Noncommunicable diseases,43.0,109925.0,378812582.795465,46.2,0.0391
+324,Moldova,Europe,"Infectious, parasitic, neonatal and nutritional",147.0,2803186.0,30319511534.9952,1.6,0.0052
+325,Moldova,Europe,Injuries,1029.0,2803186.0,30319511534.9952,11.5,0.0367
+326,Moldova,Europe,Noncommunicable diseases,7797.0,2803186.0,30319511534.9952,86.9,0.2781
+327,Mongolia,Western Pacific,"Infectious, parasitic, neonatal and nutritional",395.0,3029555.0,33503698720.8571,7.6,0.0130
+328,Mongolia,Western Pacific,Injuries,825.0,3029555.0,33503698720.8571,15.9,0.0272
+329,Mongolia,Western Pacific,Noncommunicable diseases,3954.0,3029555.0,33503698720.8571,76.4,0.1305
+330,Montenegro,Europe,"Infectious, parasitic, neonatal and nutritional",7.0,622303.0,11697996516.2636,0.6,0.0011
+331,Montenegro,Europe,Injuries,65.0,622303.0,11697996516.2636,6.0,0.0104
+332,Montenegro,Europe,Noncommunicable diseases,1006.0,622303.0,11697996516.2636,93.3,0.1617
+333,Morocco,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",3966.0,35107264.0,271802885729.109,12.3,0.0113
+334,Morocco,Eastern Mediterranean,Injuries,6066.0,35107264.0,271802885729.109,18.8,0.0173
+335,Morocco,Eastern Mediterranean,Noncommunicable diseases,22244.0,35107264.0,271802885729.109,68.9,0.0634
+336,Mozambique,Africa,"Infectious, parasitic, neonatal and nutritional",42371.0,27696493.0,35449309348.5047,60.1,0.1530
+337,Mozambique,Africa,Injuries,15597.0,27696493.0,35449309348.5047,22.1,0.0563
+338,Mozambique,Africa,Noncommunicable diseases,12524.0,27696493.0,35449309348.5047,17.8,0.0452
+339,Myanmar,South-East Asia,"Infectious, parasitic, neonatal and nutritional",21584.0,51892349.0,213254587482.142,19.8,0.0416
+340,Myanmar,South-East Asia,Injuries,18407.0,51892349.0,213254587482.142,16.9,0.0355
+341,Myanmar,South-East Asia,Noncommunicable diseases,69244.0,51892349.0,213254587482.142,63.4,0.1334
+342,Namibia,Africa,"Infectious, parasitic, neonatal and nutritional",991.0,2323352.0,24691737303.1004,36.3,0.0427
+343,Namibia,Africa,Injuries,556.0,2323352.0,24691737303.1004,20.4,0.0239
+344,Namibia,Africa,Noncommunicable diseases,1183.0,2323352.0,24691737303.1004,43.3,0.0509
+345,Nauru,Western Pacific,"Infectious, parasitic, neonatal and nutritional",1.0,11437.0,116921617.935426,25.0,0.0087
+346,Nauru,Western Pacific,Injuries,1.0,11437.0,116921617.935426,25.0,0.0087
+347,Nauru,Western Pacific,Noncommunicable diseases,2.0,11437.0,116921617.935426,50.0,0.0175
+348,Nepal,South-East Asia,"Infectious, parasitic, neonatal and nutritional",9829.0,27861186.0,90400474175.0547,21.1,0.0353
+349,Nepal,South-East Asia,Injuries,8350.0,27861186.0,90400474175.0547,17.9,0.0300
+350,Nepal,South-East Asia,Noncommunicable diseases,28508.0,27861186.0,90400474175.0547,61.1,0.1023
+351,Netherlands,Europe,"Infectious, parasitic, neonatal and nutritional",185.0,17030314.0,917045394441.436,1.1,0.0011
+352,Netherlands,Europe,Injuries,1288.0,17030314.0,917045394441.436,8.0,0.0076
+353,Netherlands,Europe,Noncommunicable diseases,14655.0,17030314.0,917045394441.436,90.9,0.0861
+354,New Zealand,Western Pacific,"Infectious, parasitic, neonatal and nutritional",55.0,4714100.0,196240440031.016,1.8,0.0012
+355,New Zealand,Western Pacific,Injuries,369.0,4714100.0,196240440031.016,11.8,0.0078
+356,New Zealand,Western Pacific,Noncommunicable diseases,2713.0,4714100.0,196240440031.016,86.5,0.0576
+357,Nicaragua,Americas,"Infectious, parasitic, neonatal and nutritional",692.0,6389235.0,36637927326.7563,11.8,0.0108
+358,Nicaragua,Americas,Injuries,1205.0,6389235.0,36637927326.7563,20.6,0.0189
+359,Nicaragua,Americas,Noncommunicable diseases,3958.0,6389235.0,36637927326.7563,67.6,0.0619
+360,Niger,Africa,"Infectious, parasitic, neonatal and nutritional",34101.0,20921743.0,23931559623.362,67.8,0.1630
+361,Niger,Africa,Injuries,7020.0,20921743.0,23931559623.362,14.0,0.0336
+362,Niger,Africa,Noncommunicable diseases,9144.0,20921743.0,23931559623.362,18.2,0.0437
+363,Nigeria,Africa,"Infectious, parasitic, neonatal and nutritional",312269.0,188666931.0,982780034192.258,62.7,0.1655
+364,Nigeria,Africa,Injuries,98218.0,188666931.0,982780034192.258,19.7,0.0521
+365,Nigeria,Africa,Noncommunicable diseases,87248.0,188666931.0,982780034192.258,17.5,0.0462
+366,North Macedonia,Europe,"Infectious, parasitic, neonatal and nutritional",24.0,2072490.0,32234426538.2126,0.7,0.0012
+367,North Macedonia,Europe,Injuries,176.0,2072490.0,32234426538.2126,5.2,0.0085
+368,North Macedonia,Europe,Noncommunicable diseases,3199.0,2072490.0,32234426538.2126,94.1,0.1544
+369,Norway,Europe,"Infectious, parasitic, neonatal and nutritional",89.0,5234519.0,332641575269.002,2.3,0.0017
+370,Norway,Europe,Injuries,515.0,5234519.0,332641575269.002,13.2,0.0098
+371,Norway,Europe,Noncommunicable diseases,3306.0,5234519.0,332641575269.002,84.6,0.0632
+372,Oman,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",80.0,4398070.0,154943804623.205,5.0,0.0018
+373,Oman,Eastern Mediterranean,Injuries,553.0,4398070.0,154943804623.205,34.5,0.0126
+374,Oman,Eastern Mediterranean,Noncommunicable diseases,969.0,4398070.0,154943804623.205,60.5,0.0220
+375,Pakistan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",117630.0,213524840.0,1013542107027.34,35.5,0.0551
+376,Pakistan,Eastern Mediterranean,Injuries,62399.0,213524840.0,1013542107027.34,18.8,0.0292
+377,Pakistan,Eastern Mediterranean,Noncommunicable diseases,151153.0,213524840.0,1013542107027.34,45.6,0.0708
+378,Palau,Western Pacific,"Infectious, parasitic, neonatal and nutritional",2.0,17816.0,327187254.866649,13.3,0.0112
+379,Palau,Western Pacific,Injuries,5.0,17816.0,327187254.866649,33.3,0.0281
+380,Palau,Western Pacific,Noncommunicable diseases,8.0,17816.0,327187254.866649,53.3,0.0449
+381,Panama,Americas,"Infectious, parasitic, neonatal and nutritional",433.0,4026336.0,122729854564.379,15.9,0.0108
+382,Panama,Americas,Injuries,718.0,4026336.0,122729854564.379,26.3,0.0178
+383,Panama,Americas,Noncommunicable diseases,1578.0,4026336.0,122729854564.379,57.8,0.0392
+384,Papua New Guinea,Western Pacific,"Infectious, parasitic, neonatal and nutritional",4495.0,8899169.0,34924111919.2525,43.4,0.0505
+385,Papua New Guinea,Western Pacific,Injuries,2615.0,8899169.0,34924111919.2525,25.2,0.0294
+386,Papua New Guinea,Western Pacific,Noncommunicable diseases,3247.0,8899169.0,34924111919.2525,31.4,0.0365
+387,Paraguay,Americas,"Infectious, parasitic, neonatal and nutritional",544.0,6266615.0,82492091751.5538,8.6,0.0087
+388,Paraguay,Americas,Injuries,1460.0,6266615.0,82492091751.5538,23.0,0.0233
+389,Paraguay,Americas,Noncommunicable diseases,4333.0,6266615.0,82492091751.5538,68.4,0.0691
+390,Peru,Americas,"Infectious, parasitic, neonatal and nutritional",1800.0,31132779.0,383596875076.523,8.5,0.0058
+391,Peru,Americas,Injuries,5296.0,31132779.0,383596875076.523,25.1,0.0170
+392,Peru,Americas,Noncommunicable diseases,14027.0,31132779.0,383596875076.523,66.4,0.0451
+393,Philippines,Western Pacific,"Infectious, parasitic, neonatal and nutritional",22391.0,104875266.0,798735245433.432,18.1,0.0214
+394,Philippines,Western Pacific,Injuries,16177.0,104875266.0,798735245433.432,13.1,0.0154
+395,Philippines,Western Pacific,Noncommunicable diseases,84891.0,104875266.0,798735245433.432,68.8,0.0809
+396,Poland,Europe,"Infectious, parasitic, neonatal and nutritional",292.0,37970087.0,1082037503386.78,0.5,0.0008
+397,Poland,Europe,Injuries,5300.0,37970087.0,1082037503386.78,8.9,0.0140
+398,Poland,Europe,Noncommunicable diseases,53628.0,37970087.0,1082037503386.78,90.6,0.1412
+399,Portugal,Europe,"Infectious, parasitic, neonatal and nutritional",172.0,10325452.0,328840222198.501,1.6,0.0017
+400,Portugal,Europe,Injuries,834.0,10325452.0,328840222198.501,7.8,0.0081
+401,Portugal,Europe,Noncommunicable diseases,9683.0,10325452.0,328840222198.501,90.6,0.0938
+402,Qatar,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",22.0,2595166.0,253763429745.086,4.0,0.0008
+403,Qatar,Eastern Mediterranean,Injuries,202.0,2595166.0,253763429745.086,36.5,0.0078
+404,Qatar,Eastern Mediterranean,Noncommunicable diseases,330.0,2595166.0,253763429745.086,59.6,0.0127
+405,Romania,Europe,"Infectious, parasitic, neonatal and nutritional",750.0,19702267.0,487802773897.5,1.6,0.0038
+406,Romania,Europe,Injuries,3245.0,19702267.0,487802773897.5,6.9,0.0165
+407,Romania,Europe,Noncommunicable diseases,43330.0,19702267.0,487802773897.5,91.6,0.2199
+408,Russian Federation,Europe,"Infectious, parasitic, neonatal and nutritional",5005.0,144342397.0,3738837933428.46,1.4,0.0035
+409,Russian Federation,Europe,Injuries,48344.0,144342397.0,3738837933428.46,13.8,0.0335
+410,Russian Federation,Europe,Noncommunicable diseases,296462.0,144342397.0,3738837933428.46,84.7,0.2054
+411,Rwanda,Africa,"Infectious, parasitic, neonatal and nutritional",9148.0,11930899.0,22769046384.4796,48.7,0.0767
+412,Rwanda,Africa,Injuries,4042.0,11930899.0,22769046384.4796,21.5,0.0339
+413,Rwanda,Africa,Noncommunicable diseases,5586.0,11930899.0,22769046384.4796,29.8,0.0468
+414,Samoa,Western Pacific,"Infectious, parasitic, neonatal and nutritional",21.0,205544.0,1277419516.04634,13.6,0.0102
+415,Samoa,Western Pacific,Injuries,34.0,205544.0,1277419516.04634,22.1,0.0165
+416,Samoa,Western Pacific,Noncommunicable diseases,99.0,205544.0,1277419516.04634,64.3,0.0482
+417,San Marino,Europe,"Infectious, parasitic, neonatal and nutritional",0.0,33834.0,1977005285.03501,0.0,0.0000
+418,San Marino,Europe,Injuries,4.0,33834.0,1977005285.03501,18.2,0.0118
+419,San Marino,Europe,Noncommunicable diseases,18.0,33834.0,1977005285.03501,81.8,0.0532
+420,Sao Tome and Principe,Africa,"Infectious, parasitic, neonatal and nutritional",105.0,204632.0,788259685.008913,45.5,0.0513
+421,Sao Tome and Principe,Africa,Injuries,52.0,204632.0,788259685.008913,22.5,0.0254
+422,Sao Tome and Principe,Africa,Noncommunicable diseases,74.0,204632.0,788259685.008913,32.0,0.0362
+423,Saudi Arabia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",725.0,33416270.0,1627080576754.64,3.9,0.0022
+424,Saudi Arabia,Eastern Mediterranean,Injuries,3425.0,33416270.0,1627080576754.64,18.6,0.0102
+425,Saudi Arabia,Eastern Mediterranean,Noncommunicable diseases,14242.0,33416270.0,1627080576754.64,77.4,0.0426
+426,Senegal,Africa,"Infectious, parasitic, neonatal and nutritional",11730.0,14751356.0,45995086773.7203,56.2,0.0795
+427,Senegal,Africa,Injuries,3697.0,14751356.0,45995086773.7203,17.7,0.0251
+428,Senegal,Africa,Noncommunicable diseases,5442.0,14751356.0,45995086773.7203,26.1,0.0369
+429,Serbia,Europe,"Infectious, parasitic, neonatal and nutritional",139.0,7058322.0,114223779989.505,0.8,0.0020
+430,Serbia,Europe,Injuries,860.0,7058322.0,114223779989.505,4.9,0.0122
+431,Serbia,Europe,Noncommunicable diseases,16520.0,7058322.0,114223779989.505,94.3,0.2340
+432,Seychelles,Africa,"Infectious, parasitic, neonatal and nutritional",13.0,94677.0,2549058184.23737,15.1,0.0137
+433,Seychelles,Africa,Injuries,31.0,94677.0,2549058184.23737,36.0,0.0327
+434,Seychelles,Africa,Noncommunicable diseases,42.0,94677.0,2549058184.23737,48.8,0.0444
+435,Sierra Leone,Africa,"Infectious, parasitic, neonatal and nutritional",15639.0,7493913.0,11791680967.0932,64.2,0.2087
+436,Sierra Leone,Africa,Injuries,3757.0,7493913.0,11791680967.0932,15.4,0.0501
+437,Sierra Leone,Africa,Noncommunicable diseases,4974.0,7493913.0,11791680967.0932,20.4,0.0664
+438,Singapore,Western Pacific,"Infectious, parasitic, neonatal and nutritional",79.0,5607283.0,511780319860.235,2.5,0.0014
+439,Singapore,Western Pacific,Injuries,159.0,5607283.0,511780319860.235,5.1,0.0028
+440,Singapore,Western Pacific,Noncommunicable diseases,2873.0,5607283.0,511780319860.235,92.3,0.0512
+441,Slovak Republic,Europe,"Infectious, parasitic, neonatal and nutritional",49.0,5430798.0,159271814312.37,0.6,0.0009
+442,Slovak Republic,Europe,Injuries,628.0,5430798.0,159271814312.37,7.6,0.0116
+443,Slovak Republic,Europe,Noncommunicable diseases,7558.0,5430798.0,159271814312.37,91.8,0.1392
+444,Slovenia,Europe,"Infectious, parasitic, neonatal and nutritional",12.0,2065042.0,71972995813.7254,0.5,0.0006
+445,Slovenia,Europe,Injuries,356.0,2065042.0,71972995813.7254,14.2,0.0172
+446,Slovenia,Europe,Noncommunicable diseases,2131.0,2065042.0,71972995813.7254,85.3,0.1032
+447,Solomon Islands,Western Pacific,"Infectious, parasitic, neonatal and nutritional",171.0,628102.0,1639214293.52831,27.0,0.0272
+448,Solomon Islands,Western Pacific,Injuries,141.0,628102.0,1639214293.52831,22.2,0.0224
+449,Solomon Islands,Western Pacific,Noncommunicable diseases,322.0,628102.0,1639214293.52831,50.8,0.0513
+450,Somalia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",23833.0,14292847.0,15381938113.3973,69.7,0.1667
+451,Somalia,Eastern Mediterranean,Injuries,5516.0,14292847.0,15381938113.3973,16.1,0.0386
+452,Somalia,Eastern Mediterranean,Noncommunicable diseases,4847.0,14292847.0,15381938113.3973,14.2,0.0339
+453,South Africa,Africa,"Infectious, parasitic, neonatal and nutritional",42071.0,56422274.0,781125531699.056,43.2,0.0746
+454,South Africa,Africa,Injuries,19742.0,56422274.0,781125531699.056,20.3,0.0350
+455,South Africa,Africa,Noncommunicable diseases,35595.0,56422274.0,781125531699.056,36.5,0.0631
+456,Spain,Europe,"Infectious, parasitic, neonatal and nutritional",489.0,46484062.0,1789519475668.72,1.1,0.0011
+457,Spain,Europe,Injuries,3304.0,46484062.0,1789519475668.72,7.6,0.0071
+458,Spain,Europe,Noncommunicable diseases,39831.0,46484062.0,1789519475668.72,91.3,0.0857
+459,Sri Lanka,South-East Asia,"Infectious, parasitic, neonatal and nutritional",1591.0,21425494.0,273621616469.349,4.6,0.0074
+460,Sri Lanka,South-East Asia,Injuries,7050.0,21425494.0,273621616469.349,20.2,0.0329
+461,Sri Lanka,South-East Asia,Noncommunicable diseases,26274.0,21425494.0,273621616469.349,75.3,0.1226
+462,St. Kitts and Nevis,Americas,"Infectious, parasitic, neonatal and nutritional",2.0,47788.0,1401600728.55081,5.3,0.0042
+463,St. Kitts and Nevis,Americas,Injuries,9.0,47788.0,1401600728.55081,23.7,0.0188
+464,St. Kitts and Nevis,Americas,Noncommunicable diseases,27.0,47788.0,1401600728.55081,71.1,0.0565
+465,St. Lucia,Americas,"Infectious, parasitic, neonatal and nutritional",7.0,176413.0,2612761513.3336,3.7,0.0040
+466,St. Lucia,Americas,Injuries,34.0,176413.0,2612761513.3336,17.9,0.0193
+467,St. Lucia,Americas,Noncommunicable diseases,149.0,176413.0,2612761513.3336,78.4,0.0845
+468,St. Vincent and the Grenadines,Americas,"Infectious, parasitic, neonatal and nutritional",7.0,105963.0,1411030517.787,6.5,0.0066
+469,St. Vincent and the Grenadines,Americas,Injuries,20.0,105963.0,1411030517.787,18.7,0.0189
+470,St. Vincent and the Grenadines,Americas,Noncommunicable diseases,80.0,105963.0,1411030517.787,74.8,0.0755
+471,Sudan,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",33809.0,39377169.0,186372835393.388,48.9,0.0859
+472,Sudan,Eastern Mediterranean,Injuries,16457.0,39377169.0,186372835393.388,23.8,0.0418
+473,Sudan,Eastern Mediterranean,Noncommunicable diseases,18851.0,39377169.0,186372835393.388,27.3,0.0479
+474,Suriname,Americas,"Infectious, parasitic, neonatal and nutritional",43.0,581453.0,10270019508.2888,11.3,0.0074
+475,Suriname,Americas,Injuries,113.0,581453.0,10270019508.2888,29.7,0.0194
+476,Suriname,Americas,Noncommunicable diseases,225.0,581453.0,10270019508.2888,59.1,0.0387
+477,Sweden,Europe,"Infectious, parasitic, neonatal and nutritional",236.0,9923085.0,509395932462.041,2.7,0.0024
+478,Sweden,Europe,Injuries,965.0,9923085.0,509395932462.041,11.1,0.0097
+479,Sweden,Europe,Noncommunicable diseases,7473.0,9923085.0,509395932462.041,86.2,0.0753
+480,Switzerland,Europe,"Infectious, parasitic, neonatal and nutritional",79.0,8373338.0,568611561634.219,1.1,0.0009
+481,Switzerland,Europe,Injuries,760.0,8373338.0,568611561634.219,10.5,0.0091
+482,Switzerland,Europe,Noncommunicable diseases,6387.0,8373338.0,568611561634.219,88.4,0.0763
+483,Tajikistan,Europe,"Infectious, parasitic, neonatal and nutritional",2499.0,8725318.0,26971914352.3995,22.4,0.0286
+484,Tajikistan,Europe,Injuries,1504.0,8725318.0,26971914352.3995,13.5,0.0172
+485,Tajikistan,Europe,Noncommunicable diseases,7132.0,8725318.0,26971914352.3995,64.1,0.0817
+486,Tanzania,Africa,"Infectious, parasitic, neonatal and nutritional",48814.0,54401802.0,125651735505.658,54.1,0.0897
+487,Tanzania,Africa,Injuries,21216.0,54401802.0,125651735505.658,23.5,0.0390
+488,Tanzania,Africa,Noncommunicable diseases,20180.0,54401802.0,125651735505.658,22.4,0.0371
+489,Thailand,South-East Asia,"Infectious, parasitic, neonatal and nutritional",5659.0,70607037.0,1157483380202.26,6.0,0.0080
+490,Thailand,South-East Asia,Injuries,21924.0,70607037.0,1157483380202.26,23.4,0.0311
+491,Thailand,South-East Asia,Noncommunicable diseases,66240.0,70607037.0,1157483380202.26,70.6,0.0938
+492,Timor-Leste,South-East Asia,"Infectious, parasitic, neonatal and nutritional",692.0,1224562.0,4024883799.45172,42.2,0.0565
+493,Timor-Leste,South-East Asia,Injuries,296.0,1224562.0,4024883799.45172,18.1,0.0242
+494,Timor-Leste,South-East Asia,Noncommunicable diseases,651.0,1224562.0,4024883799.45172,39.7,0.0532
+495,Togo,Africa,"Infectious, parasitic, neonatal and nutritional",9134.0,7661354.0,14845731642.3475,59.1,0.1192
+496,Togo,Africa,Injuries,2487.0,7661354.0,14845731642.3475,16.1,0.0325
+497,Togo,Africa,Noncommunicable diseases,3826.0,7661354.0,14845731642.3475,24.8,0.0499
+498,Tonga,Western Pacific,"Infectious, parasitic, neonatal and nutritional",10.0,105707.0,638381325.354874,10.9,0.0095
+499,Tonga,Western Pacific,Injuries,19.0,105707.0,638381325.354874,20.7,0.0180
+500,Tonga,Western Pacific,Noncommunicable diseases,63.0,105707.0,638381325.354874,68.5,0.0596
+501,Trinidad and Tobago,Americas,"Infectious, parasitic, neonatal and nutritional",47.0,1469330.0,40674647471.0488,3.6,0.0032
+502,Trinidad and Tobago,Americas,Injuries,286.0,1469330.0,40674647471.0488,21.7,0.0195
+503,Trinidad and Tobago,Americas,Noncommunicable diseases,986.0,1469330.0,40674647471.0488,74.8,0.0671
+504,Tunisia,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",450.0,11685667.0,125637256161.771,4.1,0.0039
+505,Tunisia,Eastern Mediterranean,Injuries,1766.0,11685667.0,125637256161.771,16.1,0.0151
+506,Tunisia,Eastern Mediterranean,Noncommunicable diseases,8736.0,11685667.0,125637256161.771,79.8,0.0748
+507,Turkiye,Europe,"Infectious, parasitic, neonatal and nutritional",2248.0,81019394.0,2106258451913.1,3.0,0.0028
+508,Turkiye,Europe,Injuries,7343.0,81019394.0,2106258451913.1,9.7,0.0091
+509,Turkiye,Europe,Noncommunicable diseases,65929.0,81019394.0,2106258451913.1,87.3,0.0814
+510,Turkmenistan,Europe,"Infectious, parasitic, neonatal and nutritional",956.0,5868561.0,76796067930.5985,8.4,0.0163
+511,Turkmenistan,Europe,Injuries,1528.0,5868561.0,76796067930.5985,13.4,0.0260
+512,Turkmenistan,Europe,Noncommunicable diseases,8931.0,5868561.0,76796067930.5985,78.2,0.1522
+513,Tuvalu,Western Pacific,"Infectious, parasitic, neonatal and nutritional",2.0,10852.0,44775454.7790815,18.2,0.0184
+514,Tuvalu,Western Pacific,Injuries,3.0,10852.0,44775454.7790815,27.3,0.0276
+515,Tuvalu,Western Pacific,Noncommunicable diseases,6.0,10852.0,44775454.7790815,54.5,0.0553
+516,Uganda,Africa,"Infectious, parasitic, neonatal and nutritional",44407.0,38748299.0,82813146623.4566,54.0,0.1146
+517,Uganda,Africa,Injuries,20469.0,38748299.0,82813146623.4566,24.9,0.0528
+518,Uganda,Africa,Noncommunicable diseases,17422.0,38748299.0,82813146623.4566,21.2,0.0450
+519,Ukraine,Europe,"Infectious, parasitic, neonatal and nutritional",1966.0,45004673.0,492283780388.951,1.5,0.0044
+520,Ukraine,Europe,Injuries,12228.0,45004673.0,492283780388.951,9.0,0.0272
+521,Ukraine,Europe,Noncommunicable diseases,121104.0,45004673.0,492283780388.951,89.5,0.2691
+522,United Arab Emirates,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",82.0,8994263.0,640792542144.529,3.8,0.0009
+523,United Arab Emirates,Eastern Mediterranean,Injuries,753.0,8994263.0,640792542144.529,35.2,0.0084
+524,United Arab Emirates,Eastern Mediterranean,Noncommunicable diseases,1303.0,8994263.0,640792542144.529,60.9,0.0145
+525,United Kingdom,Europe,"Infectious, parasitic, neonatal and nutritional",683.0,65611593.0,2972935520334.54,1.1,0.0010
+526,United Kingdom,Europe,Injuries,4714.0,65611593.0,2972935520334.54,7.3,0.0072
+527,United Kingdom,Europe,Noncommunicable diseases,59412.0,65611593.0,2972935520334.54,91.7,0.0906
+528,United States,Americas,"Infectious, parasitic, neonatal and nutritional",5726.0,323071755.0,19050245063231.6,2.0,0.0018
+529,United States,Americas,Injuries,40732.0,323071755.0,19050245063231.6,14.4,0.0126
+530,United States,Americas,Noncommunicable diseases,236052.0,323071755.0,19050245063231.6,83.6,0.0731
+531,Uruguay,Americas,"Infectious, parasitic, neonatal and nutritional",59.0,3413766.0,78658307185.6021,1.9,0.0017
+532,Uruguay,Americas,Injuries,472.0,3413766.0,78658307185.6021,15.1,0.0138
+533,Uruguay,Americas,Noncommunicable diseases,2588.0,3413766.0,78658307185.6021,83.0,0.0758
+534,Uzbekistan,Europe,"Infectious, parasitic, neonatal and nutritional",3399.0,31847900.0,212232800909.881,7.8,0.0107
+535,Uzbekistan,Europe,Injuries,4398.0,31847900.0,212232800909.881,10.1,0.0138
+536,Uzbekistan,Europe,Noncommunicable diseases,35865.0,31847900.0,212232800909.881,82.1,0.1126
+537,Vanuatu,Western Pacific,"Infectious, parasitic, neonatal and nutritional",42.0,283218.0,827508733.221128,17.4,0.0148
+538,Vanuatu,Western Pacific,Injuries,45.0,283218.0,827508733.221128,18.7,0.0159
+539,Vanuatu,Western Pacific,Noncommunicable diseases,154.0,283218.0,827508733.221128,63.9,0.0544
+540,Vietnam,Western Pacific,"Infectious, parasitic, neonatal and nutritional",10706.0,93126529.0,795831620448.521,8.3,0.0115
+541,Vietnam,Western Pacific,Injuries,23578.0,93126529.0,795831620448.521,18.2,0.0253
+542,Vietnam,Western Pacific,Noncommunicable diseases,94987.0,93126529.0,795831620448.521,73.5,0.1020
+543,Zambia,Africa,"Infectious, parasitic, neonatal and nutritional",19892.0,16767761.0,56746599390.2726,59.9,0.1186
+544,Zambia,Africa,Injuries,7156.0,16767761.0,56746599390.2726,21.5,0.0427
+545,Zambia,Africa,Noncommunicable diseases,6188.0,16767761.0,56746599390.2726,18.6,0.0369
+546,Zimbabwe,Africa,"Infectious, parasitic, neonatal and nutritional",13869.0,14452704.0,33047893313.2792,52.5,0.0960
+547,Zimbabwe,Africa,Injuries,4759.0,14452704.0,33047893313.2792,18.0,0.0329
+548,Zimbabwe,Africa,Noncommunicable diseases,7767.0,14452704.0,33047893313.2792,29.4,0.0537

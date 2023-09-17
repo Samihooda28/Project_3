@@ -1,19 +1,19 @@
-Continent,Indicator,Continent_Deaths,Continent_Population,Continent_GDP,Indicator_Deaths_per_Total_Deaths,Indicator_Deaths_per_Total_Population
-Africa,"Infectious, parasitic, neonatal and nutritional",1243369.0,1008393910.0,4199395043117.239,58.1,0.1233
-Africa,Injuries,401916.0,1008393910.0,4199395043117.239,18.8,0.0399
-Africa,Noncommunicable diseases,493771.0,1008393910.0,4199395043117.239,23.1,0.0490
-Americas,"Infectious, parasitic, neonatal and nutritional",55990.0,940782490.0,29927783778121.035,6.9,0.0060
-Americas,Injuries,168342.0,940782490.0,29927783778121.035,20.8,0.0179
-Americas,Noncommunicable diseases,583723.0,940782490.0,29927783778121.035,72.2,0.0620
-Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",228895.0,648802445.0,7695549029294.733,28.4,0.0353
-Eastern Mediterranean,Injuries,156712.0,648802445.0,7695549029294.733,19.4,0.0242
-Eastern Mediterranean,Noncommunicable diseases,420439.0,648802445.0,7695549029294.733,52.2,0.0648
-Europe,"Infectious, parasitic, neonatal and nutritional",26966.0,919065862.0,30479550915209.79,1.9,0.0029
-Europe,Injuries,145268.0,919065862.0,30479550915209.79,10.3,0.0158
-Europe,Noncommunicable diseases,1243420.0,919065862.0,30479550915209.79,87.8,0.1353
-South-East Asia,"Infectious, parasitic, neonatal and nutritional",800176.0,1934485731.0,12993103282657.637,21.3,0.0414
-South-East Asia,Injuries,633772.0,1934485731.0,12993103282657.639,16.9,0.0328
-South-East Asia,Noncommunicable diseases,2316851.0,1934485731.0,12993103282657.637,61.8,0.1198
-Western Pacific,"Infectious, parasitic, neonatal and nutritional",111051.0,1867452785.0,30276939615532.11,3.2,0.0059
-Western Pacific,Injuries,406750.0,1867452785.0,30276939615532.105,11.6,0.0218
-Western Pacific,Noncommunicable diseases,2992059.0,1867452785.0,30276939615532.11,85.2,0.1602
+,Continent,Indicator,Continent_Deaths,Continent_Population,Continent_GDP,Indicator_Deaths_per_Total_Deaths,Indicator_Deaths_per_Total_Population
+0,Africa,"Infectious, parasitic, neonatal and nutritional",1243369.0,1008393910.0,4199395043117.239,58.1,0.1233
+1,Africa,Injuries,401916.0,1008393910.0,4199395043117.239,18.8,0.0399
+2,Africa,Noncommunicable diseases,493771.0,1008393910.0,4199395043117.239,23.1,0.0490
+3,Americas,"Infectious, parasitic, neonatal and nutritional",55990.0,940782490.0,29927783778121.035,6.9,0.0060
+4,Americas,Injuries,168342.0,940782490.0,29927783778121.035,20.8,0.0179
+5,Americas,Noncommunicable diseases,583723.0,940782490.0,29927783778121.035,72.2,0.0620
+6,Eastern Mediterranean,"Infectious, parasitic, neonatal and nutritional",228895.0,648802445.0,7695549029294.733,28.4,0.0353
+7,Eastern Mediterranean,Injuries,156712.0,648802445.0,7695549029294.733,19.4,0.0242
+8,Eastern Mediterranean,Noncommunicable diseases,420439.0,648802445.0,7695549029294.733,52.2,0.0648
+9,Europe,"Infectious, parasitic, neonatal and nutritional",26966.0,919065862.0,30479550915209.79,1.9,0.0029
+10,Europe,Injuries,145268.0,919065862.0,30479550915209.79,10.3,0.0158
+11,Europe,Noncommunicable diseases,1243420.0,919065862.0,30479550915209.79,87.8,0.1353
+12,South-East Asia,"Infectious, parasitic, neonatal and nutritional",800176.0,1934485731.0,12993103282657.637,21.3,0.0414
+13,South-East Asia,Injuries,633772.0,1934485731.0,12993103282657.639,16.9,0.0328
+14,South-East Asia,Noncommunicable diseases,2316851.0,1934485731.0,12993103282657.637,61.8,0.1198
+15,Western Pacific,"Infectious, parasitic, neonatal and nutritional",111051.0,1867452785.0,30276939615532.11,3.2,0.0059
+16,Western Pacific,Injuries,406750.0,1867452785.0,30276939615532.105,11.6,0.0218
+17,Western Pacific,Noncommunicable diseases,2992059.0,1867452785.0,30276939615532.11,85.2,0.1602

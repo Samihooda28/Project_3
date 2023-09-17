@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Project 3</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Deaths Attributable to the Environment</h1>
+        <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="row">
+        <div class="well">
+          <h5>Continent: </h5>
+          <select id="selContinent" onchange="continentChanged(this.value)"></select>
+          <div id="continent-bubble"></div>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="continent-bar"></div>
+      </div>
+      <div class="col-md-5">
+        <div id="continent-line"></div>
+      </div>
+    </div>
+    <div class="row">
+        <div class="row">
+          <div class="well">
+            <h5>Country: </h5>
+            <select id="selCountry" onchange="countryChanged(this.value)"></select>
+            <div id="country-bubble"></div>
+          </div>
+        </div>
+      </div>
+    <div class="row">
+      <div id="well">
+        <h5>Global Map</h5>
+        <select id="selIndicator" onchange="indicatorChanged(this.value)"></select>
+        <div id="map"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="./static/js/script.js"></script>
+
+</body>
+
+</html>

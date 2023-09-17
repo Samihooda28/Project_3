@@ -125,9 +125,10 @@ def get_merged_data():
                         MergedData.No_Deaths,
                         MergedData.Population_2016,
                         MergedData.GDP_2016,
+                        MergedData.Total_Deaths_Attributible
                         ]
     merged_results = session.query(*merged_sel).all()
-    # print(merged_results)
+    #print(merged_results)
 
     merged_data_list = []
 
@@ -144,6 +145,7 @@ def get_merged_data():
         merged_data['No_Deaths'] = result[6]
         merged_data['Population_2016'] = result[7]
         merged_data['GDP_2016'] = result[8]
+        merged_data['Total_Deaths_Attributible'] = result[9]
         merged_data_list.append(merged_data)
 
     session.close()  # Close the session
