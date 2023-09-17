@@ -80,7 +80,6 @@ def get_global_data():
 
     session = Session(engine)  # Create a session
     global_sel = [
-                        Global.index,
                         Global.Indicator,
                         Global.Global_Deaths,
                         Global.Global_Population,
@@ -96,13 +95,12 @@ def get_global_data():
     for result in global_results:
 
         global_data = {}
-        global_data['index']= result[0]
-        global_data['Indicator'] = result[1]
-        global_data['Global_Deaths'] = result[2]
-        global_data['Global_Population'] = result[3]
-        global_data['Global_GDP'] = result[4]
-        global_data['Indicator_Deaths_per_Total_Deaths'] = result[5]
-        global_data['Indicator_Deaths_per_Total_Population'] = result[6]
+        global_data['Indicator'] = result[0]
+        global_data['Global_Deaths'] = result[1]
+        global_data['Global_Population'] = result[2]
+        global_data['Global_GDP'] = result[3]
+        global_data['Indicator_Deaths_per_Total_Deaths'] = result[4]
+        global_data['Indicator_Deaths_per_Total_Population'] = result[5]
         global_data_list.append(global_data)
 
     session.close()  # Close the session
