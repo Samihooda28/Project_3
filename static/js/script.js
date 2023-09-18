@@ -74,7 +74,7 @@ function create_country_dropdowns(json_data) {
         }
     }
 
-    //countryChanged("Afghanistan");
+    countryChanged("Afghanistan");
 }
 
 function continentChanged(continent_name) {
@@ -179,3 +179,31 @@ function country_divisor(continent_name) {
         return 100
     }
 }
+
+function countryChanged(country_name) {
+    d3.json(country).then(function(data) {
+        let indicators = [];
+        let deaths = [];
+
+        for(let i = 0; i < data.length; i++) {
+            if(data[i].Country == country_name) {
+                indicators.push(data[i].Indicator);
+                deaths.push(data[i].Indicator_Deaths_per_Total_Deaths);
+            }
+        }
+
+        let country_bubble = [{
+            x: indicators,
+            y: deaths,
+            text: indicators, 
+            mode: 'markers',
+            marker: {
+                size: deaths,
+                color: indicators,
+                colorscale: 'Earth'
+            }
+        }];
+
+        Plotly.newPlot('country-bubble', country_bubble, {responsive: true});
+    });
+};
