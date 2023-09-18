@@ -63,30 +63,38 @@ function create_indicator_dropdowns(json_data) {
     //indicatorChanged("Infectious, parasitic, neonatal and nutritional");
 }
 
-function create_country_dropdowns(json_data) {
+function create_country_dropdowns(continent_name, json_data) {
     let country_dropdown_menu = d3.select("#selCountry");
+
+    let options = country_dropdown_menu.selectAll("option");
+    console.log(options);
+    options.remove();
+
     let holding_list = [];
+    let name = ""
     for(let i = 0; i < json_data.length; i++) {
-        let name = json_data[i].Country;
-        if(holding_list.includes(name) == false) {
-            country_dropdown_menu.append("option").text(name).property("value", name);
-            holding_list.push(name);
+        name = json_data[i].Country;
+        if(json_data[i].Continent == continent_name) {
+            if(holding_list.includes(name) == false) {
+                country_dropdown_menu.append("option").text(name).property("value", name);
+                holding_list.push(name);
+            }
         }
     }
 
-    countryChanged("Afghanistan");
+    countryChanged(name);
 }
 
 function continentChanged(continent_name) {
     d3.json(country).then(function(data) {
-        create_country_dropdowns(data);
+        create_country_dropdowns(continent_name, data);
     })
 
     d3.json(merged).then(function(data) {
         let countries_list = [];
         let deaths = [];
         let marker_sizes = [];
-        let GDP = [];
+        let GDP_data = [];
 
         for(let i = 0; i < data.length; i++) {
             let name = data[i].Country;
@@ -95,10 +103,16 @@ function continentChanged(continent_name) {
                     countries_list.push(name);
                     deaths.push(data[i].Total_Deaths_Attributible);
                     marker_sizes.push(data[i].Total_Deaths_Attributible/country_divisor(continent_name));
-                    GDP.push(data[i].GDP_2016);
+                    let holding_dict = {};
+                    holding_dict['GDP'] = data[i].GDP_2016;
+                    holding_dict['deaths'] = data[i].Total_Deaths_Attributible;
+                    holding_dict['country'] = data[i].Country;
+                    GDP_data.push(holding_dict);
                 }
             }
         }
+
+        
 
         let country_bubble = [{
             x: countries_list,
@@ -108,24 +122,79 @@ function continentChanged(continent_name) {
             marker: {
               size: marker_sizes,
               color: deaths,
-              colorscale: 'Earth'
+              colorscale: 'Earth',
+              line: {
+                color: 'black'
+              }
             }
           }];
 
         Plotly.newPlot('continent-bubble', country_bubble, {responsive: true});
 
-        let trace1 = {
-            x: GDP,
-            y: deaths,
-            type: 'scatter'
-        };
+        let sorted_gdp = GDP_data.sort((a,b) => a.GDP - b.GDP);
+        let GDP = [];
+        let gdp_deaths = [];
+        let gdp_deaths_data = [];
+        let gdp_countries = [];
 
-        let line_data = [trace1]
+        for(i = 0; i < sorted_gdp.length; i++) {
+            let holding_dict = {}
+            GDP.push(sorted_gdp[i].GDP);
+            gdp_deaths.push(sorted_gdp[i].deaths);
+            gdp_countries.push(sorted_gdp[i].country);
+            holding_dict['x'] = sorted_gdp[i].GDP;
+            holding_dict['y'] = sorted_gdp[i].deaths;
+            gdp_deaths_data.push(holding_dict);
+        }
 
-        console.log(deaths);
-        console.log(GDP);
+        console.log(gdp_deaths_data);
 
-        Plotly.newPlot('continent-line', line_data, {responsive: true});
+        // let trace1 = {
+        //     x: GDP,
+        //     y: gdp_deaths,
+        //     type: 'scatter'
+        // };
+
+        let line_chart = new Chart('continent-line', {
+            type: 'scatter',
+            data: {
+               datasets: [{ 
+                  data: gdp_deaths_data,
+                  borderColor: 'black',
+                  borderWidth: 1,
+                  pointBackgroundColor: 'black',
+                  pointBorderColor: 'black',
+                  pointRadius: 5,
+                  pointHoverRadius: 5,
+                  fill: false,
+                  tension: 0,
+                  showLine: true
+               }]
+            },
+            options: {
+               legend: false,
+               tooltips: false,
+               scales: {
+                  xAxes: [{
+                     ticks: {
+                        min: 0,
+                        max: Math.ceil(Math.max(...GDP))
+                     },
+                     gridLines: {
+                        color: '#888',
+                        drawOnChartArea: false
+                     }
+                  }],
+                  yAxes: [{
+                     ticks: {
+                        min: 0,
+                        max: Math.ceil(Math.max(...gdp_deaths))
+                     },
+                  }]
+               }
+            }
+         });
+
 
         d3.json(country).then(function(country_data) {
             let holding_country_list = [];
@@ -161,7 +230,7 @@ function continentChanged(continent_name) {
 
 function country_divisor(continent_name) {
     if(continent_name == "Africa") {
-        return 2500
+        return 1500
     }
     else if(continent_name == "Americas") {
         return 1000
@@ -173,7 +242,7 @@ function country_divisor(continent_name) {
         return 1000
     }
     else if(continent_name == "South-East Asia") {
-        return 500
+        return 1000
     }
     else {
         return 100
