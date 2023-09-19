@@ -3,7 +3,7 @@ const continent = "http://127.0.0.1:5000/api/v1.0/Continent";
 const global = "http://127.0.0.1:5000/api/v1.0/Global";
 const merged = "http://127.0.0.1:5000/api/v1.0/MergedData";
 const country = "http://127.0.0.1:5000/api/v1.0/Country";
-//const geolocation = "";
+const geolocation = "http://127.0.0.1:5000/api/v1.0/Geolocations";
 
 //data promises 
 const continentPromise = d3.json(continent);
@@ -50,24 +50,27 @@ function create_continent_dropdowns(json_data) {
 };
 
 function create_indicator_dropdowns(json_data) {
-    let country_dropdown_menu = d3.select("#selIndicator");
+    let indicator_dropdown_menu = d3.select("#selIndicator");
+
+    let options = indicator_dropdown_menu.selectAll("option");
+    options.remove();
+
     let holding_list = [];
     for(let i = 0; i < json_data.length; i++) {
         let name = json_data[i].Indicator;
         if(holding_list.includes(name) == false) {
-            country_dropdown_menu.append("option").text(name).property("value", name);
+            indicator_dropdown_menu.append("option").text(name).property("value", name);
             holding_list.push(name);
         }
     }
 
-    //indicatorChanged("Infectious, parasitic, neonatal and nutritional");
+    indicatorChanged("Infectious, parasitic, neonatal and nutritional");
 }
 
 function create_country_dropdowns(continent_name, json_data) {
     let country_dropdown_menu = d3.select("#selCountry");
 
     let options = country_dropdown_menu.selectAll("option");
-    console.log(options);
     options.remove();
 
     let holding_list = [];
@@ -148,12 +151,6 @@ function continentChanged(continent_name) {
         }
 
         console.log(gdp_deaths_data);
-
-        // let trace1 = {
-        //     x: GDP,
-        //     y: gdp_deaths,
-        //     type: 'scatter'
-        // };
 
         let line_chart = new Chart('continent-line', {
             type: 'scatter',
@@ -261,18 +258,103 @@ function countryChanged(country_name) {
             }
         }
 
-        let country_bubble = [{
-            x: indicators,
-            y: deaths,
-            text: indicators, 
-            mode: 'markers',
-            marker: {
-                size: deaths,
-                color: indicators,
-                colorscale: 'Earth'
-            }
+        let country_pie = [{
+            type: 'pie',
+            values: deaths,
+            labels: indicators
         }];
 
-        Plotly.newPlot('country-bubble', country_bubble, {responsive: true});
+        Plotly.newPlot('country-bubble', country_pie, {responsive: true});
+
+        // let country_bubble = [{
+        //     x: indicators,
+        //     y: deaths,
+        //     text: indicators, 
+        //     mode: 'markers',
+        //     marker: {
+        //         size: deaths,
+        //         color: indicators,
+        //         colorscale: 'Earth'
+        //     }
+        // }];
+
+        // Plotly.newPlot('country-bubble', country_bubble, {responsive: true});
     });
 };
+
+let indicator_map = L.map("map", {
+    center: [0,0],
+    zoom: 2
+});
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(indicator_map);
+
+function indicatorChanged(indicator_name) {
+
+    if(typeof markers !== 'undefined') {
+        indicator_map.removeLayer(markers);
+    }
+    
+    let indicator_data_list = [];
+
+    d3.json(merged).then(function(merged_data) {
+            
+            for(let i = 0; i < merged_data.length; i++) {
+                holding_dict = {};
+                if(merged_data[i].Indicator == indicator_name) {
+                    holding_dict['country_code'] = merged_data[i].Country_Code;
+                    holding_dict['country'] = merged_data[i].Country;
+                    holding_dict['deaths'] = merged_data[i].No_Deaths;
+                    indicator_data_list.push(holding_dict);
+                }
+            }
+        
+
+        d3.json(geolocation).then(function(location_data) {
+
+                for(let i = 0; i < indicator_data_list.length; i++) {
+
+                    for(let j = 0; j < location_data.length; j++) {
+
+                        if(indicator_data_list[i].country_code == location_data[j].Alpha_Three_Code) {
+                            indicator_data_list[i]['Latitude'] = location_data[j].Latitude;
+                            indicator_data_list[i]['Longitude'] = location_data[j].Longitude;
+                        }
+
+                    }
+
+                }
+
+            
+
+            let indicator_markers = [];
+            console.log(indicator_data_list);
+
+            for(let i = 0; i < indicator_data_list.length; i++) {
+
+                indicator_markers.push(
+                    L.circle([indicator_data_list[i].Latitude, indicator_data_list[i].Longitude], {
+                    stroke: true,
+                    weight: 1,
+                    fillOpacity: 1,
+                    color: "black",
+                    radius: indicator_data_list[i].deaths
+                    }).bindPopup(`<p>Country: ${indicator_data_list[i].country}</p>
+                    <p>Deaths Attributable to this Indicator: ${indicator_data_list[i].deaths}</p>`)
+                );
+
+            };
+
+            let markers = L.layerGroup(indicator_markers);
+
+            let overlayMaps = {
+                "Markers" : markers
+            };
+
+            markers.addTo(indicator_map);
+        });
+
+    });
+}
