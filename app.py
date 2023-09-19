@@ -22,6 +22,7 @@ Continent = Base.classes.dae_Continent_table
 Global = Base.classes.dae_Global_table
 MergedData = Base.classes.dae_MergedData_table
 Country = Base.classes.dae_country_table
+Location = Base.classes.dae_Country_Locations
 print('assigned')
 
 # Create the app
@@ -36,6 +37,7 @@ def home():
         f"/api/v1.0/Global<br/>"
         f"/api/v1.0/MergedData<br/>"
         f"/api/v1.0/Country<br/>"
+        f"/api/v1.0/Geolocations<br/>"
     )
 
 @app.route('/api/v1.0/Continent')
@@ -188,6 +190,38 @@ def get_country_data():
     session.close()  # Close the session
 
     response = jsonify(country_data_list)
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
+
+@app.route('/api/v1.0/Geolocations')
+def get_location_data():
+    session = Session(engine)  # Create a session
+
+    locations_sel = [
+                        Location.index,
+                        Location.Country,
+                        Location.Alpha_Three_Code,
+                        Location.Latitude,
+                        Location.Longitude
+                        ]
+    locations_results = session.query(*locations_sel).all()
+
+    locations_data_list = []
+
+    for result in locations_results:
+
+        location_data = {}
+
+        location_data['index']= result[0]
+        location_data['Country'] = result[1]
+        location_data['Alpha_Three_Code'] = result[2]
+        location_data['Latitude'] = result[3]
+        location_data['Longitude'] = result[4]
+        locations_data_list.append(location_data)
+
+    session.close()  # Close the session
+
+    response = jsonify(locations_data_list)
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
