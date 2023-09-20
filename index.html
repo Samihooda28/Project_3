@@ -14,7 +14,7 @@
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
-  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
 </head>
 
 <body>
@@ -26,7 +26,6 @@
         <p>Use the interactive charts below to explore the dataset</p>
       </div>
     </div>
-    <div class="row">
       <div class="row">
         <div class="well">
           <h5>Continent: </h5>
@@ -34,26 +33,25 @@
           <div id="continent-bubble"></div>
         </div>
       </div>
-      <div class="col-md-5">
+      <div class="row">
         <div id="continent-bar"></div>
       </div>
-      <div class="col-md-5">
+      <div class="row">
+        <h3>Deaths Attributable to the Enrivonment vs GDP</h3>
         <canvas id="continent-line"></canvas>
       </div>
-    </div>
     <div class="row">
         <div class="row">
           <div class="well">
             <h5>Country: </h5>
             <select id="selCountry" onchange="countryChanged(this.value)"></select>
-            <div id="country-bubble"></div>
+            <div id="country-pie"></div>
           </div>
         </div>
       </div>
     <div class="row">
       <div id="well">
-        <h5>Global Map</h5>
-        <select id="selIndicator" onchange="indicatorChanged(this.value)"></select>
+        <h5>Deaths attributable to each indicator, per Country</h5>
         <div id="map"></div>
       </div>
     </div>
