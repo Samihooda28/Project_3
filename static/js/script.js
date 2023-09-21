@@ -194,7 +194,7 @@ function continentChanged(continent_name) {
                     },
                     scaleLabel: {
                         display: true,
-                        labelString: 'Gross Domestic Product'
+                        labelString: 'Gross Domestic Product (Trillions of Dollars)'
                     }
                     }],
                     yAxes: [{
@@ -236,7 +236,7 @@ function continentChanged(continent_name) {
 
         let bar_layout = {
             title: {
-                text: 'Deaths Attributable to the Evironmnet as a Percentage of Total Deaths, per Country'
+                text: 'Deaths Attributable to the Evironmnet as a Percentage of Population, per Country'
             },
             xaxis: {
                 title: {
@@ -247,7 +247,7 @@ function continentChanged(continent_name) {
             },
             yaxis: {
                title: {
-                    text: 'Deaths Attributable as a Percentage of Total Deaths',
+                    text: 'Deaths Attributable as a Percentage of Population',
                     automargin: true
                 },
                 automargin: true
@@ -261,7 +261,7 @@ function continentChanged(continent_name) {
 
 function country_divisor(continent_name) {
     if(continent_name == "Africa") {
-        return 1500
+        return 1000
     }
     else if(continent_name == "Americas") {
         return 1000
