@@ -31,10 +31,10 @@ Datasources:
 - World Bank - GDP data - https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.KD
 
 **Visualisations**
-- Represent each death category as a percentage of population by country / continent (bar chart)
+- Deaths as a percentage of population by country / continent (bar chart)
 - Bubble chart showing total deaths by category (marker size = total deaths)
+- Pie chart = indicator deaths as % of total deaths
 - Map with markers showing name of country, and key:value = category:total deaths
-- Pie chart total deaths per country - top 10
 
 **References**
  
