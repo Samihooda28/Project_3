@@ -23,8 +23,8 @@ To view the interactive dashboard, run the python "app.py" file from the termina
 
 **Tools used** 
 - Data cleaning - jupyter, pandas, python
-- Database - sqlite
-- Api - python flask
+- Database - sqlite, sqlalchemy
+- Api - python flask, sqlalchemy
 - Dashboard - javascript, html, chart.js, plotly, leaflet
 
 **Links to datasets** 
