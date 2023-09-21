@@ -5,6 +5,11 @@
 
 
 
+This project undertakes an analysis of the World Health Organisation's data (first reported in 2012 and updated in 2016) relating to deaths attributable to the environment as categorised under 3 broad headings:
+- non-communicable diseases
+- injuries
+- Infectious, parasitic, neonatal and nutritional
+
 **How to use the dashboard**
 
 Analysis of the data is included in the google slides file named "   ".
