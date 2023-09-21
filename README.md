@@ -1,7 +1,7 @@
 # Project_3
 
-**Tools:** 
-- Data clean - jupyter, pandas, python - Mireille 
+**Tools used: ** 
+- Data cleaning - jupyter, pandas, python
 - Database - sqlPostGres - export .sqlite
 - Api - Python Flask
 - Dashboard - javascript, html
@@ -14,10 +14,11 @@
 **Week 2**
 - Dashboard & Presentation 
 
-**Notes on dataset** 
+**Links to datasets** 
 Datasources:
-- WHO - Death attributable to the environment
-- World Bank - World Population data
+- WHO - Death attributable to the environment - https://www.who.int/data/gho/data/themes/topics/indicator-groups/indicator-group-details/GHO/deaths-attributable-to-the-environment
+- World Bank - World Population data - https://data.worldbank.org/indicator/SP.POP.TOTL?most_recent_year_desc=true
+- World Bank - GDP data - https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.KD
 
 **Visualisations**
 - Represent each death category as a percentage of population by country / continent (bar chart)
