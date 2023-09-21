@@ -1,5 +1,8 @@
 # Project_3 - Dashboard & analysis: Deaths Attributable to the Environment #
 
+<img width="751" alt="image" src="https://github.com/Samihooda28/Project_3/assets/130148039/3dda5b31-6290-4036-8d0d-6b128548e1df">
+
+
 **How to use the dashboard**
 
 
