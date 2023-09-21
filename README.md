@@ -5,6 +5,11 @@
 
 
 
+**Students**
+Evangeline Allan, Evie Keo, Mireille Walton, Sameer Hooda
+
+**Introduction**
+
 This project undertakes an analysis of the World Health Organisation's data (first reported in 2012 and updated in 2016) relating to deaths attributable to the environment as categorised under 3 broad headings:
 - non-communicable diseases
 - injuries
