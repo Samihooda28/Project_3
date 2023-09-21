@@ -10,9 +10,9 @@ This project undertakes an analysis of the World Health Organisation's data (fir
 - injuries
 - Infectious, parasitic, neonatal and nutritional
 
-**How to use the dashboard**
+Deaths are considered in the context of population as well as GDP.  
 
-Analysis of the data is included in the google slides file named "   ".
+Analysis of the data is included in the google slides file named "Project_3".
 
 To view the interactive dashboard, run the python "app.py" file from the terminal/console.
 
