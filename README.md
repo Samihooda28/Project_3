@@ -6,6 +6,7 @@
 
 
 **How to use the dashboard**
+
 Analysis of the data is included in the google slides file named "   ".
 
 To view the interactive dashboard, run the python "app.py" file from the terminal/console.
