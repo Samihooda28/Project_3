@@ -1,5 +1,10 @@
 # Project_3
 
+**How to use the dashboard**
+
+
+
+
 **Tools used: ** 
 - Data cleaning - jupyter, pandas, python
 - Database - sqlPostGres - export .sqlite
