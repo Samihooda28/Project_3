@@ -1,4 +1,4 @@
-# Project_3
+# Project_3 - Dashboard & analysis: Deaths Attributable to the Environment
 
 **How to use the dashboard**
 
