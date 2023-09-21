@@ -11,16 +11,18 @@ console.log("Continent Promise: ", continentPromise);
 const globalPromise = d3.json(global);
 console.log("Global Promise: ", globalPromise);
 const mergedPromise = d3.json(merged);
-console.log("Data Promise: ", mergedPromise);
+console.log("Merged Promise: ", mergedPromise);
 const countryPromise = d3.json(country);
-console.log("Data Promise: ", countryPromise);
+console.log("Country Promise: ", countryPromise);
 const geolocationPromise = d3.json(geolocation);
-console.log("Data Promise: ", geolocationPromise);
+console.log("Geolocation Promise: ", geolocationPromise);
+
+//initialise line chart
+var line_chart;
 
 //load data for continent and country dropdowns
 d3.json(continent).then(function(data) {
     const continent_data = data;
-    console.log(continent_data);
 
     //populate the continent dropdown
     create_continent_dropdowns(continent_data);
@@ -29,6 +31,7 @@ d3.json(continent).then(function(data) {
     global_map();
 });
 
+//creates the continent drop down options
 function create_continent_dropdowns(json_data) {
     let continent_dropdown_menu = d3.select("#selContinent");
     let holding_list = [];
@@ -39,12 +42,15 @@ function create_continent_dropdowns(json_data) {
             holding_list.push(name);
         }
     }
+    //calls the continent changed functions so the graphs initialise on first load
     continentChanged("Africa");
 };
 
+//creates the country name drop down options
 function create_country_dropdowns(continent_name, json_data) {
     let country_dropdown_menu = d3.select("#selCountry");
 
+    //removes any options already there
     let options = country_dropdown_menu.selectAll("option");
     options.remove();
 
@@ -60,16 +66,19 @@ function create_country_dropdowns(continent_name, json_data) {
         }
     }
 
+    //calls country changed function so the graphs initialise
     countryChanged(name);
 }
 
-
+//runs when a new continent is selected from the drop down
 function continentChanged(continent_name) {
 
+    //creates the country name drop down options
     d3.json(country).then(function(data) {
         create_country_dropdowns(continent_name, data);
     })
 
+    //load merged data
     d3.json(merged).then(function(data) {
         let countries_list = [];
         let deaths = [];
@@ -77,6 +86,7 @@ function continentChanged(continent_name) {
         let marker_sizes = [];
         let GDP_data = [];
 
+        //puts the bits of the merged data we need into arrays so we can easily use them in graphs
         for(let i = 0; i < data.length; i++) {
             let name = data[i].Country;
             if(data[i].Continent == continent_name) {
@@ -94,6 +104,7 @@ function continentChanged(continent_name) {
             }
         }
 
+        //country bubble chart
         let country_bubble = [{
             x: countries_list,
             y: deaths,
@@ -109,6 +120,7 @@ function continentChanged(continent_name) {
             }
         }];
 
+        //add title and axis labels to bubble chart
         let bubble_layout = {
             title: {
                 text: "Total Deaths Attributable to the Environment per Country",
@@ -131,12 +143,14 @@ function continentChanged(continent_name) {
 
         Plotly.newPlot('continent-bubble', country_bubble, bubble_layout, {responsive: true});
 
+        //sorts gdp data in descending order so the line chart makes sense
         let sorted_gdp = GDP_data.sort((a,b) => a.GDP - b.GDP);
         let GDP = [];
         let gdp_deaths = [];
         let gdp_deaths_data = [];
         let gdp_countries = [];
 
+        //puts the now sorted gdp data into the format that chart.js wants
         for(i = 0; i < sorted_gdp.length; i++) {
             let holding_dict = {}
             GDP.push(sorted_gdp[i].GDP);
@@ -147,27 +161,27 @@ function continentChanged(continent_name) {
             gdp_deaths_data.push(holding_dict);
         }
 
-        console.log(gdp_countries);
+        load_line_chart();
 
-        let line_html = document.getElementById('continent-line').getContext('2d');
-        let line_chart = new Chart(line_html, {
-            type: 'scatter',
-            data: {
-               labels: gdp_countries,
-               datasets: [{ 
-                  data: gdp_deaths_data,
-                  borderColor: 'black',
-                  borderWidth: 1,
-                  pointBackgroundColor: 'blue',
-                  pointBorderColor: 'black',
-                  pointRadius: 5,
-                  pointHoverRadius: 5,
-                  fill: false,
-                  tension: 0,
-                  showLine: true,
-               }]
-            },
-            options: {
+        //creates the line chart 
+        function load_line_chart() {
+            var line_data = {
+                labels: gdp_countries,
+                datasets: [{ 
+                data: gdp_deaths_data,
+                borderColor: 'black',
+                borderWidth: 1,
+                pointBackgroundColor: 'blue',
+                pointBorderColor: 'black',
+                pointRadius: 5,
+                pointHoverRadius: 5,
+                fill: false,
+                tension: 0,
+                showLine: true,
+                }]
+            };
+
+            var line_options = {
                 legend: {
                     display: false
                 },
@@ -219,15 +233,35 @@ function continentChanged(continent_name) {
                     }
                 } 
             }
-        });
 
+            var option = {
+                responsive: true
+            };
+
+            //destroys chart that might already be there to prevent mouseover bug
+            if(line_chart) {
+                line_chart.destroy();
+                console.log('chart destroyed');
+            }
+            
+            //creates chart
+            let line_html = document.getElementById('continent-line').getContext('2d');
+            line_chart = new Chart(line_html, {
+                type: 'scatter', 
+                data: line_data,
+                options: line_options
+            });
+            
+
+        }
+
+        //calculates deaths by percentage of population
         let perc_pop = [];
         for(let i = 0; i < deaths.length; i++) {
             perc_pop.push((deaths[i]/countries_pop[i]) * 100);
         }
 
-        console.log(perc_pop);
-
+        //create country bar chart
         let country_bar = [{
             type: 'bar',
             x: countries_list,
@@ -259,6 +293,8 @@ function continentChanged(continent_name) {
     });
 };
 
+//returns a divisor for the bubble chart depending on the continent 
+//was useful for testing but is redundant now, gonna keep it in for simplicity sake
 function country_divisor(continent_name) {
     if(continent_name == "Africa") {
         return 1000
@@ -280,11 +316,14 @@ function country_divisor(continent_name) {
     }
 }
 
+//runs when a new country is selected
 function countryChanged(country_name) {
+    //load data
     d3.json(country).then(function(data) {
         let indicators = [];
         let deaths = [];
 
+        //read data into arrays for ease of use
         for(let i = 0; i < data.length; i++) {
             if(data[i].Country == country_name) {
                 indicators.push(data[i].Indicator);
@@ -292,6 +331,7 @@ function countryChanged(country_name) {
             }
         }
 
+        //create pie chart
         let country_pie = [{
             type: 'pie',
             values: deaths,
@@ -308,6 +348,7 @@ function countryChanged(country_name) {
     });
 };
 
+//creates the global may with layers
 function global_map() {
     d3.json(merged).then(function(merged_data) {
 
@@ -315,6 +356,7 @@ function global_map() {
         injuries_data = [];
         dieseases_data = [];
 
+        //read the data into arrays for use in map
         for(let i = 0; i < merged_data.length; i++) {
             if(merged_data[i].Indicator == "Infectious, parasitic, neonatal and nutritional") {
                 infectious_dict = {};
@@ -339,6 +381,7 @@ function global_map() {
             }
         }
 
+        //add lat long for each country
         d3.json(geolocation).then(function(location_data) {
 
             for(let i = 0; i < infectious_data.length; i++) {
@@ -384,6 +427,7 @@ function global_map() {
             let injury_markers = [];
             let diesease_markers = [];
 
+            //create the marker layers
             for(let i = 0; i < infectious_data.length; i++) {
 
                 infectious_markers.push(
@@ -432,6 +476,7 @@ function global_map() {
 
             };
 
+            //create base map
             let base_map = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             });
@@ -442,20 +487,23 @@ function global_map() {
 
             let base_maps = {
                 "Map": base_map
-            };
+            }; 
 
+            //add overlays
             let overlay_maps = {
                 "Infectious, parasitic, neonatal and nutritional": infectious,
                 "Injuries": injuries,
                 "Noncommunicable diseases": dieseases
             };
 
+            //initialise map
             let indicator_map = L.map("map", {
                 center: [0,0],
                 zoom: 2,
                 layers: [base_map, dieseases, infectious, injuries]
             });
 
+            //add layers 
             L.control.layers(base_maps, overlay_maps, {
                 collapsed: false
             }).addTo(indicator_map);
