@@ -20,15 +20,7 @@ To view the interactive dashboard, run the python "app.py" file from the termina
 - Data cleaning - jupyter, pandas, python
 - Database - sqlPostGres - export .sqlite
 - Api - Python Flask
-- Dashboard - javascript, html
-
-**Week 1**
-- Data clean - jupyter, pandas, python
-- Database - SQLite
-- Api - Python Flask
-
-**Week 2**
-- Dashboard & Presentation 
+- Dashboard - javascript, html, chart.js, plotly, leaflet
 
 **Links to datasets** 
 Datasources:
